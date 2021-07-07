@@ -4,10 +4,9 @@ import operator as op
 from functools import reduce
 import itertools
 import time
-from log_writer import *
+# from log_writer import *
 import pyhash
 from tqdm import tqdm
-from multiprocessing import Pool, process
 import random
 import heapq
 import sys
@@ -16,7 +15,6 @@ from simhash import Simhash
 from bloom_filter import BloomFilter
 from heapq import heapify, heappush, heappop
 from io import StringIO
-# from unidecode import unidecode
 import hashlib
 
 
@@ -42,6 +40,21 @@ class mate_table_extraction:
         self.is_min_join_ratio_absolute = is_min_join_ratio_absolute
         self.original_data = self.input_data.copy()
         self.input_data = self.input_data[self.query_columns]
+
+    def evaluate_rows(self, input_row, col_dict):
+        vals = list(col_dict.values())
+        query_cols_arr = np.array(self.query_columns)
+        query_degree = len(query_cols_arr)
+        matching_column_order = ''
+        for q in query_cols_arr[-(query_degree - 1):]:
+            q_index = list(self.input_data.columns.values).index(q)
+            if input_row[q_index] not in vals:
+                return False, ''
+            else:
+                for colid, val in col_dict.items():
+                    if val == input_row[q_index]:
+                        matching_column_order += '_{}'.format(str(colid))
+        return True, matching_column_order
 
     def XHash(self, token, hash_size=128):
         char = [' ', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i',
@@ -77,6 +90,49 @@ class mate_table_extraction:
 
         return result
 
+    def get_simhash_features(self, s):
+        width = 3
+        s = s.lower()
+        s = re.sub(r'[^\w]+', '', s)
+        return [s[i:i + width] for i in range(max(len(s) - width + 1, 1))]
+
+    def generate_SIM_hash(self, dict, token, hashsize):
+        if token in dict:
+            return dict, dict[token]
+        simh = Simhash(self.get_simhash_features(token), f=hashsize).value
+        dict[token] = simh
+        return dict, simh
+
+    def generate_CITY_hash(self, dict, token, hashsize):
+        if token in dict:
+            return dict, dict[token]
+        if hashsize == 128:
+            hasher = pyhash.city_128()
+        elif hashsize == 256:
+            hasher = pyhash.city_fingerprint_256()
+        cityh = hasher(token)
+        dict[token] = cityh
+        return dict, cityh
+
+    def generate_MURMUR_hash(self, dict, token, hashsize):
+        if token in dict:
+            return dict, dict[token]
+        if hashsize == 128:
+            hasher = pyhash.murmur3_x64_128()
+        murmurh = hasher(token)
+        dict[token] = murmurh
+        return dict, murmurh
+
+    def generate_MD5_hash(self, dict, token, hashsize):
+        if token in dict:
+            return dict, dict[token]
+        if hashsize == 128:
+            hasher = hashlib.md5()
+        hasher.update(token.encode('UTF-8'))
+        md5h = int(hasher.hexdigest(), 16)
+        dict[token] = md5h
+        return dict, md5h
+
     def hash_row_vals(self, hashfunction, row, hash_size):
         hresult = 0
         for q in self.query_columns:
@@ -99,7 +155,154 @@ class mate_table_extraction:
         self.run_system(self.XHash,
                         'superkey_{}'.format(hash_size), hash_size, False, True)
 
-    def run_system(self, hash_function, hash_column_string_name, hash_size=128, run_ICS=False,
+    def SIMHASH(self, hash_size=128):
+        print('Sim Hash')
+        self.run_system(self.generate_SIM_hash, hash_size, False, True)
+
+    def CITYHASH(self, hash_size=128):
+        print('City Hash')
+        self.run_system(self.generate_CITY_hash, hash_size, False, True)
+
+    def MURMURHASH(self, hash_size=128):
+        print('Murmur Hash')
+        self.run_system(self.generate_MURMUR_hash, hash_size, False, True)
+
+    def MD5(self, hash_size=128):
+        print('MD5 Hash')
+        self.run_system(self.generate_MD5_hash, hash_size, False, True)
+
+    def BF(self, hash_size=128):
+        print('BF Hash')
+        self.run_system_BF(hash_size, False, True)
+
+    def DXF(self):
+        print('Linear')
+        self.run_system(False, True)
+
+    def run_DXF_system(self, run_ICS=False, active_pruning=True):
+        print('{} DATASET'.format(self.dataset_name))
+        row_block_size = 100
+        total_match = 0
+        total_approved = 0
+
+        if run_ICS:
+            self.ICS()
+
+        g = self.input_data.groupby([self.query_columns[0]])
+        gd = {}
+        for key, item in g:
+            gd[key] = np.array(g.get_group(key))
+
+        top_joinable_tables = []
+        heapify(top_joinable_tables)
+
+        table_row = self.dbh.get_concatinated_posting_list(self.dataset_name, self.query_columns[0],
+                                                               self.input_data[self.query_columns[0]])
+        table_dictionary = {}
+        for i in table_row:
+            if str(i) == 'None':
+                continue
+            tableid = int(i.split(';')[0].split('_')[0])
+            if tableid in table_dictionary:
+                table_dictionary[tableid] += [i]
+            else:
+                table_dictionary[tableid] = [i]
+        candidate_external_row_ids = []
+        candidate_external_col_ids = []
+        candidate_input_rows = []
+        candidate_table_rows = []
+        candidate_table_ids = []
+
+        overlaps_dict = {}
+        pruned = False
+        for tableid in tqdm(sorted(table_dictionary, key=lambda k: len(table_dictionary[k]), reverse=True)):
+            set_of_rowids = set()
+            hitting_posting_list_concatinated = table_dictionary[tableid]
+            if active_pruning and len(top_joinable_tables) >= self.top_k and top_joinable_tables[0][0] >= len(
+                    hitting_posting_list_concatinated):
+                pruned = True
+            if active_pruning and (
+                    (self.is_min_join_ratio_absolute and len(hitting_posting_list_concatinated) < self.min_join_ratio)
+                    or (not self.is_min_join_ratio_absolute and len(hitting_posting_list_concatinated) < round(
+                    self.min_join_ratio * self.input_size))):
+                pruned = True
+
+            already_checked_hits = 0
+            for hit in sorted(hitting_posting_list_concatinated):
+                if active_pruning and len(top_joinable_tables) >= self.top_k and (
+                        (len(hitting_posting_list_concatinated) - already_checked_hits + len(set_of_rowids)) <
+                        top_joinable_tables[0][0]):
+                    break
+                tablerowid = hit.split(';')[0]
+                rowid = tablerowid.split('_')[1]
+                colid = hit.split(';')[1].split('$')[0].split('_')[0]
+                token = hit.split(';')[1].split('$')[0].split('_')[1]
+
+                relevant_input_rows = gd[token]
+
+                for input_row in relevant_input_rows:
+                    candidate_external_row_ids += [rowid]
+                    set_of_rowids.add(rowid)
+                    candidate_external_col_ids += [colid]
+                    candidate_input_rows += [input_row]
+                    candidate_table_ids += [tableid]
+                    candidate_table_rows += ['{}_{}'.format(tableid, rowid)]
+
+                already_checked_hits += 1
+            if pruned or len(candidate_external_row_ids) >= row_block_size:
+                if len(candidate_external_row_ids) == 0:
+                    break
+                candidate_input_rows = np.array(candidate_input_rows)
+                candidate_table_ids = np.array(candidate_table_ids)
+                pls = self.dbh.get_pl_by_table_and_rows(candidate_table_rows)
+
+                table_row_dict = {}
+                for i in pls:
+                    if i[0] not in table_row_dict:
+                        table_row_dict[str(i[0])] = {}
+                        table_row_dict[str(i[0])][str(i[1])] = str(i[2])
+                    else:
+                        table_row_dict[str(i[0])][str(i[1])] = str(i[2])
+                for i in np.arange(len(candidate_table_rows)):
+                    col_dict = table_row_dict[candidate_table_rows[i]]
+                    match, matched_columns = self.evaluate_rows(candidate_input_rows[i], col_dict)
+                    total_approved += 1
+                    if match:
+                        total_match += 1
+                        complete_matched_columns = '{}{}'.format(str(candidate_external_col_ids[i]), matched_columns)
+                        if candidate_table_ids[i] not in overlaps_dict:
+                            overlaps_dict[candidate_table_ids[i]] = {}
+
+                        if complete_matched_columns in overlaps_dict[candidate_table_ids[i]]:
+                            overlaps_dict[candidate_table_ids[i]][complete_matched_columns] += 1
+                        else:
+                            overlaps_dict[candidate_table_ids[i]][complete_matched_columns] = 1
+                for tbl in set(candidate_table_ids):
+                    if tbl in overlaps_dict and len(overlaps_dict[tbl]) > 0:
+                        join_keys = max(overlaps_dict[tbl], key=overlaps_dict[tbl].get)
+                        joinability_score = overlaps_dict[tbl][join_keys]
+                        if self.top_k <= len(top_joinable_tables):
+                            if top_joinable_tables[0][0] < joinability_score:
+                                popped_table = heappop(top_joinable_tables)
+                                heappush(top_joinable_tables, [joinability_score, tbl, join_keys])
+                        else:
+                            heappush(top_joinable_tables, [joinability_score, tbl, join_keys])
+                candidate_external_row_ids = []
+                candidate_external_col_ids = []
+                candidate_input_rows = []
+                candidate_table_rows = []
+                candidate_table_ids = []
+
+                overlaps_dict = {}
+            if pruned:
+                break
+
+        print('---------------------------------------------')
+        print(top_joinable_tables)
+        print(len(top_joinable_tables))
+        print('FP = {}'.format(total_approved - total_match))
+
+    def run_system(self, hash_function, hash_size=128, run_ICS=False,
                    active_pruning=True):
         print('{} DATASET'.format(self.dataset_name))
         row_block_size = 100
@@ -220,7 +423,153 @@ class mate_table_extraction:
                 candidate_table_ids = []
 
                 overlaps_dict = {}
+            if pruned:
+                break
 
+        print('---------------------------------------------')
+        print(top_joinable_tables)
+        print(len(top_joinable_tables))
+        print('FP = {}'.format(total_approved - total_match))
+
+    def hash_row_vals_bf(self, row, hash_size):
+        bf = BloomFilter(6, hash_size, self.number_of_ones)
+        for q in self.query_columns:
+            bf.add(row[q])
+
+        string_output = ''
+        for i in bf.bit_array:
+            if i:
+                string_output += '1'
+            else:
+                string_output += '0'
+        return string_output
+
+    def run_system_BF(self, hash_size=128, run_ICS=False,
+                      active_pruning=True):
+
+        if len(self.input_data) == 0:
+            return 0
+
+        print('{} DATASET'.format(self.dataset_name))
+        row_block_size = 10
+        total_match = 0
+        total_approved = 0
+
+        if run_ICS:
+            self.ICS()
+
+        self.input_data['SuperKey'] = self.input_data.apply(
+            lambda row: self.hash_row_vals_bf(row, hash_size), axis=1)
+        g = self.input_data.groupby([self.query_columns[0]])
+        gd = {}
+        for key, item in g:
+            gd[key] = np.array(g.get_group(key))
+        super_key_index = list(self.input_data.columns.values).index('SuperKey')
+
+        top_joinable_tables = []  # each item includes: Tableid, joinable_rows
+        heapify(top_joinable_tables)
+
+        table_row = self.dbh.get_concatinated_posting_list(self.dataset_name, self.query_columns[0],
+                                                               self.input_data[self.query_columns[0]])
+
+        table_dictionary = {}
+        for i in table_row:
+            if str(i) == 'None':
+                continue
+            tableid = int(i.split(';')[0].split('_')[0])
+            if tableid in table_dictionary:
+                table_dictionary[tableid] += [i]
+            else:
+                table_dictionary[tableid] = [i]
+        candidate_external_row_ids = []
+        candidate_external_col_ids = []
+        candidate_input_rows = []
+        candidate_table_rows = []
+        candidate_table_ids = []
+
+        overlaps_dict = {}
+        pruned = False
+        for tableid in tqdm(sorted(table_dictionary, key=lambda k: len(table_dictionary[k]), reverse=True)):
+            set_of_rowids = set()
+            hitting_posting_list_concatinated = table_dictionary[tableid]
+            if active_pruning and len(top_joinable_tables) >= self.top_k and top_joinable_tables[0][0] >= len(
+                    hitting_posting_list_concatinated):
+                pruned = True
+            if active_pruning and (
+                    (self.is_min_join_ratio_absolute and len(hitting_posting_list_concatinated) < self.min_join_ratio)
+                    or (not self.is_min_join_ratio_absolute and len(hitting_posting_list_concatinated) < round(
+                    self.min_join_ratio * self.input_size))):
+                pruned = True
+
+            already_checked_hits = 0
+            for hit in sorted(hitting_posting_list_concatinated):
+                if active_pruning and len(top_joinable_tables) >= self.top_k and (
+                        (len(hitting_posting_list_concatinated) - already_checked_hits + len(set_of_rowids)) <
+                        top_joinable_tables[0][0]):
+                    break
+                tablerowid = hit.split(';')[0]
+                rowid = tablerowid.split('_')[1]
+                colid = hit.split(';')[1].split('$')[0].split('_')[0]
+                token = hit.split(';')[1].split('$')[0].split('_')[1]
+                superkey = int(hit.split('$')[1])
+
+                relevant_input_rows = gd[token]
+
+                for input_row in relevant_input_rows:
+                    if (int(input_row[super_key_index], 2) | int(superkey, 2)) == int(superkey, 2):
+                        candidate_external_row_ids += [rowid]
+                        set_of_rowids.add(rowid)
+                        candidate_external_col_ids += [colid]
+                        candidate_input_rows += [input_row]
+                        candidate_table_ids += [tableid]
+                        candidate_table_rows += ['{}_{}'.format(tableid, rowid)]
+
+                already_checked_hits += 1
+            if pruned or len(candidate_external_row_ids) >= row_block_size:
+                if len(candidate_external_row_ids) == 0:
+                    break
+                candidate_input_rows = np.array(candidate_input_rows)
+                candidate_table_ids = np.array(candidate_table_ids)
+                pls = self.dbh.get_pl_by_table_and_rows(candidate_table_rows)
+
+                table_row_dict = {}
+                for i in pls:
+                    if i[0] not in table_row_dict:
+                        table_row_dict[str(i[0])] = {}
+                        table_row_dict[str(i[0])][str(i[1])] = str(i[2])
+                    else:
+                        table_row_dict[str(i[0])][str(i[1])] = str(i[2])
+                for i in np.arange(len(candidate_table_rows)):
+                    col_dict = table_row_dict[candidate_table_rows[i]]
+                    match, matched_columns = self.evaluate_rows(candidate_input_rows[i], col_dict)
+                    total_approved += 1
+                    if match:
+                        total_match += 1
+                        complete_matched_columns = '{}{}'.format(str(candidate_external_col_ids[i]), matched_columns)
+                        if candidate_table_ids[i] not in overlaps_dict:
+                            overlaps_dict[candidate_table_ids[i]] = {}
+
+                        if complete_matched_columns in overlaps_dict[candidate_table_ids[i]]:
+                            overlaps_dict[candidate_table_ids[i]][complete_matched_columns] += 1
+                        else:
+                            overlaps_dict[candidate_table_ids[i]][complete_matched_columns] = 1
+                for tbl in set(candidate_table_ids):
+                    if tbl in overlaps_dict and len(overlaps_dict[tbl]) > 0:
+                        join_keys = max(overlaps_dict[tbl], key=overlaps_dict[tbl].get)
+                        joinability_score = overlaps_dict[tbl][join_keys]
+                        if self.top_k <= len(top_joinable_tables):
+                            if top_joinable_tables[0][0] < joinability_score:
+                                popped_table = heappop(top_joinable_tables)
+                                heappush(top_joinable_tables, [joinability_score, tbl, join_keys])
+                        else:
+                            heappush(top_joinable_tables, [joinability_score, tbl, join_keys])
+                candidate_external_row_ids = []
+                candidate_external_col_ids = []
+                candidate_input_rows = []
+                candidate_table_rows = []
+                candidate_table_ids = []
+
+                overlaps_dict = {}
             if pruned:
                 break
 
