@@ -1,0 +1,17 @@
+0,3
+3dmark 11 physics extreme,high 9705
+3dmark 11 physics performance,high 9669
+cinebench r11.5 rendering multiple cpu,high 7.51 pts
+cinebench r11.5 rendering single cpu,high 1.65 pts
+sysmark 2012 3d modeling,high 254.85
+sysmark 2012 data financial analysis,high 287.80
+sysmark 2012 media creation,high 208.37
+sysmark 2012 office productivity,high 193.01
+sysmark 2012 overall,high 226.98
+sysmark 2012 system management,high 199.65
+sysmark 2012 web development,high 238.45
+zip compression 7 zip timed compress 128mb lower better,high 18.34 s
+zip compression 7 zip timed compress 16mb lower better,high 2.04 s
+zip compression 7 zip timed compress 256mb lower better,high 36.25 s
+zip compression 7 zip timed compress 32mb lower better,high 4.79 s
+zip compression 7 zip timed compress 64mb lower better,high 9.31 s

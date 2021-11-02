@@ -1,0 +1,28 @@
+3,0
+guide meant get you started using mechanize end,1c07f21f aaronp 2006 09 06 adding guide
+first thing first make sure you've required mechanize you,1c07f21f aaronp 2006 09 06 adding guide
+now we'll use agent we've created fetch page let's fetch google,1c07f21f aaronp 2006 09 06 adding guide
+what just happened we told mechanize go pick up google's main page,1c07f21f aaronp 2006 09 06 adding guide
+mechanize returns page object whenever you get page post submit,1c07f21f aaronp 2006 09 06 adding guide
+we can list links mechanize gives few shortcuts help us find,1c07f21f aaronp 2006 09 06 adding guide
+mechanize gives us shortcut instead we can say,1c07f21f aaronp 2006 09 06 adding guide
+shortcut says find all links name news you're probably,1c07f21f aaronp 2006 09 06 adding guide
+we can even find link certain href like so,1c07f21f aaronp 2006 09 06 adding guide
+chain them together find link certain text certain href,1c07f21f aaronp 2006 09 06 adding guide
+lets continue our google example here's code we have so far,1c07f21f aaronp 2006 09 06 adding guide
+now we know name form lets fetch off page,1c07f21f aaronp 2006 09 06 adding guide
+google_form page.form f,1c07f21f aaronp 2006 09 06 adding guide
+mechanize lets you access form input fields few different ways,1c07f21f aaronp 2006 09 06 adding guide
+make sure we set value lets pretty print form you should,1c07f21f aaronp 2006 09 06 adding guide
+you saw value q changed you're right track now we,1c07f21f aaronp 2006 09 06 adding guide
+what we just did equivalent putting text search field,1c07f21f aaronp 2006 09 06 adding guide
+section i want touch using different types input fields,1c07f21f aaronp 2006 09 06 adding guide
+radio buttons very similar checkboxes know how uncheck,1c07f21f aaronp 2006 09 06 adding guide
+mechanize also makes file uploads easy just find file upload field,1c07f21f aaronp 2006 09 06 adding guide
+de select other options unless multi select,30eb1618 drbrain 2012 02 13 document mechanize page search accepts xpath css expressi
+mechanize uses nokogiri http nokogiri.org parse html what does,30eb1618 drbrain 2012 02 13 document mechanize page search accepts xpath css expressi
+require rubygems,3f88eb71 drbrain 2011 04 01 clean up rdoc files
+require rubygems,3f88eb71 drbrain 2011 04 01 clean up rdoc files
+require rubygems,3f88eb71 drbrain 2011 04 01 clean up rdoc files
+agent.get http someurl.com search p class posted,c1666826 tenderlove 2008 11 19 nokogiri may dropped html replacement
+getting started mechanize,d554726e tenderlove 2010 02 06 removing references www constant

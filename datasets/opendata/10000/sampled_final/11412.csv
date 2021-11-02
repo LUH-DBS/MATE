@@ -1,0 +1,6563 @@
+2,3
+de 05334 1008,aachen hbf
+de 08136 1000,aalen hbf
+de 05774 7131,altenbeken
+de 07331 55,alzey
+de 09561 11000,ansbach
+de 09661 99082,aschaffenburg hbf
+de 01057 3365,ascheberg holst
+de 05382 59901,au sieg
+de 09761 100,augsburg hbf
+de 08436 1000,aulendorf
+de 06432 8563,babenhausen hess
+de 08119 7600,backnang
+de 08125 519,bad friedrichshall hbf
+de 03153 4946,bad harzburg
+de 06632 202026,bad hersfeld
+de 07133 8178,bad kreuznach
+de 03257 505,bad nenndorf
+de 01062 37979,bad oldesloe
+de 09461 20010,bamberg
+ch 23005 6,basel bad bf
+de 09376 7410,schwandorf
+de 09462 22000,bayreuth hbf
+de 06632 202110,bebra
+de 05362 89101,bedburg erft
+de 06431 236,bensheim
+de 09662 28058,schweinfurt hbf
+de 05954 8174,schwelm
+de 07132 90171,betzdorf sieg
+de 05711 5500,bielefeld hbf
+de 05978 63583,schwerte ruhr
+de 08118 1400,bietigheim bissingen
+de 07339 8183,bingen rhein hbf
+de 05554 60834,bocholt
+de 05911 5194,bochum hbf
+de 08225 8203,seckach
+de 03153 5780,seesen
+de 05314 61101,bonn hbf
+de 07140 10154,boppard hbf
+de 05970 10097,siegen
+de 05512 3335,bottrop hbf
+de 05711 5059,brackwede
+de 03101 178,braunschweig hbf
+de 04011 13927,bremen hbf
+de 04012 14418,bremerhaven hbf
+de 08215 1551,bretten
+de 05958 60005,brilon wald
+de 08215 1856,bruchsal
+de 03353 8000056,buchholz nordheide
+de 09777 1000,buchloe
+de 01053 8000058,bchen
+de 05758 1120,bnde westf
+de 06535 11187,burg u nieder gemnden
+de 05566 16548,steinfurt burgsteinfurt
+de 08235 9030,calw
+de 03351 50,celle
+de 06534 11080,clbe
+de 05558 16602,coesfeld westf
+de 08127 21001,crailsheim
+de 06411 4734,darmstadt hbf
+de 08437 42111,sigmaringen
+de 03401 19646,delmenhorst
+de 03254 21906,derneburg han
+de 09277 80490,simbach inn
+de 08335 6588,singen hohentwiel
+de 06532 11005,dillenburg
+de 10044 8000075,dillingen saar
+de 05974 11246,soest
+de 08326 6537,donaueschingen
+de 09779 5500,donauwrth
+de 05913 131,dortmund hbf
+de 05913 196,dortmund dorstfeld
+de 05111 18488,dsseldorf flughafen
+de 05558 15351,dlmen
+de 05358 2286,dren
+de 05111 18235,dsseldorf hbf
+de 05112 16032,duisburg hbf
+de 05122 13800,solingen hbf
+de 03358 85426,soltau han
+de 03359 8000089,stade
+de 06636 206285,eichenberg
+de 09575 14350,steinach b rothenburg ob der tauber
+de 01056 97960,elmshorn
+de 03254 21616,elze han
+de 07138 10110,engers
+de 09263 2600,straubing
+de 08111 6115,stuttgart hbf
+de 05113 9289,essen hbf
+de 05113 9582,essen steele
+de 05366 72101,euskirchen
+de 08237 7965,eutingen im gu
+de 05966 11047,finnentrop
+de 01001 27253,flensburg
+de 06635 205326,frankenberg eder
+de 06412 10,frankfurt main hbf
+de 06412 1008,frankfurt hchst
+de 08311 6508,freiburg breisgau hbf
+de 09172 42293,freilassing
+de 08237 1050,freudenstadt hbf
+de 06440 6401,friedberg hess
+de 08435 44002,friedrichshafen stadt
+de 05978 32759,frndenberg
+de 09563 2110,frth bay hbf
+de 06631 11049,fulda
+de 09189 41179,traunstein
+de 06435 11058,gelnhausen
+de 05513 5613,gelsenkirchen hbf
+de 09181 502,geltendorf
+de 09677 28001,gemnden main
+de 07339 8190,gensingen horrweiler
+de 09577 16200,treuchtlingen
+de 07233 30303,gerolstein
+de 06531 11016,gieen
+de 05562 3202,gladbeck west
+de 06433 6802,riedstadt goddelau
+de 08117 154,gppingen
+de 03152 33817,gttingen
+de 06634 204662,treysa
+de 03153 5982,goslar
+de 08215 32585,graben neudorf
+de 06434 6308,grvenwiesbach
+de 05162 20001,grevenbroich
+de 07211 1318,trier hbf
+de 05382 54701,troisdorf
+de 06433 4802,gro gerau
+de 07332 1009,grnstadt
+de 05158 13970,gruiten
+de 09774 2600,gnzburg
+de 06633 203095,baunatal guntershausen
+de 08416 11000,tbingen hbf
+de 05914 2007,hagen hbf
+de 08336 6700,weil am rhein gartenstadt
+de 09778 3200,trkheim bay bf
+de 05562 3527,haltern am see
+de 08336 6706,weil am rhein pfdlistrae
+de 02000 8000147,hamburg harburg
+de 03252 8000,hameln
+de 05915 7756,hamm westf
+de 06435 4503,hanau hbf
+de 03241 31,hannover hbf
+de 10046 8000154,trkismhle
+de 01051 39654,heide holst
+de 08221 1160,heidelberg hbf
+de 08121 26,heilbronn hbf
+de 06435 4544,nidderau
+de 03154 3261,helmstedt
+de 08437 44001,herbertingen
+de 06532 11007,herborn dillkr
+de 05758 1380,herford
+de 08327 1748,tuttlingen
+de 05916 7501,herne
+de 05562 3217,hervest dorsten
+de 03156 41699,herzberg harz
+de 03459 41892,hesepe
+de 03360 92160,uelzen
+de 03254 9922,hildesheim hbf
+de 08421 1008,ulm hbf
+de 05978 11218,unna
+de 06437 11220,hchst odenw
+de 09479 9579,wunsiedel holenbrunn
+de 05166 22005,viersen
+de 10041 8000175,vlklingen
+de 10045 8000176,homburg saar hbf
+de 08237 5001,horb
+de 05362 87303,horrem
+de 08119 7604,waiblingen
+de 01054 44660,husum
+de 08327 1242,immendingen
+de 09161 9000,ingolstadt hbf
+de 03151 858,gifhorn
+de 05962 505,iserlohn
+de 06534 11200,wallau lahn
+de 05358 4188,jlich
+de 07312 9035,kaiserslautern hbf
+de 05166 23754,kaldenkirchen
+de 08212 90,karlsruhe hbf
+de 05916 7590,wanne eickel hbf
+de 06611 11373,kassel hbf
+de 09762 950,kaufbeuren
+de 09181 503,kaufering
+de 05762 8130,warburg westf
+de 09763 99,kempten allgu hbf
+de 05113 9383,kettwig
+de 01002 49079,kiel hbf
+de 09472 22900,kirchenlaibach
+de 08436 1159,kilegg
+de 09363 2,weiden oberpf
+de 05154 35739,kleve
+de 07111 10117,koblenz hbf
+de 05315 11201,kln hbf
+de 05315 14201,kln ehrenfeld
+de 05315 19201,kln mlheim
+de 06635 205466,korbach
+de 05114 21002,krefeld hbf
+de 05114 21590,krefeld oppum
+de 03155 3532,kreiensen
+de 05970 10191,kreuztal
+de 05766 2200,lage lippe
+de 07313 8304,landau pfalz hbf
+de 09261 64,landshut bay hbf
+de 06533 11118,weilburg
+de 09190 41571,weilheim oberbay
+de 08128 13805,lauda
+de 06535 11203,lauterbach hess nord
+de 03457 54173,leer ostfriesl
+de 03241 9808,lehrte
+de 05962 1001,letmathe
+de 09478 27000,lichtenfels
+de 06533 11025,limburg lahn
+de 09776 1546,lindau hbf
+de 08128 13412,wertheim
+de 05758 1741,lhne westf
+de 06531 11085,lollar
+de 08118 7402,ludwigsburg
+de 07314 2080,ludwigshafen rh hbf
+de 01003 57819,lbeck hbf
+de 03355 8000238,lneburg
+de 05978 16135,lnen hbf
+de 07315 9037,mainz hbf
+de 06433 6999,mainz bischofsheim
+de 05170 36918,wesel
+de 06634 204401,malsfeld
+de 08222 2417,mannheim hbf
+de 07143 4602,westerburg
+de 09479 7597,marktredwitz
+de 07137 11109,mayen ost
+de 09764 3100,memmingen
+de 06414 6907,wiesbaden hbf
+de 05954 5469,witten hbf
+de 05770 4213,minden westf
+de 05116 23007,mnchengladbach hbf
+de 07334 1731,wrth rhein
+de 03158 458,wolfenbttel
+de 09186 8181,rohrbach ilm
+de 07319 4415,worms hbf
+de 09183 6530,mhldorf oberbay
+de 05117 15225,mlheim ruhr hbf
+de 09663 177,wrzburg hbf
+de 09162 100,mnchen hbf
+de 09162 5,mnchen ost
+de 05515 41000,mnster westf hbf
+de 08225 9180,mosbach neckarelz
+de 08226 2986,neckargemnd
+de 05124 11376,wuppertal hbf
+de 09477 3524,neuenmarkt wirsberg
+de 03241 9884,wunstorf
+de 09371 19000,neukirchen b sulzb
+de 01004 66023,neumnster
+de 10043 8000272,neunkirchen saar hbf
+de 14523 433,muldenberg floplatz
+de 05162 20055,neuss hbf
+de 07316 3144,neustadt weinstr hbf
+de 07138 10107,neuwied
+de 06440 11145,nidda
+de 07141 11092,niederlahnstein
+de 03256 67639,nienburg weser
+de 09779 6514,nrdlingen
+de 03254 9926,nordstemmen
+de 03155 68704,northeim han
+de 09564 510,nrnberg hbf
+de 06438 4646,rdermark ober roden
+de 05119 14022,oberhausen hbf
+de 09475 8815,oberkotzau
+de 06414 11131,wiesbaden biebrich
+de 14524 1033,zwickau zentrum
+de 08317 14506,offenburg
+de 03403 16750,oldenburg oldb
+de 14524 1171,zwickau stadthalle
+de 03404 71612,osnabrck hbf
+de 08225 8200,osterburken
+de 05774 7000,paderborn hbf
+de 09262 156,passau hbf
+de 08231 50,pforzheim hbf
+de 09271 4445,plattling
+de 08116 7802,plochingen
+de 03459 75000,quakenbrck
+de 08216 1844,rastatt
+de 05562 3581,recklinghausen hbf
+de 07314 2059,ludwigshafen rhein basf mitte
+de 09362 11090,regensburg hbf
+de 07131 80107,remagen
+de 05120 12106,remscheid lennep
+de 01058 76697,rendsburg
+de 08115 7302,renningen
+de 08415 22006,reutlingen hbf
+de 05754 6516,rheda wiedenbrck
+de 05566 60846,rheine
+de 05112 16450,rheinhausen
+de 05116 23023,rheydt hbf
+de 10045 8000319,rohrbach saar
+de 09163 9,rosenheim
+de 03357 78914,rotenburg wmme
+de 08325 6584,rottweil
+de 10041 8000323,saarbrcken hbf
+de 03102 3284,salzgitter ringelheim
+de 07338 3430,schifferstadt
+de 07331 3935,wahlheim
+de 09472 23790,schnabelwaid
+de 08136 3077,schwbisch gmnd
+de 08127 20015,schwbisch hall hessental
+de 07137 10113,andernach
+de 07311 771,frankenthal hbf
+de 08317 18620,hausach
+de 01059 47298,jbek
+de 03256 54304,leese stolzenau
+de 08436 1190,leutkirch
+de 06534 10011,marburg lahn
+de 09778 2700,mindelheim
+de 08236 3090,mhlacker
+de 07331 5255,freimersheim rheinh
+de 03241 5804,weetzen
+de 14523 779,schneck vogtl ferienpark
+de 03151 1005,wittingen
+de 05554 60831,borken westf
+de 06440 6504,glauburg stockheim
+de 05334 5766,stolberg rheinl hbf
+de 06413 2501,offenbach main hbf
+de 06535 11190,alsfeld oberhess
+de 07131 80107,altenkirchen westerwald
+de 03155 4766,bad gandersheim
+de 08417 32109,balingen wrtt
+de 03251 7512,bassum
+de 05362 88101,bergheim erft
+de 08326 8324,villingen schwenningen eisstadion
+de 10045 8000357,bierbach
+de 05911 5455,bochum langendreer
+de 07339 4849,bodenheim
+de 06431 416,brstadt
+de 06432 8456,dieburg
+de 05374 48501,dieringhausen
+de 03153 5838,vienenburg
+de 09571 12430,dombhl
+de 08326 6592,villingen schwarzw
+de 05112 16056,duisburg meiderich sd
+de 06634 204729,wabern bz kassel
+de 08226 534,eberbach
+de 07211 2106,ehrang
+de 10045 8000371,eind saar
+de 07335 8170,enkenbach
+de 08125 5404,eppingen
+de 07332 840,freinsheim
+de 07339 8191,gau algesheim
+de 07334 32637,germersheim bahnhof
+de 08226 4109,weinheim bergstr
+de 10043 8000378,wemmetsweiler rathaus
+de 07231 40916,wittlich hbf
+de 08136 1512,goldshfe
+de 08212 1521,grtzingen
+de 05554 16870,gronau westf
+de 06532 11014,wetzlar
+de 06432 11219,gro umstadt wiebelsbach
+de 09577 16100,gunzenhausen
+de 06532 11003,haiger
+de 09776 1860,hergatz
+de 05158 18969,hilden
+de 08235 9070,hochdorf b horb
+de 05162 23655,hochneukirch
+de 03255 43630,holzminden
+de 05978 11179,holzwickede
+de 08326 6768,villingen schwenningen hammerstatt
+de 06531 11141,hungen
+de 07235 10502,karthaus
+de 05334 1086,aachen west
+de 05334 1646,aachen rothe erde
+de 05166 21005,kempen niederrhein
+de 09273 2222,abensberg
+de 08317 33013,achern
+de 03361 647,achim
+de 03459 682,achmer
+de 01058 722,achterwehr
+de 03152 761,adelebsen
+de 09176 9001,adelschlag
+de 09575 14680,adelsdorf mittelfr
+de 08225 6777,adelsheim nord
+de 08225 6398,adelsheim ost
+de 07132 90473,kirchen
+de 05162 20626,kaarster see
+de 08125 2032,affaltrach
+de 05162 20624,kaarst mitte holzbttgen
+de 09182 90189,agatharied
+de 03359 8000434,agathenburg
+de 06534 11077,kirchhain bz kassel
+de 08315 6535,aha
+de 05554 16386,ahaus
+de 05162 20623,kaarst ikea
+de 03354 82158,schnega
+de 05570 14679,ahlen westf
+de 03458 1252,ahlhorn
+de 03241 9108,ahlten
+de 03360 85477,soltendieck
+de 01062 8000446,ahrensburg
+de 07131 80021,ahrweiler
+de 07131 80023,ahrweiler markt
+de 09274 10540,aich niederbay
+de 09771 2300,aichach
+de 08311 6707,freiburg messe universitt
+de 08436 1228,aichstetten
+de 08327 1773,tuttlingen nord
+de 06633 209641,ahnatal casselbreite
+de 09172 90022,ainring
+de 05515 46350,mnster albachten
+de 08337 6576,albbruck
+de 01051 1627,albersdorf
+de 07337 8053,albersweiler pfalz
+de 07331 8013,albig
+de 06532 11123,albshausen
+de 08417 32110,albstadt ebingen
+de 08417 32115,albstadt laufen ort
+de 08417 32116,albstadt lautlingen
+de 05154 36113,aldekerk
+de 09675 27258,kitzingen
+de 01062 8000480,ahrensburg gartenholz
+de 08327 2006,aldingen b spaichingen
+de 09774 2933,aletshausen
+de 03254 22801,alfeld leine
+de 03254 9918,algermissen
+de 03241 9810,aligse
+de 07336 8548,altenglan
+de 06532 11026,allendorf dillkr
+de 05382 53801,alfter impekoven
+de 08335 6549,allensbach
+de 09576 8350,allersberg rothsee
+de 08425 3005,allmendingen
+de 05170 36653,alpen
+de 08237 3801,alpirsbach
+de 05334 1986,alsdorf annapark
+de 06431 270,biblis
+de 09574 7310,altdorf west
+de 07333 8174,alsenz
+de 07331 15,alsheim
+de 05334 1924,alsdorf busch
+de 08116 1800,altbach
+de 09574 7300,altdorf b nrnberg
+de 05334 1916,alsdorf poststrae
+de 09563 2314,alte veste
+de 02000 70951,hamburg alte whr
+de 05962 2403,altena westf
+de 07131 80291,altenahr
+de 09180 90009,altenau bay
+de 07133 8176,altenbamberg
+de 05566 62012,altenberge
+de 06634 209652,felsberg altenbrunslar
+de 05334 1900,alsdorf kellersberg
+de 03458 44501,hude
+de 09177 3280,altenerding
+de 06631 11071,altenfeld rhn
+de 01060 37985,altengrs
+de 05334 2012,alsdorf mariadorf
+de 06633 201485,altenhasungen
+de 05966 10238,lennestadt altenhundem
+de 09189 90003,altenmarkt alz
+de 09577 16650,muhr see
+de 05970 10101,altenseelbach
+de 06440 6501,altenstadt hess
+de 09775 4401,altenstadt iller
+de 09374 11154,altenstadt waldnaab
+de 08315 6536,altglashtten falkau
+de 09179 6530,althegnenberg
+de 06432 11260,altheim hess
+de 07336 8034,lauterecken grumbach
+de 06634 204476,altmorschen
+de 09171 10001,alttting
+de 09174 6950,altomnster
+de 07331 4755,alzey sd
+de 08436 8246,altshausen
+de 09780 897,altstdten allgu
+de 08436 32000,alttann
+de 10044 8000563,lebach
+de 09361 19500,amberg
+de 05515 47600,mnster amelsbren
+de 05974 11593,lippstadt
+de 09676 2010,amorbach
+de 09183 80492,ampfing
+de 08425 2551,amstetten wrtt
+de 03241 3411,hannover anderten misburg
+de 05111 18372,angermund
+de 06535 11179,angersbach
+de 07337 8054,annweiler am trifels
+de 05166 21676,anrath
+de 07133 8180,langenlonsheim
+de 03361 53589,langwedel
+de 09573 5550,anwanden
+de 06534 11078,anzefahr
+de 09277 80000,anzenkirchen
+de 05558 17104,nottuln appelhlsen
+de 08317 14120,appenweier
+de 05978 32834,ardey
+de 06533 11114,arfurt lahn
+de 05366 73301,bad mnstereifel arloff
+de 07331 8001,armsheim
+de 09174 6910,arnbach
+de 05958 60854,arnsberg westf
+de 09372 1009,arnschwang
+de 06635 205902,bad arolsen
+de 05370 6208,arsbeck
+de 09479 9590,arzberg oberfr
+de 06414 6903,mainz kastel
+de 09661 99084,aschaffenburg hochschule
+de 09661 1080,aschaffenburg sd
+de 09187 40709,aschau chiemgau
+de 05558 16014,ascheberg westf
+de 03454 7918,aschendorf
+de 07332 1003,asselheim
+de 03353 57499,ashausen
+de 08118 7400,asperg
+de 08222 2331,neu edingen friedrichsfeld
+de 06440 11162,assenheim oberhess
+de 06532 11013,alar
+de 09175 4202,aling oberbay
+de 06439 11035,assmannshausen
+de 05966 10250,attendorn
+de 09676 1254,miltenberg
+de 08216 32830,au im murgtal
+de 05170 36308,moers
+de 05970 10252,aue wingeshausen
+de 08225 8206,auerbach b mosbach baden
+de 07333 5566,kirchheimbolanden
+de 09177 3270,aufhausen b erding
+de 08136 4244,aufhausen wrtt
+de 08315 6642,auggen
+de 09761 111,augsburg haunstetterstrae
+de 09761 600,augsburg messe
+de 09761 120,augsburg morellstr
+de 09761 200,augsburg hochzoll
+de 09761 400,augsburg oberhausen
+de 07331 2862,monsheim
+de 03451 3761,augustfehn
+de 07143 3700,montabaur
+de 06533 11115,aumenau
+de 01053 25953,aumhle
+de 06414 11129,auringen medenbach
+de 09276 80503,auenried
+de 07232 20130,auw der kyll
+de 09184 2260,aying
+de 05370 3896,hckelhoven baal
+de 09186 9024,baar ebenhausen
+de 08125 6232,babstadt
+de 07339 32623,bacharach
+de 09174 6870,bachern
+de 08315 6659,bachheim
+de 05117 15012,mlheim ruhr styrum
+de 09274 3500,neufahrn niederbay
+de 09273 80493,bad abbach
+de 09187 40851,bad aibling
+de 07337 4561,bad bergzabern
+de 07131 80342,bad breisig
+de 09187 90019,bad aibling kurpark
+de 05762 7177,bad driburg westf
+de 07332 116,bad drkheim
+de 07141 11015,bad ems
+de 07141 11016,bad ems west
+de 08125 1120,bad friedrichshall kochendorf
+de 08125 4595,bad wimpfen im tal
+de 08317 14460,bad griesbach schwarzwald
+de 07332 144,bad drkheim trift
+de 09275 4038,bad hhenstadt
+de 07138 10105,bad hnningen
+de 06434 4399,bad homburg
+de 05382 56101,bad honnef rhein
+de 09672 27061,bad kissingen
+de 06437 11221,bad knig
+de 09180 10097,bad kohlgrub
+de 09180 10098,bad kohlgrub kurhaus
+de 08315 6501,bad krozingen
+de 09183 6050,neumarkt st veit
+de 08235 4150,bad liebenzell
+de 08128 12005,bad mergentheim
+de 03252 1030,bad mnder deister
+de 07133 8177,bad mnster stein
+de 05366 73101,bad mnstereifel
+de 06440 11135,bad nauheim
+de 07131 80041,bad neuenahr
+de 09673 27001,bad neustadt saale
+de 08416 2505,bad niedernau
+de 05770 1033,bad oeynhausen
+de 05770 1028,bad oeynhausen sd
+de 08317 14450,bad peterstal
+de 03252 6000,bad pyrmont
+de 08125 4615,bad rappenau
+de 09172 42164,bad reichenhall
+de 09172 90196,bad reichenhall kirchberg
+de 03156 5811,bad sachsa
+de 03254 21756,bad salzdetfurth
+de 06440 11161,bad salzhausen
+de 07140 11019,boppard bad salzig
+de 06631 11194,bad salzschlirf
+de 05766 2223,bad salzuflen
+de 05974 60002,bad sassendorf
+de 08426 6043,bad schussenried
+de 01055 6090,bad schwartau
+de 08416 4456,bad sebastiansweiler belsen
+de 01060 37903,bad segeberg
+de 06436 4299,bad soden taunus
+de 06636 206569,bad sooden allendorf
+de 01054 6219,bad st peter sd
+de 01054 6220,bad st peter ording
+de 09475 8924,bad steben
+de 08235 7190,bad teinach neubulach
+de 09173 4505,bad tlz
+de 03254 22197,bad salzdetfurth solebad
+de 06440 2402,bad vilbel
+de 06440 2401,bad vilbel sd
+de 08436 1145,bad waldsee
+de 06635 205080,bad wildungen
+de 08125 2002,bad wimpfen
+de 08125 5606,bad wimpfen hohenstadt
+de 09575 14100,bad windsheim
+de 09778 1430,bad wrishofen
+de 08436 98,bad wurzach
+de 03451 6417,bad zwischenahn
+de 08211 35110,baden baden haueneberstein
+de 03158 3158,baddeckenstedt
+de 03361 6466,baden verden
+de 08211 1847,baden baden
+de 08211 35113,baden baden rebland
+de 08125 1630,bad rappenau kurpark
+de 09779 5954,bumenheim
+de 02000 21953,hamburg allermhe
+de 02000 80954,hamburg bahrenfeld
+de 09184 2550,baierbrunn
+de 08237 1201,baiersbronn bf
+de 09572 6320,baiersdorf
+de 09372 2810,balbersdorf
+de 09175 4010,baldham
+de 07141 11021,balduinstein
+de 08327 3000,balgheim
+de 08417 32113,balingen sd
+de 08237 1202,baiersbronn schule
+de 10046 8000792,baltersweiler
+de 05962 3000,balve
+de 08226 200,bammental
+de 03254 21636,banteln
+de 03241 7344,bantorf
+de 03452 67948,norden
+de 03355 8000801,bardowick
+de 07337 2715,barbelroth
+de 01062 8000804,bargteheide
+de 02000 70950,hamburg barmbek
+de 03251 7148,barnstorf han
+de 03254 9924,barnten
+de 03251 7202,barrien
+de 03241 5678,barsinghausen
+de 03352 40930,hemmoor
+de 09679 5020,ochsenfurt
+de 08316 6531,batzenhusle
+de 09373 17920,batzhausen
+de 08215 32617,bauerbach
+de 09471 21030,baunach
+de 03360 7618,bavendorf
+de 09277 10615,bayerbach
+de 09276 4726,bayerisch eisenstein
+de 09172 90197,bayerisch gmain
+de 05316 19901,leverkusen chempark
+de 09462 22250,bayreuth st georgen
+de 09182 43151,bayrischzell
+de 10042 8000840,beckingen saar
+de 05154 36118,bedburg hau
+de 05570 35258,beelen
+de 09574 7820,behringersdorf
+de 06440 11155,beienheim
+de 05316 22101,opladen
+de 08425 2460,beimerstetten
+de 06634 219633,malsfeld beisefrth
+de 01058 8050,beldorf
+de 07334 1746,bellheim am mhlbuckel
+de 09775 4261,bellenberg
+de 07334 32660,bellheim bf
+de 08336 6628,bad bellingen
+de 08116 5772,bempflingen
+de 09173 4880,benediktbeuern
+de 07231 40035,bengel
+de 03241 9911,bennemhlen
+de 03241 5844,bennigsen
+de 08118 1500,benningen neckar
+de 10043 8000875,ottweiler saar
+de 07317 8141,pirmasens nord
+de 06431 248,bensheim auerbach
+de 03456 4115,bad bentheim
+de 08335 6560,radolfzell
+de 09375 559,beratzhausen
+de 09172 90194,berchtesgaden hbf
+de 05562 3644,recklinghausen sd
+de 09189 40781,bergen oberbay
+de 08135 1561,bergenweiler
+de 07334 35129,berg pfalz
+de 06435 11052,schlchtern
+de 05970 10270,berghausen b wittgenstein
+de 08215 2008,berghausen baden
+de 07338 3391,berghausen pfalz
+de 05378 31201,bergisch gladbach
+ch 23017 53520,beringerfeld
+de 09679 4034,bergtheim
+ch 23017 63965,beringen bad bf
+de 05958 35291,beringhausen
+de 01058 8564,beringstedt
+de 05970 10272,bad berleburg
+de 02000 10952,hamburg berliner tor
+de 08435 14623,bermatingen ahausen
+de 09187 43635,bernau chiemsee
+de 03461 8941,berne
+de 09190 90040,bernried
+de 03459 8989,bersenbrck
+de 07143 4626,berzhahn
+de 10042 8000923,besch
+de 08118 5583,besigheim
+de 10042 8000926,besseringen
+de 05958 11524,bestwig
+de 09276 10545,bettmannsge
+de 08336 6660,beuggen
+de 08437 44000,beuron
+de 08119 3711,beutelsbach
+de 03360 4302,bad bevensen
+de 10045 8000941,bexbach
+de 08317 11011,biberach baden
+de 08426 6170,biberach ri
+de 08426 6785,biberach ri sd
+de 09173 4720,bichl
+de 09189 90205,bibeld
+de 06432 11251,bickenbach bergstr
+de 06433 11268,biebesheim
+de 06534 11088,biedenkopf
+de 05711 5390,bielefeld ost
+de 06534 10281,biedenkopf schulzentrum
+de 03360 10019,bienenbttel
+de 05711 10385,bielefeld senne
+de 05758 9034,bieren rdinghausen
+de 08416 2506,bieringen
+de 05913 228,dortmund hrde
+de 09777 1289,biessenhofen
+de 08216 1820,bietigheim baden
+de 08335 6722,bietingen
+de 05958 11312,bigge
+de 10041 8000967,bildstock
+de 08236 1792,bilfingen
+de 09774 2936,billenhausen
+de 05558 60008,billerbeck
+de 02000 21950,hamburg billwerder moorfleet
+de 08225 9128,binau
+de 09472 22800,bindlach
+de 07339 32994,bingen gaulsheim
+de 07339 8199,bingen rhein stadt
+de 05914 2435,hagen vorhalle
+de 05962 3023,binolen
+de 05970 10285,birkelbach
+de 06431 286,birkenau
+de 06635 205218,birkenbringhausen
+de 08236 1090,birkenfeld enz
+de 09277 6325,bad birnbach
+de 07233 30288,birresborn
+de 06435 2504,maintal west
+de 09172 90195,bischofswiesen
+de 08216 34764,bischweier
+de 08417 30104,bisingen
+de 03241 6840,bissendorf
+de 08237 4322,bittelbronn
+de 09372 1104,blaibach oberpf
+de 09780 809,blaichach allgu
+de 08126 19601,bitzfeld
+de 05382 57301,blankenberg sieg
+de 02000 81950,hamburg blankenese
+de 05366 79401,blankenheim wald
+de 08215 32239,blankenloch
+de 08425 2811,blaubeuren
+de 08127 20581,blaufelden
+de 08425 2713,blaustein
+de 08316 6503,bleibach
+de 06440 11149,bleichenbach oberh
+de 10045 8001027,blieskastel lautzkirchen
+de 09773 7450,blindheim
+de 08326 6756,blumberg riedschingen
+de 05170 36858,blumenkamp
+de 07338 336,bobenheim
+de 09772 7100,bobingen
+de 06431 410,bobstadt
+de 05911 5354,bochum riemke
+de 05911 5418,bochum dahlhausen
+de 05911 6700,bochum ehrenfeld
+de 07332 391,bockenheim kindenheim
+de 05915 35259,bockum hvel
+de 09780 558,bodelsberg
+de 08416 2106,bodelshausen
+de 03254 21766,bodenburg
+de 07131 80125,bad bodendorf
+de 03155 11118,bodenfelde
+de 09276 80505,bodenmais
+de 03360 4339,bad bodenteich
+de 09376 1720,bodenwhr nord
+de 08115 7100,bblingen
+de 08225 6760,bdigheim
+de 07338 373,bhl iggelheim
+de 09276 80504,bhmhof
+de 08335 6550,bhringen rickelshausen
+de 05978 12086,bnen
+de 03158 4256,brum
+de 05558 60012,bsensell
+de 05962 2072,bsperde
+de 09278 579,bogen
+de 03459 11213,bohmte
+de 05166 22181,boisheim
+de 08115 4510,bondorf b herrenberg
+de 05314 63201,bonn helmholtzstrae
+de 05314 66101,bonn bad godesberg
+de 05314 65101,bonn beuel
+de 05314 63101,bonn duisdorf
+de 05314 67301,bonn mehlem
+de 05314 68801,bonn oberkassel
+de 05314 62601,bonn endenich nord
+de 03458 11521,bookholzberg
+de 08136 4204,bopfingen
+de 01058 11755,bordesholm
+de 05974 12851,borgeln
+de 05754 6337,borgholzhausen
+de 05566 31280,steinfurt borghorst
+de 05978 21696,bork westf
+de 06634 209656,borken hess
+de 06440 11144,borsdorf hess
+de 06632 202580,wildeck bosserode
+de 05512 3283,bottrop boy
+de 05512 3447,bottrop vonderort
+de 10044 8001110,bous saar
+de 08128 12276,boxberg wlchingen
+de 07132 1578,brachbach
+de 05370 3866,brachelen
+de 05711 5060,brake b bielefeld
+de 08326 6711,brunlingen bahnhof
+de 03461 12657,brake unterweser
+de 05762 7413,brakel hxter
+de 03459 12827,bramsche
+de 03251 12880,bramstedt b syke
+de 06532 11515,brandoberndorf
+de 09187 90185,brannenburg
+de 07141 11027,braubach
+de 08215 35081,bretten ruit
+de 06532 11121,leun braunfels
+de 03101 59,braunschweig gliesmarode
+de 01058 13463,bredenbek
+de 05958 11512,bredelar
+de 08215 35082,bretten rechberg
+de 01054 13478,bredstedt
+de 08315 6504,breisach
+de 08215 1555,bretten schulzentrum
+de 09778 2930,breitenbrunn schwab
+de 09676 99311,breitendiel
+de 09471 21100,breitengbach
+de 08215 1553,bretten stadtmitte
+de 07132 90363,breitscheidt altenkirchen ww
+de 04011 14095,bremen neustadt
+de 04011 13794,bremen burg
+de 04011 14318,bremen hemelingen
+de 04011 14321,bremen lesum
+de 04011 14053,bremen mahndorf
+de 04011 14323,bremen oberneuland
+de 04011 14324,bremen oslebshausen
+de 04011 14325,bremen schnebeck
+de 04011 14326,bremen sebaldsbrck
+de 04011 14329,bremen st magnus
+de 04011 14331,bremen vegesack
+de 04011 14333,bremen walle
+de 04012 14515,bremerhaven lehe
+de 04012 14517,bremerhaven wulsdorf
+de 08337 6577,wehr brennet
+de 03458 14638,brettorf
+de 07133 8179,bretzenheim nahe
+de 08126 10101,bretzfeld
+de 09774 2935,krumbach schw schule
+de 05166 23814,breyell
+de 05958 63359,brilon stadt
+de 05570 33341,ostbevern
+de 03360 15055,brockhfe
+de 07131 80359,brohl
+de 03157 2466,lengede broistedt
+de 01061 15148,brokstedt
+de 08336 6630,lrrach brombach hauingen
+de 08128 13549,kloster bronnbach
+de 06440 6499,bruchenbrcken
+de 08215 1855,bruchsal bildungszentrum
+de 08215 1841,bruchhausen b ettlingen
+de 06435 11322,bruchkbel
+de 07335 8121,bruchmhlbach miesau
+de 03459 15245,bruchmhlen
+de 09274 80491,bruckberg
+de 08116 5780,brucken
+de 09187 41227,bruckmhl
+de 07131 80016,ahrbrck
+de 08215 12639,bruchsal sportzentrum
+de 05962 40,brgge westf
+de 08215 32985,bruchsal am mantel
+de 05362 84101,brhl
+de 10043 8001221,bubach
+de 09572 6360,bubenreuth
+de 09675 75214,buchbrunn mainstockheim
+de 08225 6742,buchen ost
+de 08225 9176,buchen odenw
+de 06534 11091,buchenau lahn
+de 09179 6200,buchenau oberbay
+de 09184 2540,buchenhain
+de 08316 6532,buchholz baden
+de 07140 11028,boppard buchholz
+de 06438 2702,dreieich buchschlag
+de 07339 8196,budenheim
+de 09576 8400,bchenbach
+de 06440 11150,bches ddelsheim
+de 03257 175,bckeburg
+de 06435 11173,schneck bdesheim
+de 06440 11151,bdingen oberhess
+de 08216 32227,bhl baden
+de 06534 11079,brgeln
+de 03353 8001258,bsenbachtal
+de 01051 17279,bsum
+de 05162 20049,bttgen
+de 08315 6644,buggingen
+de 05362 87601,buir
+de 05558 15349,buldern
+de 07135 10319,bullay db
+de 05970 10320,burbach kr siegen
+de 06532 11517,burg dillkr nord
+de 01051 15946,burg dithm
+de 01055 26748,fehmarn burg
+de 09774 2790,burgau schwab
+de 09575 14120,burgbernheim
+de 09575 14130,burgbernheim wildbad
+de 03241 9110,burgdorf
+de 08437 49114,burgweiler
+de 06631 11047,burghaun hnfeld
+de 09171 1390,burghausen
+de 09185 7954,burgheim
+de 06434 11199,burgholzhausen h
+de 09171 10002,burgkirchen
+de 09478 27500,burgkunstadt
+de 09673 19001,burglauer
+de 09677 3968,burgsinn
+de 08119 7500,burgstall murr
+de 09574 7350,burgthann
+de 09362 10339,regensburg burgweinting
+de 03462 16062,burhafe ostfriesl
+de 10041 8001302,burbach mitte
+de 05111 18259,dsseldorf eller mitte
+de 09471 21160,buttenheim
+de 06440 11133,butzbach
+de 03359 51989,buxtehude
+de 03352 17352,cadenberge
+de 09573 5100,cadolzburg
+de 03151 1140,calberlah
+de 06534 11092,caldern
+de 08235 420,calmbach bahnhof
+de 06533 11128,bad camberg
+de 05558 15733,capelle westf
+de 05562 925,castrop rauxel hbf
+de 05562 5808,castrop rauxel sd
+de 05562 5793,castrop rauxel merklinde
+de 09372 1154,cham oberpf
+de 09372 1307,chamerau
+de 09463 70166,coburg nord
+de 05754 6101,clarholz
+de 03453 17995,cloppenburg
+de 09463 72000,coburg
+de 09463 70141,coburg neuses
+de 07135 10330,cochem mosel
+de 07340 95001,contwig
+de 03252 5020,coppenbrgge
+de 05558 17181,coesfeld schulzentrum
+de 09463 71126,creidlitz
+de 09472 23000,creuen oberfr
+de 03352 18450,cuxhaven
+de 09174 6800,dachau bahnhof
+de 09174 6850,dachau stadt
+de 05914 2300,dahl
+de 05970 10333,dahlbruch
+de 05366 79101,dahlem eifel
+de 03355 8001360,dahlenburg
+de 05962 3434,dahlerbrck
+de 05370 6234,dalheim
+de 08225 8207,dallau
+de 03354 18980,dannenberg ost
+de 09182 42812,darching
+de 06411 4720,darmstadt nord
+de 06411 11226,darmstadt ost
+de 06411 11320,darmstadt sd
+de 06411 4733,darmstadt arheilgen
+de 06411 11321,darmstadt eberstadt
+de 06411 11328,darmstadt kranichstein
+de 09771 2100,dasing
+de 05382 59802,dattenfeld sieg
+de 06411 16027,darmstadt tu lichtwiese
+de 01056 8001387,dauenhof
+de 07235 10214,daufenbach
+de 07141 12641,dausenau
+de 05558 62124,davensberg
+de 03241 9238,dedenhausen
+de 03241 9882,dedensen gmmer
+de 05974 35376,dedinghausen
+de 09271 5500,deggendorf hbf
+de 07332 470,deidesheim
+de 09373 17400,deining oberpf
+de 09184 2340,deisenhofen
+de 08325 1594,deilingen mitte
+de 07340 8064,dellfeld
+de 07340 95002,dellfeld ort
+de 07233 31001,densborn
+de 08316 6505,denzlingen
+de 05366 71701,weilerswist derkum
+de 07131 80308,dernau
+de 07143 4682,dernbach westerw
+de 05766 2000,detmold
+de 09675 29290,dettelbach bahnhof
+de 08415 28209,dettingen lehen
+de 08415 28212,dettingen freibad
+de 08415 28213,dettingen gsaidt
+de 09671 1042,dettingen main
+de 08116 5778,dettingen teck
+de 03158 485,dettum
+de 09375 107,deuerling
+de 05562 3073,deuten
+de 09672 75007,diebach
+de 02000 80958,hamburg diebsteich
+de 09772 6100,diedorf schwab
+de 03251 20359,diepholz
+de 09181 500,dieen
+de 07339 34233,dienheim
+de 09575 14250,dietersheim
+de 09780 318,dietmannsried
+de 06438 11519,dietzenbach mitte
+de 06438 4647,dietzenbach bahnhof
+de 07141 11033,diez
+de 06438 11520,dietzenbach steinberg
+de 06532 11001,dillbrecht
+de 09773 5300,dillingen donau
+de 05170 37034,dingden
+de 09279 3200,dingolfing
+de 09772 6400,dinkelscherben
+de 05170 36259,dinslaken
+de 10043 8001470,dirmingen
+de 03459 20656,dissen bad rothenfelde
+de 08128 13054,distelhausen
+de 08128 13048,dittigheim
+de 08118 7000,ditzingen
+de 08326 6754,donaueschingen allmendshofen
+de 08326 6538,dggingen
+de 09472 22720,dhlau
+de 08326 6755,donaueschingen aufen
+de 08326 6776,donaueschingen grningen
+de 09473 75249,drfles esbach
+de 08326 6625,donaueschingen mitte siedlung
+de 03454 8206,drpen
+de 03361 22104,drverden
+de 08337 6686,dogern
+de 03241 9254,dollbergen
+de 03359 8001493,dollern
+de 09176 8290,dollnstein
+de 09177 3656,dorfen bahnhof
+de 03358 20977,dorfmark
+de 09676 99306,dorfprozelten
+de 06440 11176,dorheim wetterau
+de 05913 726,dortmund huckarde
+de 05162 20268,dormagen
+de 05162 20280,dormagen chempark
+de 06433 6899,gro gerau dornheim
+de 08237 4001,dornstetten
+de 06440 4499,dortelweil
+de 05913 162,dortmund scharnhorst
+de 05913 670,dortmund knappschaftskrankenhaus
+de 05913 352,dortmund mllerbrcke
+de 05913 742,dortmund nette oestrich
+de 05913 132,dortmund stadthaus
+de 05913 701,dortmund tierpark
+de 05913 705,dortmund signal iduna park
+de 05913 38,dortmund aplerbeck
+de 05913 39,dortmund aplerbeck sd
+de 05913 497,dortmund westerfilde
+de 05913 642,dortmund asseln mitte
+de 05913 53,dortmund barop
+de 05913 697,dortmund bvinghausen
+de 05913 647,dortmund brackel
+de 05913 114,dortmund derne
+de 05913 741,dortmund wischlingen
+de 05913 830,dortmund huckarde nord
+de 05913 274,dortmund kirchderne
+de 05913 277,dortmund kirchhrde
+de 05913 672,dortmund krne
+de 05913 294,dortmund kruckel
+de 05913 298,dortmund kurl
+de 05913 700,dortmund lttringhausen
+de 05913 698,dortmund ltgendortmund nord
+de 05913 327,dortmund germania
+de 05913 337,dortmund marten
+de 05913 341,dortmund marten sd
+de 05913 343,dortmund mengede
+de 05913 390,dortmund rahm
+de 05913 441,dortmund slde
+de 05913 507,dortmund wickede
+de 03352 21303,dorum weserm
+de 09575 14240,dottenheim
+de 05913 1181,dortmund somborn
+de 06438 2704,dreieich dreieichenhain
+de 05370 3438,heinsberg dremmen
+de 05570 64230,drensteinfurt
+de 03251 21583,dreye
+de 05378 31202,duckterath
+de 06438 4643,rodgau dudenhofen
+de 10041 8001570,dudweiler
+de 05166 22229,dlken
+de 08215 1548,drrenbchig
+de 09184 2250,drrnhaar
+de 05111 18785,dsseldorf friedrichstadt
+de 05111 18517,dsseldorf flughafen terminal
+de 05111 18006,dsseldorf volksgarten
+de 05111 18019,dsseldorf wehrhahn
+de 05111 18012,dsseldorf zoo
+de 05111 18263,dsseldorf benrath
+de 05111 18249,dsseldorf bilk
+de 05111 18285,dsseldorf derendorf
+de 05111 18743,dsseldorf eller
+de 05111 18570,dsseldorf eller sd
+de 05111 18576,dsseldorf garath
+de 05111 18217,dsseldorf gerresheim
+de 05111 18094,dsseldorf oberbilk
+de 05111 18209,dsseldorf rath
+de 05111 18210,dsseldorf rath mitte
+de 05111 18748,dsseldorf reisholz
+de 05111 18206,dsseldorf unterrath
+de 05112 16341,duisburg schlenk
+de 05111 18111,dsseldorf hamm
+de 05111 18010,dsseldorf flingern
+de 05112 17026,duisburg bissingheim
+de 05112 16332,duisburg buchholz
+de 05112 16129,duisburg groenbaum
+de 05111 18115,dsseldorf vlklinger str
+de 05112 16084,duisburg hochfeld sd
+de 05112 16162,duisburg meiderich ost
+de 05112 16357,duisburg obermeiderich
+de 05112 16416,duisburg rahm
+de 05112 16021,duisburg ruhrort
+de 05112 16371,duisburg wedau
+de 09780 9002,durach
+de 08216 1819,durmersheim
+de 08416 2102,dulingen
+de 06532 11015,dutenhofen wetzlar
+de 09674 27615,ebelsbach eltmann
+de 09672 75198,ebenhausen unterfr
+de 09184 2570,ebenhausen schftlarn
+de 09777 9003,ebenhofen
+de 09478 15483,ebensfeld
+de 09474 9120,ebermannstadt
+de 09779 7001,ebermergen
+de 09674 75025,ebern
+de 08117 151,ebersbach fils
+de 09175 4070,ebersberg oberbay
+de 09473 75000,ebersdorf b coburg
+de 07332 609,ebertsheim
+de 09471 21600,ebing
+de 08315 6661,ebringen
+de 03360 22597,ebstorf uelzen
+de 03355 8001646,echem
+de 09178 2650,eching
+de 06440 11159,echzell
+de 08116 7003,echterdingen
+de 08127 21002,eckartshausen ilshofen
+de 01058 22679,eckernfrde
+de 09576 8073,eckersmhlen
+de 06436 4998,eddersheim
+de 08128 12153,edelfingen
+de 07337 8301,edenkoben
+de 06635 205608,vhl ederbringhausen
+de 07337 8302,edesheim pfalz
+de 07135 11038,ediger eller
+de 06532 11009,edingen wetzlar
+de 09187 90024,edling
+de 06440 11147,effolderbach
+de 08336 6631,efringen kirchen
+de 06438 2706,egelsbach
+de 09573 5077,egersdorf
+de 03241 5768,egestorf deister
+de 09277 10616,eggenfelden mitte
+de 09277 6000,eggenfelden
+de 09183 10610,egglkofen
+de 09375 117,eggmhl
+de 09474 9250,eggolsheim
+de 09175 4030,eglharting
+de 09181 501,egling
+de 08425 3140,ehingen donau
+de 05766 3566,ehlenbruch
+de 03241 9328,ehlershausen
+de 07211 2122,ehrang ort
+de 08115 5773,ehningen b bblingen
+de 06635 209639,ehringen
+de 05974 35377,ehringhausen kr lippstadt
+de 06535 11465,ehringshausen oberhess
+de 06532 11188,ehringshausen kr wetzlar
+de 05970 10400,eichen kr siegen
+de 06435 4543,nidderau eichen
+de 09179 6180,eichenau oberbay
+de 06631 11064,eichenzell
+de 05966 10401,eichhagen
+de 08225 8204,eicholzheim
+de 09176 9004,eichsttt bahnhof
+de 09176 8125,eichsttt stadt
+de 05334 1260,eilendorf
+de 03241 8140,eilvese
+de 08336 6634,eimeldingen
+de 01004 23309,einfeld
+de 07312 8125,einsiedlerhof
+de 09189 41045,eisenrzt
+de 07336 8546,eisenbach matzenbach
+de 07333 3798,eisenberg pfalz
+de 05970 10098,eiserfeld sieg
+de 08117 155,eislingen fils
+de 07333 4892,eiswoog
+de 09176 9005,eitensheim
+de 05382 59101,eitorf
+de 02000 82950,hamburg elbgaustrae
+de 03241 5906,vlksen eldagsen
+de 09672 75196,elfershausen trimberg
+de 05116 23189,mnchengladbach lrrip
+de 08118 1910,ellental
+de 08125 2003,ellhofen
+de 09577 16400,ellingen bay
+de 08136 2007,ellwangen
+de 09774 2938,ellzee
+de 08128 13234,elpersheim
+de 03461 24103,elsfleth
+de 09562 3510,eltersdorf
+de 06439 11029,eltville
+de 06533 11022,elz limburg lahn
+de 06533 11136,elz limburg lahn sd
+de 08316 6507,elzach
+de 03402 24249,emden auenhafen
+de 03402 24289,emden hbf
+de 07140 11043,emmelshausen
+de 08316 90,emmendingen
+de 05154 36119,emmerich
+de 03254 9930,emmerke
+de 03252 4090,emmerthal
+de 05154 40024,empel rees
+de 03241 5061,empelde
+de 05566 13729,emsdetten
+de 09575 14300,emskirchen
+de 08119 7704,endersbach
+de 09187 41666,bad endorf
+de 05374 44101,engelskirchen
+de 08335 6551,engen
+de 09275 10557,engertsham
+de 08417 30752,engstlatt
+de 05954 8132,ennepetal
+de 10044 8001799,ensdorf saar
+de 08416 2044,entringen
+de 08236 2791,enzberg
+de 09776 9006,enzisweiler
+de 05554 29984,epe westf
+de 06437 11305,erbach odenw nord
+de 10043 8001812,eppelborn
+de 07331 700,eppelsheim rheinhess
+de 06432 11487,eppertshausen
+de 06436 4102,eppstein
+de 06436 11503,eppstein bremthal
+de 06437 11223,erbach odenw
+de 06439 11030,erbach rheingau
+de 08425 3601,erbach wrtt
+de 09177 3290,erding
+de 06531 14731,gieen erdkauter weg
+de 08118 3514,erdmannhausen
+de 07232 20038,bitburg erdorf
+de 09174 6920,erdweg
+de 08416 2052,ergenzingen
+de 09274 3195,ergoldsbach
+de 05978 63617,ergste
+de 08435 32002,eriskirch
+de 05370 2648,erkelenz
+de 09479 10604,erkersreuth
+de 05158 18972,erkrath
+de 05158 19054,erkrath nord
+de 09562 3110,erlangen
+de 09562 3410,erlangen bruck
+de 09562 3454,erlangen paul gossen strae
+de 09676 50519,erlenbach main
+de 05970 10413,erndtebrck
+de 09186 9007,ernsgaden
+de 06635 205215,ernsthausen
+de 07138 20005,erpel rhein
+de 07332 705,erpolzheim
+de 08236 1791,ersingen
+de 06432 4792,erzhausen
+de 08337 6568,erzingen baden
+de 05566 13311,ibbenbren esch
+de 06436 2201,eschborn
+de 06436 2299,eschborn sd
+de 03351 2656,eschede
+de 08125 1023,eschenau b heilbronn
+de 09572 6200,eschenau mittelfr
+de 09575 14577,eschenbach b markt erlbach
+de 09180 42824,eschenlohe
+de 06533 11174,eschhofen
+de 06636 206068,eschwege
+de 05334 2828,eschweiler hbf
+de 05334 2836,eschweiler west
+de 05334 2860,eschweiler talbahnhof
+de 05334 2932,eschweiler nothberg
+de 03462 25726,esens ostfriesl
+de 05334 3020,eschweiler weisweiler
+de 05770 1272,espelkamp
+de 06636 206722,eschwege niederhone
+de 05113 9578,essen stadtwald
+de 05113 9590,essen sd
+de 05113 9643,essen west
+de 03453 25953,essen oldb
+de 05113 9117,essen altenessen
+de 05113 9150,essen bergeborbeck
+de 05113 9158,essen borbeck
+de 05113 9197,essen dellwig
+de 05113 9198,essen dellwig ost
+de 05113 9213,essen eiberg
+de 05113 9244,essen frohnhausen
+de 05113 9255,essen gerschede
+de 05113 9074,essen hgel
+de 05113 9375,essen zollverein nord
+de 05113 9404,essen kray nord
+de 05113 9406,essen kray sd
+de 05113 9414,essen kupferdreh
+de 05113 9584,essen steele ost
+de 05113 9699,essen berruhr
+de 05113 9640,essen werden
+de 05334 2974,eschweiler st jris
+de 09678 18996,eleben
+de 08116 7800,esslingen neckar
+de 08116 1801,esslingen mettingen
+de 09174 6830,vierkirchen esterhofen
+de 03361 26094,etelsen
+de 09375 557,etterzhausen
+de 08215 1840,ettlingen west
+de 07132 90370,etzbach
+de 09371 18420,etzelwang
+de 09374 10551,etzenricht
+de 08128 13761,eubigheim
+de 09672 75197,euerdorf
+de 01055 26265,eutin
+de 08231 2891,eutingen baden
+de 05954 8088,gevelsberg knapp
+de 08237 8031,eyach
+de 03256 26493,eystrup
+de 07141 11048,fachingen lahn
+de 01060 37983,fahrenkrug
+de 08336 6663,fahrnau
+de 03103 2241,fallersleben
+de 03358 4693,bad fallingbostel
+de 09180 90198,farchant
+de 09184 2300,fasanenpark
+de 09676 1905,faulbach main
+de 08117 153,faurndau
+de 08118 7403,favoritepark
+de 09475 8905,feilitzsch
+de 09188 5470,feldafing
+de 08315 6539,feldberg brental
+de 05512 4095,feldhausen
+de 09184 2110,feldkirchen b mnchen
+de 08119 6500,fellbach
+de 05970 10438,ferndorf siegen
+de 01058 26827,felde
+de 09574 7200,feucht
+de 05970 10439,feudingen
+de 08127 20785,fichtenberg
+de 07141 12850,filsen
+de 08116 1905,filderstadt
+de 09775 1870,finningerstrae
+de 09574 7210,feucht ost
+de 09564 1610,fischbach nrnberg
+de 10041 8001990,fischbach camphausen
+de 07134 35021,fischbach weierbach
+de 09182 43170,fischbachau
+de 09780 702,fischen
+de 09179 6120,esting
+de 09182 43389,fischhausen neuhaus
+de 09673 75267,fladungen
+de 08215 32092,flehingen
+de 06631 11051,flieden
+de 01058 27479,flintbek
+de 09187 90184,flintsbach
+de 06436 4911,flrsheim main
+de 07311 765,flomersheim
+de 07235 7560,fhren
+de 09475 10527,frbau
+de 09476 16371,frtschendorf
+de 08216 32191,forbach schwarzw
+de 08215 1818,forchheim b karlsruhe
+de 09474 9000,forchheim oberfr
+de 07311 7090,frankenthal sd
+de 08119 5787,fornsbach
+de 05114 21989,forsthaus
+de 09187 90023,forsting
+de 09572 6210,forth
+de 08435 32003,friedrichshafen ost
+de 06635 205355,frankenberg goberg
+de 06412 903,frankfurt m mhlberg
+de 07335 9115,frankenstein pfalz
+de 06412 907,frankfurt m lokalbahnhof
+de 06412 526,frankfurt main ost
+de 06412 2899,frankfurt am main stadion
+de 06412 912,frankfurt main sd
+de 06412 1204,frankfurt main west
+de 06412 2499,frankfurt berkersheim
+de 06412 1450,frankfurt frankfurter berg
+de 06412 1370,frankfurt eschersheim
+de 06412 110,frankfurt griesheim
+de 06412 2799,frankfurt louisa
+de 06412 2599,frankfurt mainkur
+de 06412 140,frankfurt nied
+de 06412 1830,frankfurt niederrad
+de 06412 2097,frankfurt hchst farbwerke
+de 06412 1217,frankfurt rdelheim
+de 06412 2099,frankfurt sindlingen
+de 06412 2199,frankfurt sossenheim
+de 06412 11073,frankfurt zeilsheim
+de 07314 2055,ludwigshafen rhein basf sd
+de 09276 80506,frauenau
+de 06412 525,frankfurt m ostendstrae
+de 06412 933,frankfurt m stresemannallee
+de 03254 21535,freden leine
+de 08118 1503,freiberg neckar
+de 08311 6511,freiburg west
+de 08311 6510,freiburg herdern
+de 08311 6540,freiburg littenweiler
+de 08311 6589,freiburg st georgen
+de 08311 6541,freiburg wiehre
+de 08311 6512,freiburg zhringen
+de 05958 11240,freienohl
+de 09774 2818,freihalden
+de 09376 10550,freihls
+de 09371 18500,freihung
+de 08311 6509,freiburg klinikum
+de 09178 2680,freising
+de 03154 5983,frellstedt
+de 10042 8002083,fremersdorf
+de 09172 90016,freilassing hofham
+de 01062 37978,fresenburg
+de 08237 1048,freudenstadt industriegebiet
+de 09676 1914,freudenberg kirschfurt
+de 08237 1103,freudenstadt schulzentrum
+de 08237 1002,freudenstadt stadt
+de 07132 90457,freusburg siedlung
+de 06533 11018,frickhofen
+de 08327 1172,fridingen b tuttlingen
+de 09189 90004,fridolfing
+de 06440 16698,friedberg augsburg
+de 06531 11011,friedelhausen
+de 06534 11090,friedensdorf lahn
+de 03152 28562,friedland han
+de 06632 202352,ludwigsau friedlos
+de 05382 54702,friedrich wilhelmshtte
+de 06440 11518,friedberg sd
+de 02000 60952,hamburg friedrichsberg
+de 06434 4303,friedrichsdorf taunus
+de 05170 36447,friedrichsfeld niederrhein
+de 08435 44001,friedrichshafen hafen
+de 08435 14039,friedrichshafen fischbach
+de 01053 8002113,friedrichsruh
+de 07141 11056,friedrichssegen
+de 01054 28645,friedrichstadt
+de 08215 33000,friedrichstal baden
+de 10041 8002117,friedrichsthal saar
+de 09462 22330,friedrichsthal b bayreuth
+de 08435 4151,friedrichshafen flughafen
+de 08435 4503,friedrichshafen landratsamt
+de 08317 16220,friesenheim baden
+de 08237 1221,friedrichstal b freudenstadt
+de 05162 20478,frimmersdorf
+de 06634 204154,fritzlar
+de 05978 32850,frmern
+de 10041 8002132,friedrichsthal saar mitte
+de 08417 32200,frommern
+de 06534 11084,fronhausen lahn
+de 06533 11116,frfurt
+de 09179 6190,frstenfeldbruck
+de 06633 203155,frstenwald
+de 09275 4035,frstenzell
+de 09563 2310,frth westvorstadt
+de 06431 874,frth odenw
+de 09563 2610,frth burgfarrnbach
+de 09563 2311,frth dambach
+de 09563 2313,frth unterfarrnbach
+de 09563 2312,frth unterfrberg
+de 09777 1400,fssen
+de 09372 1457,furth i wald
+de 09184 2330,furth b deisenhofen
+de 09772 4100,gablingen
+de 08115 5774,grtringen
+de 08115 5776,gufelden
+de 08216 32160,gaggenau bf
+de 08127 20839,gaildorf west
+de 09176 9008,gaimersheim
+de 09173 4510,gaiach
+de 07312 8186,galgenschanze
+de 08128 13304,gamburg tauber
+de 03458 29386,ganderkesee
+de 05962 3027,garbeck
+de 06531 11138,garbenteich
+de 09171 1310,garching alz
+de 01054 29506,garding
+de 09180 42837,garmisch partenkirchen
+de 09180 10099,garmisch partenkirchen hausberg
+de 09183 6542,gars inn
+de 07331 8003,gau bickelheim
+de 09679 99001,gaubttelbrunn
+de 08216 32998,gausbach
+de 09188 5430,gauting
+de 08327 3011,geisingen aulfingen
+de 03454 8770,geeste
+de 08327 1216,geisingen hausen
+de 09372 3020,geigant
+de 05370 3220,geilenkirchen
+de 05382 59904,geilhausen
+de 09278 2622,geiselhring
+de 09188 5350,geisenbrunn
+de 09274 10542,geisenhausen
+de 06439 11033,geisenheim
+de 08327 1257,geisingen kirchen
+de 08327 1190,geisingen
+de 08327 1297,geisingen leipferdingen
+de 08117 160,geislingen steige west
+de 08117 161,geislingen steige
+de 09182 43165,geitau
+de 05154 36117,geldern
+de 05513 6772,gelsenkirchen zoo
+de 05513 6673,gelsenkirchen buer nord
+de 05513 5159,gelsenkirchen buer sd
+de 05513 7421,gelsenkirchen hassel
+de 05513 5031,gelsenkirchen rotthausen
+de 08125 3900,gemmingen
+de 09779 6568,genderkingen
+de 09171 10005,gendorf
+de 08317 15810,gengenbach
+de 06634 204901,felsberg gensungen
+de 09576 8450,georgensgmnd
+de 10043 8002238,gennweiler
+de 07334 1748,germersheim mitte rhein
+de 08119 1702,geradstetten
+de 07334 1747,germersheim sd nolte
+de 08425 2850,gerhausen
+de 08128 13824,gerlachsheim
+de 09775 1781,gerlenhofen
+de 09179 6130,gernlinden
+de 08216 32142,gernsbach bf
+de 06433 11269,gernsheim
+de 08216 32829,gernsbach mitte
+de 09679 5005,geroldshausen
+de 06631 11072,gersfeld rhn
+de 09772 4000,gersthofen
+de 06636 209615,gertenbach
+de 05974 32585,geseke
+de 09772 6200,gessertshausen
+de 06440 11158,gettenau bingenheim
+de 01058 30495,gettorf
+de 05954 8313,gevelsberg hbf
+de 05954 8093,gevelsberg west
+de 06531 14672,gieen oswaldsgarten
+de 08135 1193,giengen brenz
+de 03151 800,gifhorn stadt
+de 09188 5360,gilching argelsried
+de 08117 158,gingen fils
+de 07143 5703,girod
+de 03156 30808,gittelde bad grund harz
+de 05562 4582,gladbeck ost
+de 05562 4196,gladbeck zweckel
+de 07336 8545,glan mnchweiler
+de 09676 2067,glanzstoffwerke
+de 06440 6503,glauburg glauberg
+de 05362 88902,glesch
+de 01061 31055,glckstadt
+de 05154 36116,goch
+de 05762 9033,godelheim
+de 07313 8051,godramstein
+de 06531 11182,gbelnrod
+de 03355 8002304,ghrde
+de 08215 32831,glshausen industriegebiet
+de 08215 1557,glshausen
+de 09472 22730,grschnitz
+de 06438 4799,dreieich gtzenhain
+de 01058 31196,gokels
+de 03460 31239,goldenstedt oldb
+de 08215 1837,gondelsheim baden
+de 09474 9760,gosberg
+de 06534 11094,gofelden
+de 09679 5025,gomannsdorf
+de 08315 6513,gottenheim
+de 09276 1771,gotteszell
+de 08335 6552,gottmadingen
+de 09184 2590,grfelfing
+de 09474 9400,grfenberg
+de 09677 28306,grfendorf
+de 06533 11117,grveneck
+de 09180 10100,grafenaschau
+de 09272 5047,grafenau
+de 08215 32591,graben neudorf nord
+de 09772 7500,graben lechfeld gewerbepark
+de 09175 4050,grafing bahnhof
+de 09175 4060,grafing stadt
+de 09271 80587,grafling arzting
+de 09179 6220,grafrath
+de 06633 203338,grebenstein
+de 08336 6604,grenzach
+de 05566 60003,greven
+de 05966 10472,lennestadt grevenbrck
+de 08337 6569,grieen baden
+de 06634 204063,edermnde grifte
+de 09179 6100,grbenzell
+de 09778 3364,bad grnenbach
+de 08125 9200,grombach
+de 06440 2440,bad vilbel gronau
+de 09184 2130,gronsdorf
+de 06433 4801,gro gerau dornberg
+de 06440 4401,gro karben
+de 05362 82101,frechen knigsdorf
+de 06431 990,gro rohrheim
+de 06432 11218,gro umstadt mitte
+de 09272 10506,groarmschlag
+de 06435 11209,groauheim kr hanau
+de 05366 72901,euskirchen grobllesheim
+de 03241 6491,groburgwedel
+de 03254 21761,gro dngen
+de 06531 11175,groen buseck
+de 06531 11130,groen linden
+de 01055 32869,groenbrode
+de 03458 32907,groenkneten
+de 06631 11195,groenlder
+de 09572 6490,grogeschaidt
+de 09184 2280,grohelfendorf
+de 09184 2500,grohesselohe isartalbf
+de 09187 79026,grokarolinenfeld
+de 06435 8617,grokrotzenburg
+de 08226 5563,heddesheim hirschberg
+de 09473 75008,growalbur
+de 09473 75001,grub am forst
+de 09175 3950,grub oberbay
+de 09372 3007,grub oberpf
+de 06531 11183,grnberg oberhess
+de 07132 90199,grnebach ort
+de 07132 90160,grnebacherhtte
+de 07332 1012,grnstadt nord
+de 08237 1913,grntal wittlensweiler
+de 08128 12503,grnsfeld
+de 08119 1703,grunbach
+de 09274 40454,gndlkofen
+de 09777 1235,gnzach
+de 05754 5947,gtersloh hbf
+de 05374 48101,gummersbach
+de 08315 6514,gundelfingen breisgau
+de 09773 7350,gundelfingen bay
+de 09476 15504,gundelsdorf
+de 09273 374,gundelshausen
+de 08125 4569,gundelsheim neckar
+de 07331 1036,gundersheim rheinhess
+de 07339 9120,guntersblum
+de 05162 20476,gustorf
+de 08316 6515,gutach breisgau
+de 08317 18733,gutach freilichtmuseum
+de 06634 204236,guxhagen
+de 08336 6636,lrrach haagen messe
+de 05158 13892,haan
+de 09184 2140,haar
+de 07143 4839,hachenburg
+de 06533 11020,hadamar
+de 01058 34526,hademarschen
+de 06432 11252,hhnlein alsbach
+de 03241 9206,hmelerwald
+de 06440 11160,huserhof
+de 01055 34542,haffkrug
+de 09375 182,hagelstadt
+de 03241 9892,hagen han
+de 05954 8092,gevelsberg kipp
+de 05914 2432,hagen heubing
+de 05914 2087,hagen oberhagen
+de 07334 1725,hagenbach
+de 09575 14420,hagenbchach
+de 09574 7220,feucht moosbach
+de 09472 22920,haidenaab gppmannsbhl
+de 06532 11027,haiger obertor
+de 06435 11059,hailer meerholz
+de 06438 4641,rodgau hainhausen
+de 08225 8446,hainstadt baden
+de 06438 11215,hainburg hainstadt
+de 06435 11057,haitz hchst
+de 08317 18030,halbmeil
+de 09178 2850,hallbergmoos
+de 05154 35840,haldern rheinl
+de 05566 29620,halen
+de 05754 6033,halle westf
+de 09471 20900,hallstadt b bamberg
+de 01056 98950,halstenbek
+de 08336 6638,haltingen
+de 02000 99651,hamburg airport
+de 02000 8002548,hamburg dammtor
+de 02000 10950,hamburg hbf
+de 02000 84951,hamburg holstenstrae
+de 02000 8002553,hamburg altona
+de 02000 25950,hamburg bergedorf
+de 02000 84960,hamburg eidelstedt
+de 02000 8002556,hamburg fischbek
+de 02000 41951,hamburg neugraben
+de 02000 8002558,hamburg rahlstedt
+de 02000 84953,hamburg stellingen
+de 02000 8002560,hamburg wandsbek
+de 02000 54951,hamburg wilhelmsburg
+de 03359 8002565,hammah
+de 09672 29975,hammelburg
+de 09672 25468,hammelburg ost
+de 09172 90128,hammerau
+de 05170 36619,hamminkeln
+de 06435 3704,hanau nord
+de 06435 4502,hanau west
+de 06435 4501,hanau wilhelmsbad
+de 03353 8002575,handeloh
+de 09574 7400,happurg
+de 03241 1141,hannover bismarckstr
+de 03241 9840,hannover bornum
+de 03241 3201,hannover kleefeld
+de 03241 4331,hannover leinhausen
+de 03241 841,hannover linden fischerhof
+de 03241 4111,hannover flughafen
+de 01054 38431,harblek
+de 09779 7002,harburg schwab
+de 03155 38437,hardegsen
+de 09573 5020,hardhof
+de 03454 8618,haren ems
+de 09477 18961,harsdorf
+de 03254 9920,harsum
+de 09571 13470,hartershofen
+de 09179 6240,harthaus
+de 09574 7660,hartmannshof
+de 03459 38878,hasbergen
+de 08317 18520,haslach
+de 09677 75209,hasloch main
+de 09179 6520,haspelmoor
+de 10045 8002625,hassel saar
+de 06532 11514,hasselborn
+de 02000 60950,hamburg hasselbrook
+de 09674 27220,hafurt
+de 07332 1080,haloch pfalz
+de 08225 8222,hamersheim
+de 03257 508,haste
+de 06439 11031,hattenheim
+de 06436 2001,hattersheim main
+de 05954 8435,hattingen ruhr
+de 05954 8437,hattingen r mitte
+de 03156 39154,hattorf
+de 07137 11064,hatzenport
+de 12070 900215744,pritzwalk hainholz
+de 07340 8073,hauenstein mitte
+de 07340 8057,hauenstein pfalz
+de 09774 2932,haupeltshofen
+de 07335 8122,hauptstuhl
+de 08437 44005,hausen i tal
+de 09778 2927,hausen schwab
+de 08336 6637,hausen raitbach
+de 09182 43217,hausham
+de 05558 30583,havixbeck
+de 09277 6210,hebertsfelden
+de 08417 32107,hechingen
+de 03352 39456,hechthausen
+de 06633 209646,ahnatal heckershausen
+de 03152 39486,hedemnden
+de 09574 7790,hedersdorf
+de 05915 7120,heessen
+de 08221 1457,heidelberg weststadt sdstadt
+de 05966 10495,heggen
+de 08335 6553,hegne
+de 08221 1284,heidelberg orthopdie
+de 08221 1166,heidelberg altstadt
+de 08221 1203,heidelberg kirchheim rohrbach
+de 08221 1454,heidelberg pfaffengrund wieblingen
+de 08215 1834,heidelsheim
+de 08135 600,heidenheim
+de 08135 620,heidenheim mergelstetten
+de 08135 630,heidenheim schnaitheim
+de 07339 8193,heidesheim rheinhess
+de 03401 39918,heidkrug
+de 03455 82392,schortens heidmhle
+de 09671 99139,heigenbrcken
+de 08121 75,heilbronn slmertor
+de 08121 8170,heilbronn trappensee
+de 09171 10006,heiligenstatt obb
+de 07338 3393,heiligenstein pfalz
+de 09571 12650,heilsbronn
+de 07134 35410,heimbach nahe
+de 09776 1515,heimenkirch
+de 07131 80058,heimersheim
+de 09184 2120,heimstetten
+de 06632 202024,heinebach
+de 05370 3594,heinsberg randerath
+de 05370 3532,heinsberg horst
+de 05370 3588,heinsberg porselen
+de 05370 3512,heinsberg rheinl
+de 08121 31002,heilbronn theater
+de 08121 31003,heilbronn industrieplatz
+de 07336 8032,heinzenhausen
+de 05370 3504,heinsberg kreishaus
+de 08121 31501,heilbronn kaufland
+de 08315 6665,heitersheim
+de 09475 9052,helmbrechts
+de 08215 1835,helmsheim
+de 05766 3896,helpup
+de 05978 11000,hemmerde
+de 10044 8002746,hemmersdorf saar
+de 08226 1471,hemsbach
+de 09574 7450,henfenfeld
+de 05382 57101,hennef sieg
+de 05962 6023,hennen
+de 06431 1502,heppenheim bergstr
+de 08437 41003,herbertingen ort
+de 09772 4350,herbertshofen
+ch 23017 27057,herblingen
+de 08316 6562,herbolzheim breisg
+de 08125 1905,herbolzheim jagst
+de 08135 1339,herbrechtingen
+de 05382 59701,herchen
+de 05954 2269,herdecke
+de 07132 90004,herdorf
+de 06432 11261,hergershausen
+de 05382 57305,hennef im siegbogen
+de 08135 1394,hermaringen
+de 05916 7500,herne brnig
+de 09572 6500,heroldsberg
+de 09572 6510,heroldsberg nord
+de 05116 23559,herrath
+de 08115 4512,herrenberg
+de 08115 7202,herrenberg zwerchweg
+de 08425 2728,herrlingen
+de 09188 5410,herrsching
+de 09574 7100,hersbruck l pegnitz
+de 09574 7150,hersbruck r pegnitz
+de 08336 6606,herten baden
+de 07332 1553,herxheim am berg
+de 03156 41718,herzberg schlo
+de 05754 6102,herzebrock
+de 06635 205986,vhl herzhausen
+de 05334 3764,herzogenrath alt merkstein
+de 05334 3690,herzogenrath
+de 08237 1403,heselbach
+de 05754 9037,hesseln
+de 03252 2010,hessisch oldendorf
+de 06437 11231,hchst hetschbach
+de 06631 11070,hettenhausen
+de 06437 11224,beerfelden hetzbach
+de 05334 3768,herzogenrath august schmidt platz
+de 07231 40283,hetzerath
+de 09187 90021,heufeld
+de 09187 90002,heufeldmhle
+de 06438 4694,heusenstamm
+de 05758 1538,hiddenhausen schweicheln
+de 05970 10508,hilchenbach
+de 05158 19723,hilden sd
+de 03254 21061,hildesheim ost
+de 05970 10511,hillnhtten
+de 08216 34766,hilpertsau
+de 09576 8250,hilpoltstein
+de 03459 42460,hilter
+de 05515 47228,mnster hiltrup
+de 03359 8002843,himmelpforten
+de 08315 6516,himmelreich
+de 09677 75201,himmelstadt
+de 07340 8058,hinterweidenthal
+de 08315 6542,hinterzarten
+de 09187 90049,hinrichssegen
+de 08235 9020,hirsau
+de 09471 20700,hirschaid
+de 09774 2937,hirschfelden
+de 06431 1590,hirschhorn neckar
+de 07335 8024,hirschhorn pfalz
+de 03353 8002864,hittfeld
+de 03354 42663,hitzacker
+de 05158 19029,hochdahl
+de 05158 19720,hochdahl millrath
+de 08128 13001,hochhausen tauber
+de 06436 6998,hochheim main
+de 02000 80957,hamburg hochkamp
+de 07335 9117,hochspeyer
+de 06435 4599,maintal ost
+de 09478 27700,hochstadt marktzeuln
+de 07133 8175,hochsttten pfalz
+de 07133 30681,hochstetten nahe
+de 09774 2939,hochwang
+de 08226 1620,hockenheim
+de 03358 42765,hodenhagen
+de 06440 6599,altenstadt hchst
+de 09773 5400,hchstdt donau
+de 08235 8940,hfen enz bf
+de 08115 1003,hfingen
+de 09184 2240,hhenkirchen siegertsbrunn
+de 07340 8062,hhmhlbach
+de 09475 10529,hllenthal
+de 09184 2530,hllriegelskreuth
+de 06632 209620,wildeck hnebach
+de 09189 41048,hpfling
+de 02000 86962,hamburg hrgensweg
+de 08216 32828,hrden
+de 09177 9954,hrlkofen
+de 09189 41020,hrpolding
+de 05566 60000,hrstel
+de 05766 9016,hrstmar lippe
+de 09671 1197,hsbach
+de 05158 19528,hsel
+de 05774 6144,hvelhof
+de 05774 7253,hvelriege
+de 05762 7700,hxter rathaus
+de 09464 19,hof hbf
+de 09464 99001,hof neuhof
+de 10046 8002929,hofeld
+de 08136 1504,hofen b aalen
+de 08226 3545,hoffenheim
+de 05378 38401,hoffnungsthal
+de 06633 201373,hofgeismar
+de 06431 1757,hofheim ried
+de 06436 4199,hofheim taunus
+de 07132 90397,hohegrete
+de 09184 2220,hohenbrunn
+de 05114 21096,krefeld hohenbudberg chempark
+de 03254 12022,hoheneggelsen
+de 02000 71951,hamburg hoheneichen
+de 05914 2059,hohenlimburg
+de 09190 90208,hohenpeienberg
+de 09184 2560,hohenschftlarn
+de 09574 7640,hohenstadt mittelfr
+de 07331 1635,hohenslzen
+de 01058 43067,hohenwestedt
+de 03460 43174,holdorf oldb
+de 03353 8002967,holm seppensen
+de 03241 9848,holtensen linderte
+de 05558 16685,rosendahl holtwick
+de 05970 10891,holzhausen kr siegen
+de 05770 6087,holzhausen heddinghausen
+de 05162 20369,holzheim b neuss
+de 09182 43227,holzkirchen
+de 05382 58301,honrath
+de 05958 31895,hoppecke
+de 09779 5356,hoppingen
+de 07134 35409,hoppstdten nahe
+de 08237 5022,horb heiligenfeld
+de 05766 3382,horn bad meinberg
+de 08317 18820,hornberg schwarzw
+de 03359 8003002,horneburg
+de 01061 44297,horst holst
+de 03458 44456,hoykenkamp
+de 08317 14220,hubacker
+de 08326 6701,hfingen mitte
+de 06633 203423,hofgeismar hmme
+de 06631 11048,hnfeld
+de 05970 10528,siegen geisweid
+de 05970 10529,siegen weidenau
+de 07232 20614,httingen
+de 08115 7115,hulb
+de 09189 41071,hufschlag
+de 09190 41333,huglfing
+de 08315 6521,hugstetten
+de 03458 44595,huntlosen
+de 01059 44628,husby
+de 08215 32590,huttenheim
+de 08237 1421,huzenbach
+de 08317 14370,ibach
+de 05566 14317,ibbenbren
+de 09774 2678,ichenhausen
+de 09173 4750,icking
+de 07134 35000,idar oberstein
+de 06439 11318,idstein taunus
+de 07235 11155,igel
+de 09474 9600,igensdorf
+de 08128 12602,igersheim
+de 08315 6517,ihringen
+de 06633 203281,fuldatal ihringshausen
+de 09775 4301,illertissen
+de 09575 14450,illesheim
+de 10043 8003059,illingen saar
+de 08236 2590,illingen wrtt
+de 08327 1247,immendingen mitte
+de 06633 203459,immenhausen
+de 09377 7614,immenreuth
+de 03241 9184,immensen arpke
+de 09780 750,immenstadt
+de 08327 1908,immendingen zimmern
+de 07333 5409,imsweiler
+de 09174 6900,markt indersdorf
+de 07132 90092,ingelbach
+de 07339 8192,ingelheim
+de 09161 9009,ingolstadt nord
+de 01058 3797,aukrug
+de 09761 700,inningen
+de 07337 8305,insheim
+de 09675 4414,iphofen
+de 09575 14500,ipsheim
+de 09376 10593,irrenlohe
+de 02000 81951,hamburg iserbrook
+de 05962 6021,iserlohnerheide
+de 03241 6555,isernhagen
+de 09184 2040,ismaning
+de 08236 1790,ispringen
+de 05754 5727,isselhorst avenwedde
+de 08336 6632,istein
+de 09263 99001,ittling
+de 08125 668,ittlingen
+de 01061 46671,itzehoe
+de 08135 1417,itzelberg
+de 05366 73201,bad mnstereifel iversheim
+de 10041 8003108,jgersfreude
+de 08136 4609,jagstzell
+de 01051 46859,jarrenwisch
+de 09183 6060,jettenbach
+de 09774 2748,jettingen
+de 03455 47071,jever
+de 07334 35004,jockgrim bf
+de 08215 1531,jhlingen
+de 06435 11317,jossa
+de 05162 23812,jchen
+de 06438 4642,rodgau jgesheim
+de 07233 30431,jnkerath
+de 09277 10620,julbach
+de 02000 11950,hamburg jungfernstieg
+de 05162 20625,kaarster bahnhof
+de 09671 1055,kahl main
+de 06437 11448,hesseneck kailbach
+de 09180 10104,kainzenbad
+de 07135 11071,kaisersesch
+de 07312 8020,kaiserslautern pfaffwerk
+de 07312 8021,kaiserslautern west
+de 09572 6560,kalchreuth
+de 05366 77101,kall
+de 05362 83901,hrth kalscheuren
+de 03241 6300,langenhagen kaltenweide
+de 05962 748,kalthof kr iserlohn
+de 05978 11186,kamen
+de 05978 11188,kamen methler
+de 07141 11073,kamp bornhofen
+de 07334 32490,kandel
+de 07235 10413,kanzem
+de 05162 20013,kapellen wevelinghoven
+de 07337 5654,kapellen drusweiler
+de 07135 11159,treis karden
+de 08215 32592,karlsdorf
+de 06633 203050,bad karlshafen
+de 08212 6005,karlsruhe west
+de 08212 801,karlsruhe durlach
+de 08212 3102,karlsruhe hagsfeld
+de 08212 32586,karlsruhe knielingen
+de 08212 32587,karlsruhe mhlburg
+de 09677 29018,karlstadt main
+de 09275 4137,karpfham
+de 06611 200274,kassel harleshausen
+de 06611 200291,kassel jungfernkopf
+de 06611 209755,kassel kirchditmold
+de 06611 200225,kassel oberzwehren
+de 06611 200007,kassel wilhelmshhe
+de 09171 10003,kastl oberbay
+de 01054 48515,katharinenheerd
+de 01054 48530,kating
+de 03155 48531,katlenburg
+de 05566 13198,kattenvenne
+de 06532 11010,katzenfurt
+de 09564 1810,katzwang
+de 07335 8023,katzweiler
+de 07141 11353,kaub
+de 08317 15011,kehl
+de 08435 32007,kehlen
+de 01054 48669,keitum
+de 09775 4441,kellmnz
+de 06433 2901,kelsterbach
+de 09377 7651,kemnath neustadt
+de 09763 688,kempten allgu ost
+de 07312 8127,kennelgarten
+de 08316 6518,kenzingen
+de 06533 11111,kerkerbach
+de 09474 9100,kersbach
+de 07141 11355,kestert
+de 05113 9385,kettwig stausee
+de 05154 36115,kevelaer
+de 08416 2503,kiebingen
+de 09187 43675,kiefersfelden
+de 01002 49232,kiel schulen am langsee
+de 05362 84501,brhl kierberg
+de 01002 49327,kiel russee
+de 06435 4542,schneck kilianstdten
+de 09176 8840,kinding altmhltal
+de 07335 8124,kindsbach
+de 06440 11132,kirch gns
+de 09189 90005,kirchanschring
+de 08119 7502,kirchberg murr
+de 03241 5688,kirchdorf deister
+de 09474 9640,kirchehrenbach
+de 09479 9643,kirchenlamitz ost
+de 08416 2002,kirchentellinsfurt
+de 03461 49570,kirchhammelwarden
+de 08118 5723,kirchheim neckar
+de 08116 4211,kirchheim teck
+de 08116 4345,kirchheim teck tlingen
+de 08116 5777,kirchheim teck sd
+de 09679 5010,kirchheim unterfr
+de 07332 1685,kirchheim weinstr
+de 03257 189,kirchhorsten
+de 05966 10546,kirchhundem
+de 05758 1695,kirchlengern
+de 08216 32187,kirschbaumwasen
+de 09175 4040,kirchseeon
+de 03251 49817,kirchweyhe
+de 08315 6519,kirchzarten
+de 10045 8003294,kirkel
+de 07133 30574,kirn
+de 07133 30680,kirnsulzbach
+de 09771 1000,kissing
+de 09180 42871,klais
+de 01054 49993,klanxbll
+de 03353 8003309,klecken
+de 05315 19801,kln stammheim
+de 06435 8560,hanau klein auheim
+de 02000 80956,hamburg klein flottbek
+de 06433 11257,klein gerau
+de 09671 99136,kleinostheim
+de 06432 8123,gro umstadt klein umstadt
+de 07339 8009,klein winternheim ober olm
+de 09174 6930,kleinberghofen
+de 05315 18001,kln trimbornstr
+de 05162 23712,kleinenbroich
+de 03461 50380,kleinensiel
+de 09676 1820,kleinheubach
+de 08336 6633,kleinkems
+de 09774 2720,kleinktz
+de 09677 75208,kleingemnden
+de 05315 17551,kln bonn flughafen
+de 08215 1619,kleinsteinbach
+de 08236 2390,knittlingen kleinvillars
+de 09676 1085,kleinwallstadt
+de 08326 6666,brigachtal klengen
+de 09676 1180,klingenberg main
+de 09272 4976,klingenbrunn
+de 08326 6745,brigachtal kirchdorf
+de 07132 90408,kloster marienthal
+de 07111 10138,koblenz stadtmitte
+de 09772 7580,klosterlechfeld
+de 08237 9600,klosterreichenbach
+de 08435 14129,friedrichshafen kluftern
+de 03151 1019,knesebeck
+de 07337 8303,knringen essingen
+de 07137 11085,kobern gondorf
+de 07111 12958,koblenz ehrenbreitstein
+de 07111 12960,koblenz ltzel
+de 09173 4961,kochel
+de 09475 10530,kditz
+de 09375 263,kfering
+de 05315 18401,kln frankfurter strae
+de 05315 15201,kln geldernstr parkgrtel
+de 05315 11530,kln sd
+de 05315 16201,kln volkhovener weg
+de 05315 11701,kln west
+de 05315 19101,kln buchforst
+de 05315 16101,kln chorweiler
+de 05315 16301,kln chorweiler nord
+de 05315 19501,kln dellbrck
+de 05315 11950,kln messe deutz
+de 05315 19401,kln holweide
+de 05315 17203,kln airport businesspark
+de 05315 15501,kln longerich
+de 05315 15001,kln nippes
+de 05315 16601,kln worringen
+de 08316 6668,kndringen
+de 05315 13501,kln mngersdorf technologiepark
+de 08236 1793,knigsbach baden
+de 08135 1426,knigsbronn
+de 05315 17202,kln steinstrae
+de 08128 13927,knigshofen baden
+de 03154 244,knigslutter
+de 05315 13702,kln weiden west
+de 07132 90011,knigsstollen
+de 05382 56401,knigswinter
+de 06634 204385,krle
+de 05315 11801,kln hansaring
+de 09372 1708,bad ktzting
+de 07231 40998,kvenig
+de 05334 3750,kohlscheid
+de 09187 41772,kolbermoor
+de 08316 6667,kollmarsreute
+de 08316 6533,kollnau
+de 08335 6554,konstanz
+de 08335 6555,konstanz petershausen
+de 07235 10487,konz
+de 07235 10501,konz mitte
+de 08335 20878,konstanz frstenberg
+de 06635 205453,korbach sd
+de 07235 10533,kordel
+de 08317 15050,kork
+de 08118 7603,korntal
+de 02000 71950,hamburg kornweg klein borstel
+de 08118 1402,kornwestheim pbf
+de 05162 23857,korschenbroich
+de 09372 52551,kothmailing
+de 05382 51401,meckenheim kottenforst
+de 08335 6556,konstanz wollmatingen
+de 05966 10553,kraghammer
+de 05970 10554,kredenbach
+de 05114 21061,krefeld linn
+de 05114 21089,krefeld uerdingen
+de 07336 8028,kreimbach kaulbach
+de 01061 51381,krempe
+de 01061 51387,kremperheide
+de 08435 44168,kressbronn
+de 07235 10425,kreuz konz
+de 07131 80005,kreuzberg ahr
+de 09182 43677,kreuzstrae
+de 05366 72402,euskirchen kreuzweingarten
+de 06436 2101,kriftel
+de 09476 75002,kronach
+de 06434 2252,kronberg taunus
+de 07134 35411,kronweiler
+de 09774 2730,krumbach schwab
+de 01056 83950,krupunder
+de 08117 159,kuchen
+de 05366 72701,euskirchen kuchenheim
+de 06635 209747,klte wetterburg
+de 05754 9040,knsebeck
+de 05962 3116,kntrop
+de 09476 18952,kps
+de 01002 49320,kiel hassee citti park
+de 09477 75003,kulmbach
+de 01002 49316,kiel elmschenhagen
+de 01062 8003478,kupfermhle
+de 01058 51610,kronshagen
+de 08216 34763,kuppenheim
+de 07336 8550,kusel
+de 09772 6300,kutzenhausen
+de 07232 20744,kyllburg
+de 09375 558,laaber
+de 05970 10560,bad laasphe
+de 03241 9830,hannover messe laatzen
+de 09278 2841,laberweinting
+de 08226 1711,ladenburg
+de 09772 7570,lagerlechfeld
+de 05566 60007,ibbenbren laggenbeck
+de 05970 11628,bad laasphe niederlaasphe
+de 08317 12103,lahr schwarzw
+de 09462 22350,laineck
+de 07332 1730,lambrecht pfalz
+de 07338 1745,lambsheim
+de 06431 1771,lampertheim
+de 07335 8022,lampertsmhle otterbach
+de 09279 3350,landau isar
+de 07313 15081,landau pfalz sd
+de 07313 8050,landau pfalz west
+de 09181 511,landsberg lech
+de 09261 9991,landshut bay sd
+de 07335 8123,landstuhl
+de 10043 8003516,landsweiler reden
+de 02000 80950,hamburg landungsbrcken
+de 02000 10953,hamburg landwehr
+de 06531 11205,lang gns
+de 09276 4982,langdorf
+de 03153 5536,langelsheim
+de 06438 2705,langen hess
+de 08435 44160,langenargen
+de 08425 2102,langenau wrtt
+de 06438 11505,langen flugsicherung
+de 09178 2830,langenbach oberbay
+de 05158 10337,velbert langenberg
+de 08216 34670,langenbrand
+de 08215 1862,bad schnborn sd
+de 05158 19505,langenfeld rhld berghausen
+de 05158 19479,langenfeld rhld
+de 02000 84952,hamburg langenfelde
+de 03241 9898,langenhagen pferdemarkt
+de 07143 4873,langenhahn
+de 01054 53380,langenhorn schlesw
+de 03241 6631,langenhagen mitte
+de 09677 75202,langenprozelten
+de 06435 11061,langenselbold
+de 09780 703,langenwang schwab
+de 09573 5050,langenzenn
+de 05358 4566,langerwehe
+de 09577 16720,langlau
+de 06531 11140,langsdorf oberhess
+de 06432 11236,babenhausen langstadt
+de 09772 4200,langweid lech
+de 08337 6578,lauchringen west
+de 03454 8132,lathen
+de 09573 5039,laubendorf
+de 07133 8184,laubenheim nahe
+de 08136 4817,lauchheim
+de 08226 1825,laudenbach bergstr
+de 08128 13250,laudenbach wrtt
+de 09676 99308,laudenbach am main
+de 03357 53790,lauenbrck
+de 01053 8003577,lauenburg elbe
+de 03255 53845,lauenfrde beverungen
+de 09574 7000,lauf links pegnitz
+de 09574 7050,lauf rechts pegnitz
+de 09671 2058,laufach
+de 09172 42314,laufen oberbay
+de 08337 6643,laufenburg baden
+de 08337 6571,laufenburg baden ost
+de 09574 7040,lauf west
+de 08125 1438,lauffen neckar
+de 09773 5200,lauingen
+de 08426 6350,laupheim stadt
+de 08426 6321,laupheim west
+de 07141 11096,laurenburg lahn
+de 08317 14211,lautenbach baden
+de 06433 6801,riedstadt wolfskehlen
+de 05554 17491,legden
+de 08317 12475,legelshurst
+de 06531 11184,lehnheim
+de 05378 33101,leichlingen
+de 03151 997,leiferde b gifhorn
+de 05970 10568,leimstruth
+de 08116 175,leinfelden
+de 08125 7401,leingarten
+de 08125 7404,leingarten west
+de 09774 2942,leipheim
+de 03354 54758,leitstade
+de 05562 4092,lembeck
+de 03251 54785,lemfrde
+de 05766 2500,lemgo
+de 05766 20016,lemgo lttfeld
+de 03241 5860,lemmie
+de 05962 2062,lendringsen
+de 09777 9011,lengenwang
+de 05566 14087,lengerich westf
+de 06432 11230,otzberg lengfeld
+de 09173 4530,lenggries
+de 03152 54995,lenglern
+de 01055 55125,lensahn
+de 08115 7301,leonberg
+de 05766 3424,leopoldstal
+de 03454 55264,leschede
+de 05962 5999,letmathe dechenhhle
+de 05558 19113,lette kr coesfeld
+de 03241 4581,letter
+de 07138 10137,leubsdorf rhein
+de 09777 9012,leuterschach
+de 07138 12964,leutesdorf rhein
+de 05316 22201,leverkusen kppersteg
+de 05316 21201,leverkusen schlebusch
+de 05362 86301,erftstadt
+de 05316 21301,leverkusen rheindorf
+de 06531 11139,lich oberhess
+de 06531 11178,gieen licher str
+de 09276 10969,lichtenthal
+de 06533 11504,limburg sd
+de 06435 11153,lieblos
+de 10045 8003684,limbach b homburg saar
+de 07338 1917,limburgerhof
+de 08226 574,lindach
+de 09776 9013,lindau aeschach
+de 06533 11125,lindenholzhausen
+de 05370 3272,lindern
+de 06440 6502,altenstadt lindheim
+de 03257 398,lindhorst schaumb lippe
+de 03358 55895,lindwedel
+de 03454 8910,lingen ems
+de 07334 35001,lingenfeld
+de 03256 56145,linsburg
+de 07138 20037,linz rhein
+de 06632 209637,lispenhausen
+de 07233 7333,lissendorf
+de 05966 10582,listerscheid
+de 05970 10583,kreuztal littfeld
+de 09184 2580,lochham
+de 08317 14380,lcherberg
+de 03152 57306,ldingsen
+de 08315 6543,lffingen
+de 06533 11119,lhnberg
+de 08336 6600,lrrach hbf
+de 08336 6635,lrrach stetten
+de 06431 891,lrzenbach fahrenbach
+de 05315 13701,lvenich
+de 08435 32005,lwental
+de 09576 8010,lohgarten roth
+de 09184 2020,lohhof
+de 08336 3593,lrrach dammstrae
+de 08336 3603,lrrach museum burghof
+de 03460 56546,lohne oldb
+de 07336 8033,lohnweiler
+de 09677 29037,lohr bahnhof
+de 08336 6650,lrrach schwarzwaldstrae
+de 08425 2510,lonsee
+de 09778 2931,loppenhausen
+de 06439 11036,lorch rhein
+de 08136 7005,lorch wrtt
+de 06439 11037,lorchhausen
+de 06436 4101,lorsbach
+de 06431 2005,lorsch
+de 08237 9602,loburg rodt
+de 07314 2019,ludwigshafen rhein mitte
+de 03352 56855,loxstedt
+de 09574 7250,ludersheim
+de 09477 75004,ludwigschorgast
+de 08335 6557,ludwigshafen bodensee
+de 07314 2127,ludwigshafen mundenheim
+de 07314 2148,ludwigshafen oggersheim
+de 07314 2189,ludwigshafen rheingnheim
+de 09574 7740,ludwigshhe
+de 09476 15530,ludwigsstadt
+de 09276 10549,ludwigsthal
+de 05770 1850,lbbecke westf
+de 03356 57655,lbberstedt
+de 01003 58008,lbeck st jrgen
+de 01003 58094,lbeck kcknitz
+de 01003 58098,lbeck travemnde hafen
+de 01003 58104,lbeck travemnde strand
+de 05762 9032,lchtringen
+de 01003 57774,lbeck flughafen
+de 05962 6,ldenscheid
+de 05558 15617,ldinghausen
+de 05766 2354,lgde
+de 01003 57832,lbeck hochschulstadtteil
+de 01003 58093,lbeck dnischburg ikea
+de 05978 11217,lnern
+de 06631 11067,ltter
+de 05970 10893,ltzel
+de 08226 4081,weinheim ltzelsachsen
+de 09374 80494,luhe
+de 09374 80495,luhe wildenau
+de 10041 8003796,luisenthal saar
+de 01051 57124,lunden
+de 03352 57131,lunestedt
+de 03460 57169,lutten
+de 05558 35257,lutum
+de 08115 3196,magstadt
+de 08115 3198,maichingen
+de 07337 8300,maikammer kirrweiler
+de 09671 99137,mainaschaff
+de 09477 3660,mainleus
+de 09478 27550,mainroth
+de 07315 32003,mainz nord
+de 07315 8018,mainz rmisches theater
+de 07315 8011,mainz gonsenheim
+de 06433 6901,mainz gustavsburg
+de 07315 8181,mainz laubenheim
+de 07315 8010,mainz marienborn
+de 07315 8195,mainz mombach
+de 09179 6140,maisach
+de 09179 6150,malching oberbay
+de 01055 5261,bad malente gremsmhlen
+de 09278 3520,mallersdorf
+de 08115 1301,malmsheim
+de 08215 8306,malsch
+de 08215 8301,malsch sd
+de 08115 3197,maichingen nord
+de 06635 205076,mandern
+de 09471 20990,manndorf
+de 08222 2641,mannheim arena maimarkt
+de 08222 2334,mannheim friedrichsfeld sd
+de 08222 2356,mannheim kfertal
+de 08222 2481,mannheim neckarau
+de 08222 2525,mannheim rheinau
+de 08222 2586,mannheim seckenheim
+de 08222 2615,mannheim waldhof
+de 08435 4505,friedrichshafen manzell
+de 08415 28724,marbach grafeneck
+de 08118 7503,marbach neckar
+de 08326 6744,marbach west villingen schwenningen
+de 05554 12976,marbeck heiden
+de 06534 11323,marburg sd
+de 08326 6752,marbach ost villingen schwenningen
+de 09780 9014,maria rain
+de 05554 16643,maria veen
+de 03452 59253,marienhafe
+de 08435 4646,markdorf baden
+de 08335 6558,markelfingen
+de 08128 12144,markelsheim
+de 09575 14550,markt bibart
+de 09777 9015,marktoberdorf schule
+de 09575 14600,markt erlbach
+de 09175 3970,markt schwaben
+de 09675 29593,marktbreit
+de 09171 1335,marktl
+de 09479 9368,marktleuthen
+de 09777 1100,marktoberdorf
+de 09477 5189,marktschorgast
+de 05562 3224,marl mitte
+de 05562 4778,marl hamm
+de 05562 3703,marl sinsen
+de 07333 5451,marnheim
+de 05958 11467,marsberg
+de 08436 1235,marstetten aitrach
+de 09475 80496,martinlamitz
+de 07133 30582,martinstein
+de 09780 9016,martinszell allgu
+de 09475 80500,marxgrn
+de 09178 2820,marzling
+de 03353 8003906,maschen
+de 05978 17977,massen
+de 09277 6130,massing
+de 07334 1724,maximiliansau im rsten
+de 09189 90006,matzing
+de 08119 7601,maubach
+de 08226 2800,mauer b heidelberg
+de 05913 831,dortmund krne west
+de 08236 2293,maulbronn stadt kloster
+de 08336 6602,maulburg
+de 09375 560,mausheim
+de 09376 122,maxhtte haidhof
+de 07334 1721,maximiliansau eisenbahnstrae
+de 05978 6054,unna west
+de 07131 80334,mayscho
+de 05366 75101,mechernich
+de 03353 8003929,meckelfeld
+de 08435 4203,meckenbeuren
+de 05382 51101,meckenheim bz kln
+de 08226 2835,meckesheim
+de 05913 629,dortmund wickede west
+de 05382 51402,meckenheim industriepark
+de 09473 15133,meeder
+de 05966 10605,lennestadt meggen
+de 05170 37030,mehrhoog
+de 05913 66,dortmund west
+de 03151 857,meine
+de 03151 2451,meinersen
+de 05962 2630,meinerzhagen
+de 09772 4300,meitingen
+de 06440 11486,melbach
+de 01051 60319,meldorf
+de 03459 60340,melle
+de 03241 6864,mellendorf
+de 09673 27316,mellrichstadt bf
+de 01058 60431,melsdorf
+de 06634 204813,melsungen
+de 05962 6058,menden sauerland sd
+de 05382 55901,menden rheinl
+de 05962 2003,menden sauerland
+de 08437 44003,mengen
+de 06635 209751,mengeringhausen
+de 06634 204805,melsungen bartenwetzerbrcke
+de 03454 8779,meppen
+de 09771 1200,merching
+de 10043 8003980,merchweiler
+de 09771 1100,mering
+de 05570 60015,mersch westf
+de 05382 59102,merten sieg
+de 07332 2845,mertesheim
+de 09779 6200,mertingen bahnhof
+de 05358 4738,merzenich
+de 10042 8003991,merzig saar stadtmitte
+de 10042 8003992,merzig saar
+de 05958 11542,meschede
+de 06432 11258,messel
+de 05958 31904,messinghausen
+de 05566 13927,rheine mesum
+de 05566 12977,metelen land
+de 07331 2850,mettenheim
+de 10042 8004004,mettlach
+de 05158 19083,mettmann stadtwald
+de 05158 19020,mettmann zentrum
+de 09771 1120,mering st afra
+de 08415 22008,metzingen wrtt
+de 09478 27800,michelau oberfr
+de 09677 75206,michelaubrck
+de 06437 11222,michelstadt
+de 09182 43310,miesbach
+de 05170 37031,millingen b rheinb
+de 05154 40035,millingen b rees
+de 09372 50624,miltach
+de 09574 7360,mimberg
+de 08435 4580,salem
+de 09774 2731,mindelaltheim
+de 08215 1863,bad schnborn kronau
+de 06435 11152,mittel grndau
+de 09677 75203,mittelsinn
+de 09180 42873,mittenwald
+de 09183 80507,mittergars
+de 02000 21951,hamburg mittlerer landweg
+de 08436 9001,mochenwangen
+de 08125 912,mckmhl
+de 08136 7101,mgglingen gmnd
+de 01053 8004057,mlln lauenb
+de 06633 203240,espenau mnchehof
+de 05116 23539,mnchengladbach genhausen
+de 05116 23235,mnchengladbach rheindahlen
+de 09473 75251,mnchrden
+de 06433 4899,mrfelden
+de 06431 2886,mrlenbach
+de 08327 1331,mhringen rathaus
+de 08327 1332,mhringen bahnhof
+de 08416 1006,mssingen
+de 09779 5342,mttingen
+de 08236 5691,monbach neuhausen
+de 07137 11114,monreal
+de 07133 30563,monzingen
+de 09178 2840,moosburg
+de 09672 75219,morlesau
+de 01054 62722,morsum
+de 08225 8209,mosbach baden
+de 08225 6343,mosbach west
+de 07132 90493,mudersbach
+de 06535 11210,mcke hess
+de 08236 2690,mhlacker rlesweg
+de 08237 5212,mhlen b horb
+de 03460 63458,mhlen oldb
+de 08335 6559,mhlhausen b engen
+de 08327 1353,mhlheim b tuttlingen
+de 06438 4598,mhlheim main
+de 09576 8700,mhlstetten
+de 05117 15227,mlheim ruhr west
+de 08315 6522,mllheim baden
+de 06437 11232,hchst mmling grumbach
+de 09475 9060,mnchberg
+de 03153 4780,mnchehof harz
+de 09162 8,mnchen donnersbergerbrcke
+de 09162 7,mnchen hackerbrcke
+de 09162 1130,mnchen harras
+de 09162 3,mnchen isartor
+de 09162 1,mnchen karlsplatz
+de 09162 1700,mnchen leienfelsstr
+de 09162 900,mnchen leuchtenbergring
+de 09162 2,mnchen marienplatz
+de 09162 4,mnchen rosenheimer platz
+de 09162 1310,mnchen siemenswerke
+de 09162 1100,mnchen st martin str
+de 09162 1930,mnchen untermenzing
+de 09162 1910,mnchen allach
+de 09162 1710,mnchen aubing
+de 09162 910,mnchen berg am laim
+de 09162 700,mnchen daglfing
+de 09162 710,mnchen englschalking
+de 09162 310,mnchen fasanerie
+de 09162 1120,mnchen fasangarten
+de 09162 320,mnchen feldmoching
+de 09162 1110,mnchen giesing
+de 09162 720,mnchen johanneskirchen
+de 09174 1920,mnchen karlsfeld
+de 09162 9,mnchen laim
+de 09162 1800,mnchen langwied
+de 09162 1810,mnchen lochhausen
+de 09162 1300,mnchen mittersendling
+de 09162 300,mnchen moosach
+de 09162 1730,mnchen neuaubing
+de 09162 1900,mnchen obermenzing
+de 09162 10,mnchen pasing
+de 09162 1000,mnchen perlach
+de 09162 800,mnchen riem
+de 09162 1320,mnchen solln
+de 09162 920,mnchen trudering
+de 09162 1720,mnchen westkreuz
+de 06534 11086,mnchhausen
+de 09186 9017,mnchsmnster
+de 07340 8059,mnchweiler rodalb
+de 09162 2860,mnchen flughafen besucherpark
+de 09162 3240,mnchen flughafen terminal
+de 09672 27325,mnnerstadt
+de 06432 11488,mnster b dieburg
+de 07339 8182,mnster sarmsheim
+de 05515 41531,mnster w zentrum nord
+de 07233 30998,mrlenbach
+de 01053 8004177,mssen
+de 08216 1843,muggensturm
+de 09162 31,mnchen hirschgarten
+de 09162 1740,mnchen freiham
+de 08425 3481,munderkingen
+de 03358 62938,munster rtze
+de 08337 6573,murg baden
+de 09180 42899,murnau
+de 09180 10106,murnau ort
+de 08119 4916,murrhardt
+de 07316 3135,mubach
+de 05515 46625,mnster roxel
+de 09376 7288,nabburg
+de 08216 1850,muggensturm badesee
+de 07339 8083,nackenheim
+de 08235 10426,nagold steinberg
+de 08235 10168,nagold
+de 09475 8939,naila
+de 10046 8004199,namborn
+de 07137 12961,namedy
+de 08235 10446,nagold stadtmitte
+de 08235 697,nagold iselshausen
+de 09179 6160,mammendorf
+de 07141 11117,nassau lahn
+de 09778 2941,nassenbeuren
+de 03459 64390,natrup hagen
+de 06433 11326,nauheim b gr gerau
+de 05158 19191,neanderthal
+de 08225 8208,neckarburken
+de 08225 9129,neckargerach
+de 08226 2994,neckargemnd altstadt
+de 06431 3045,neckarhausen bei neckarsteinach
+de 06431 3047,neckarsteinach
+de 08125 620,neckarsulm
+de 08225 8223,neckarzimmern
+de 07135 15570,neef
+de 08125 31502,neckarsulm sd
+de 03355 8004227,neetzendorf
+de 05958 11019,neheim hsten
+de 08416 2103,nehren
+de 05913 825,dortmund dorstfeld sd
+de 08125 31503,neckarsulm mitte
+de 08119 1601,nellmersbach
+de 05366 74431,nemmenich
+de 08327 1371,nendingen b tuttlingen
+de 10042 8004236,nennig
+de 08125 31504,neckarsulm nord
+de 09775 4801,nersingen
+de 09777 1320,nesselwang
+de 02000 21952,hamburg nettelnburg
+de 05366 76136,nettersheim
+de 06438 2701,neu isenburg
+de 03353 51988,neu wulmstorf
+de 09188 5370,neugilching
+de 09372 2360,neubu
+de 05570 14606,neubeckum
+de 09184 2200,neubiberg
+de 07134 35406,neubrcke nahe
+de 09185 7600,neuburg donau
+de 09774 3050,neuburg kammel
+de 07334 32465,neuburg rhein
+de 08125 1904,neudenau
+de 03151 7019,neudorf platendorf
+de 08236 1491,neuenbrg enz sd
+de 08236 1490,neuenbrg enz
+de 02000 10951,hamburg hammerbrook
+de 02000 40950,hamburg harburg rathaus
+de 09571 13100,neuendettelsau
+de 05913 635,dortmund kley
+de 03460 65535,neuenkirchen oldb
+de 05962 3141,neuenrade
+de 08126 10902,neuenstein
+de 09178 2660,neufahrn b freising
+de 08325 20533,rottweil neufra
+de 09574 7550,neuhaus pegnitz
+de 05913 640,dortmund oespel
+ch 23017 55721,neuhausen bad bf
+de 06631 11050,neuhof kr fulda
+de 06632 202267,haunetal neukirchen
+de 09275 4090,neukirchen inn
+de 03359 8004302,neukloster kr stade
+de 08226 3101,neuluheim
+de 09373 17000,neumarkt oberpf
+de 07316 7905,neustadt weinstr sd
+ch 23017 5298,neunkirch
+de 09574 7570,neunkirchen sand
+de 10043 8004312,neunkirchen saar wellesweiler
+de 05970 10102,neunkirchen kr siegen
+de 09171 1262,neutting
+de 05162 20496,neuss rheinparkcenter
+de 05162 20105,neuss sd
+de 09772 5000,neus
+de 09476 18953,neuses b kronach
+de 05162 20390,neuss am kaiser
+de 09377 9318,neusorg
+de 03241 9888,neustadt am rbenberge
+de 09575 14000,neustadt aisch bahnhof
+de 09473 15363,neustadt b coburg
+de 09273 2200,neustadt donau
+de 01055 66582,neustadt holst
+de 06534 11075,neustadt kr marburg
+de 08315 6544,neustadt schwarzw
+de 09374 11149,neustadt waldnaab
+de 08119 1602,neustadt hohenacker
+de 05162 20727,neuss allerheiligen
+de 09575 14040,neustadt aisch mitte
+de 08111 1403,neuwirtshaus porscheplatz
+de 05158 10350,velbert neviges
+de 01054 66926,niebll
+de 10044 8004344,niedaltdorf
+de 07331 3235,nieder flrsheim dalsheim
+de 06535 11186,nieder ohmen
+de 07339 8008,nieder olm
+de 06432 11227,mhltal
+de 06438 4644,rodgau nieder roden
+de 07331 8007,saulheim
+de 06440 4403,nieder wllstadt
+de 08111 34,stuttgart nrnberger str
+de 08436 8317,niederbiegen
+de 06533 11126,niederbrechen
+de 05382 56501,niederdollendorf
+de 06435 4549,niederdorfelden
+de 05970 10637,niederdresselndorf
+de 06533 11021,niederhadamar
+de 07339 32620,niederheimbach
+de 06436 2213,niederhchstadt
+de 07132 90544,niederhvels
+de 06436 6199,niederjosbach
+de 09278 10596,niederlindhart
+de 10046 8004392,niederlinxweiler
+de 07137 14318,mendig
+de 06435 11060,niedermittlau
+de 07335 8544,niedermohr
+de 06439 6101,niedernhausen taunus
+de 09774 2934,niederraunau
+de 06435 11062,rodenbach b hanau
+de 09174 6890,niederroth
+de 06532 11006,niederscheld dillkr sd
+de 05970 7331,niederschelden
+de 05970 10099,niederschelden nord
+de 06533 11124,niederselters
+de 08128 12910,niederstetten
+de 08135 1524,niederstotzingen
+de 06633 203842,vellmar niedervellmar
+de 06534 11083,niederwalgern
+de 06439 11028,niederwalluf
+de 05913 472,dortmund universitt
+de 06534 11082,niederweimar
+de 08316 6524,niederwinden
+de 06533 11019,niederzeuzheim
+de 08236 2890,niefern
+de 05515 48521,mnster hger
+de 06412 510,frankfurt m konstablerwache
+de 05158 10353,velbert nierenhof
+de 07339 8084,nierstein
+de 05154 36114,nieukerk
+de 05162 20314,nievenheim
+de 07141 11535,nievern
+de 08128 13309,niklashausen
+de 07235 7451,nittel
+de 05914 2433,hagen westerbauer
+de 03155 68990,nrten hardenberg
+de 09564 427,nrnberg drrenhof
+de 07134 35401,nohen
+de 09776 9018,nonnenhorn
+de 05978 21858,nordbgge
+de 03452 67921,norddeich
+de 09772 4400,nordendorf
+de 03461 67997,nordenham
+de 09678 75010,oberwerrn
+de 01051 68292,nordhastedt
+de 08125 8155,nordheim wrtt
+de 03352 68334,nordholz
+de 05566 31258,nordwalde
+de 05162 20207,norf
+de 07133 30541,norheim
+de 08315 6670,norsingen
+de 01058 68811,nortorf
+de 09564 1335,nrnberg nordost
+de 09564 451,nrnberg ostring
+de 09564 1310,nrnberg ost
+de 09564 710,nrnberg rothenburger str
+de 05911 5868,bochum langendreer west
+de 09564 1510,nrnberg dutzendteich
+de 09564 1913,nrnberg eibach
+de 09564 1311,nrnberg erlenstegen
+de 09564 1412,nrnberg laufamholz
+de 09564 1431,nrnberg mgeldorf
+de 09564 1912,nrnberg reichelsdorf
+de 09564 611,nrnberg sandreuth
+de 09564 610,nrnberg schweinau
+de 09564 1910,nrnberg stein
+de 09564 620,nrnberg steinbhl
+de 08116 2931,nrtingen
+de 07316 3145,neustadt bbig
+de 08115 5775,nufringen
+de 09564 1411,nrnberg rehhof
+de 09564 410,nrnberg frankenstadion
+de 08116 2105,oberaichen
+de 06432 11228,ober ramstadt
+de 06440 11143,ober widdersheim
+de 09180 42929,oberammergau
+de 09573 5611,oberasbach
+de 09180 42936,oberau
+de 09187 43669,oberaudorf
+de 07233 30669,oberbettingen hillesheim
+de 07235 10703,oberbillig
+de 06631 11196,oberbimbach
+de 08116 5770,oberboihingen
+de 06533 11127,oberbrechen
+de 05370 3490,heinsberg oberbruch
+de 09571 13160,oberdachstetten
+de 06435 4548,schneck oberdorfelden
+de 09775 4911,oberelchingen
+de 06633 203965,oberelsungen
+de 07132 90127,obererbach
+de 08116 1802,oberesslingen
+de 09574 7370,oberferrieden
+de 09173 4520,obergries
+de 09771 2200,obergriesbach
+de 09471 21500,oberhaid
+de 05119 14453,oberhausen holten
+de 05119 14210,oberhausen osterfeld sd
+de 05119 14190,oberhausen sterkrade
+de 08317 14020,oberkirch
+de 08317 14025,oberkirch khlersiedlung
+de 08136 5113,oberkochen
+de 07141 13803,oberlahnstein
+de 08337 6608,lauchringen
+de 08116 4418,oberlenningen
+de 09278 10597,oberlindhart
+de 10046 8004555,oberlinxweiler
+de 07335 8543,obermohr
+de 09661 99083,obernau
+de 09676 99309,obernburg elsenfeld
+de 08325 6596,oberndorf neckar
+de 05970 10651,oberndorf wittgenstein
+de 07141 14432,obernhof lahn
+de 09772 7540,oberottmarshausen
+de 08225 8205,oberschefflenz
+de 09184 2000,oberschleiheim
+de 09677 75204,obersinn
+de 09780 1783,oberstaufen
+de 09780 700,oberstdorf
+de 06632 202598,wildeck obersuhl
+de 09375 565,obertraubling
+de 06438 4690,obertshausen kr
+de 08216 32153,obertsrot
+de 08435 4594,uhldingen mhlhofen
+de 06434 2303,oberursel taunus
+de 06633 203833,vellmar obervellmar
+de 07140 11126,oberwesel
+de 08316 6525,oberwinden
+de 07131 80087,oberwinter
+de 08436 8122,oberzell
+de 09574 7870,ochenbruck
+de 03451 98668,westerstede ocholt
+de 05566 31053,ochtrup
+de 07339 32979,ockenheim
+de 05382 52401,swisttal odendorf
+de 08126 19602,hringen cappel
+de 08126 10220,hringen hbf
+de 08126 19603,hringen west
+de 05570 14717,oelde
+de 03459 50592,kloster oesede
+de 03459 70349,oesede
+de 09672 75199,oerlenbach
+de 05766 3885,oerlinghausen
+de 08236 2290,lbronn drrn
+de 09473 75250,rdental
+de 06439 11032,oestrich winkel
+de 08216 1821,tigheim
+de 08236 2790,tisheim
+de 08317 14517,offenburg kreisschulzentrum
+de 06413 8601,offenbach waldhof
+de 05958 35319,oeventrop
+de 08125 4557,offenau
+de 06413 2601,offenbach main ost
+de 06413 2640,offenbach bieber
+de 03155 92881,offensen kr north
+de 06438 4790,dreieich offenthal
+de 09774 2779,offingen
+de 08226 3285,oftersheim
+de 02000 90950,hamburg ohlsdorf
+de 09180 10007,ohlstadt
+de 06440 4402,okarben
+de 03153 1888,oker
+de 09179 6110,olching
+de 03356 71069,oldenbttel
+de 01055 70705,oldenburg holst
+de 05966 14415,olpe
+de 05958 11310,olsberg
+de 07335 8026,olsbrcken
+de 08317 14360,oppenau
+de 07339 8085,oppenheim
+de 08119 5786,oppenweiler wrtt
+de 08317 18601,orschweier
+de 03404 71500,osnabrck altstadt
+de 03404 71812,osnabrck sutthausen
+de 05162 19871,meerbusch osterath
+de 09271 80497,osterhofen nby
+de 09182 90188,osterhofen oberbay
+de 03356 72058,osterholz scharmbeck
+de 09187 42002,ostermnchen
+de 03156 72199,osterode am harz mitte
+de 03156 72193,osterode am harz leege
+de 07141 11358,osterspai
+de 01058 72269,osterstedt
+de 03252 7290,osterwald
+de 09673 75268,ostheim rhn
+de 06440 11134,ostheim b butzbach
+de 06435 11480,ostheim kr hanau
+de 07331 3295,osthofen
+de 02000 80955,hamburg othmarschen
+de 05762 7718,ottbergen
+de 08216 32827,ottenau
+de 09177 3250,ottenhofen oberbay
+de 09575 14520,ottenhofen bergel
+de 09574 7630,ottensoos
+de 09182 43342,otterfing
+de 03352 72538,otterndorf
+de 03361 72578,ottersberg han
+de 09189 90038,otting
+de 09779 6459,otting weilheim
+de 09184 2210,ottobrunn
+de 03241 9814,otze
+de 05378 37101,overath
+de 08116 5779,owen teck
+de 01058 72711,owschlag
+de 09780 895,oy mittelberg
+de 05774 7015,paderborn kasseler tor
+de 05774 7087,paderborn nord
+de 05362 88901,paffendorf
+de 09186 9019,paindorf
+de 07235 7467,palzem
+de 09271 80502,pankofen
+de 01055 72963,pansdorf
+de 03454 7765,papenburg ems
+de 09577 16700,pappenheim
+de 09373 17750,parsberg
+de 09677 28085,partenstein
+de 09377 10602,pechbrunn
+de 09472 22600,pegnitz
+de 03157 8049,peine
+de 09184 2270,pei
+de 09190 59014,peienberg
+de 09190 90207,peienberg nord
+de 09190 90209,peiting nord
+de 09190 41422,peiting ost
+de 09190 41436,penzberg
+de 09278 10598,perkam
+de 10042 8004771,perl
+de 09571 13250,petersaurach
+de 09174 6840,petershausen obb
+de 05770 4479,petershagen lahde
+de 08416 2043,pfffingen
+de 09778 2929,pfaffenhausen
+de 09186 8134,pfaffenhofen ilm
+de 07211 2302,pfalzel
+de 09277 80599,pfarrkirchen
+de 07319 4364,pfeddersheim
+de 08136 5301,pflaumloch
+de 09571 13260,petersaurach nord
+de 08231 3991,brtzingen mitte
+de 08231 332,pforzheim weienstein
+de 09376 10594,pfreimd
+de 08231 3993,pforzheim maihlden
+de 09777 1700,pfronten ried
+de 09777 9020,pfronten steinach
+de 09777 1701,pfronten weibach
+de 08215 32589,philippsburg baden
+de 07232 21133,philippsheim
+de 09172 47035,piding
+de 06432 24528,pfungstadt
+de 01056 99951,pinneberg
+de 09474 9770,pinzberg
+de 07317 8140,pirmasens hbf
+de 07137 24523,plaidt
+de 09184 2600,planegg
+de 09577 16800,pleinfeld
+de 05962 2854,plettenberg
+de 01057 74145,pln
+de 08119 5761,plderhausen
+de 09275 4100,pocking
+de 09373 17172,plling
+de 01055 74957,pnitz holst
+de 09372 2103,psing
+de 03241 8110,poggenhagen
+de 09273 80539,poikam
+de 09175 3960,poing
+de 09574 7650,pommelsbrunn
+de 07135 14552,pommern mosel
+de 02000 71953,hamburg poppenbttel
+de 09678 18998,poppenhausen
+de 05770 4595,porta westfalica
+de 05315 17301,porz rhein
+de 05315 17701,porz wahn
+de 09188 5460,possenhofen
+de 09373 17850,postbauer heng
+de 05154 36112,praest
+de 01057 74630,preetz
+de 09374 7196,pressath
+de 09476 16014,pressig rothenkirchen
+de 09474 9800,pretzfeld
+de 05978 11213,preuen
+de 09187 41818,prien chiemsee
+de 01056 8004888,prisdorf
+de 09179 6170,puchheim
+de 05362 81101,pulheim
+de 09184 2520,pullach
+de 09178 2670,pulling b freising
+de 09573 5270,puschendorf
+de 01055 74911,puttgarden
+de 05711 10183,quelle kupferheide
+de 05362 88301,quadrath ichendorf
+de 05711 5063,quelle
+de 10041 8004909,quierschied
+de 07211 9001,quint
+de 03355 8004913,radbruch
+de 09771 2400,radersdorf
+de 09278 10599,radldorf niederbay
+de 05770 4738,rahden kr lbbecke
+de 05111 18995,dsseldorf hellerhof
+de 09779 5451,rain
+de 09573 5360,raindorf
+de 01057 75570,raisdorf
+de 09190 45004,raisting
+de 09573 5140,raitersaich
+de 09778 3856,rammingen bay
+de 09187 90201,ramerberg
+de 07336 8549,rammelsbach
+de 08425 2261,rammingen wrtt
+de 08317 14351,ramsbach birkhof
+de 08317 14350,ramsbach hfle
+de 09577 16770,ramsberg
+de 07333 5000,ramsen
+de 09472 22810,ramsenthal
+de 07335 8541,ramstein
+de 06440 11146,ranstadt
+de 08216 31994,rastatt beinle
+de 03451 75802,rastede
+de 05158 18634,ratingen ost
+de 01053 8004952,ratzeburg
+de 09187 41850,raubling
+de 05970 10675,raumland markhausen
+de 08216 32184,raumnzach
+de 06433 4910,raunheim
+de 08436 8000,ravensburg
+de 09176 9021,rebdorf hofmhle
+de 07131 80339,rech
+de 08425 3412,rechtenstein
+de 03460 76048,rechterfeld
+de 09471 21630,reckendorf
+de 05566 13031,reckenfeld
+de 07336 8031,reckweilerhof
+de 09576 8650,rednitzhembach
+de 09478 27850,redwitz rodach
+de 09276 5000,regen
+de 09362 1,regensburg prfening
+de 09375 22000,regenstauf
+de 09475 9252,rehau
+de 07336 8540,rehweiler
+de 09564 1911,reichelsdorfer keller
+de 06440 11157,reichelsheim wett
+de 08335 6561,reichenau baden
+de 08116 4224,reichenbach fils
+de 08115 3195,renningen sd
+de 09679 99005,reichenberg unterfr
+de 06636 206404,wehretal reichensachsen
+de 09574 7670,reichenschwand
+de 09173 4500,reichersbeuern
+de 09186 8141,reichertshausen ilm
+de 08128 13533,reicholzheim
+de 08226 3547,reihen
+de 07231 40989,reil
+de 08226 204,reilsheim
+de 01062 25951,reinbek
+de 01062 8005019,reinfeld holst
+de 06432 11229,reinheim odenw
+de 01051 76506,reinsbttel
+de 06431 303,reisen hess
+de 06531 11180,reiskirchen kr gi
+de 09676 99310,collenberg
+de 05554 16598,reken
+de 05113 9159,essen borbeck sd
+de 05120 12077,remscheid hbf
+de 05120 12058,remscheid gldenwerth
+de 05120 12113,remscheid lttringhausen
+de 08317 13554,renchen
+de 06633 203976,baunatal rengershausen
+de 10045 8005044,rentrisch
+de 09674 75111,rentweinsdorf
+de 03241 1641,rethen leine
+de 09677 28347,retzbach zellingen
+de 09377 7170,reuth b erbendorf
+de 08415 22005,reutlingen west
+de 08415 22004,reutlingen betzingen
+de 08415 29233,reutlingen sondelfingen
+de 05562 3077,rhade
+de 05382 52502,rheinbach rmerkanal
+de 05382 52501,rheinbach
+de 05170 37033,rheinberg rheinl
+de 07138 10106,rheinbrohl
+de 08336 6578,rheinfelden baden
+de 05112 16452,rheinhausen ost
+de 08215 32588,rheinsheim
+de 08336 6629,rheinweiler
+de 07334 35003,rheinzabern bf
+de 07334 1744,rheinzabern rappengasse
+de 07334 1743,rheinzabern alte rmerstrae
+de 05116 23190,rheydt odenkirchen
+de 05382 56201,rhndorf
+de 08125 667,richen b eppingen
+de 01060 37980,rickling
+de 06631 11068,ried
+de 09181 505,riederau
+de 08426 6470,riedlingen
+de 06431 426,riedrode
+de 08316 5290,riegel malterdingen
+ch 23005 826,riehen
+de 09677 75005,rieneck
+ch 23005 827,riehen niederholz
+de 07340 8063,rieschweiler
+de 01058 77715,rieseby
+de 03459 77735,rieste
+de 08327 1436,rietheim wrtt
+de 06431 3360,rimbach
+de 08317 16700,ringsheim
+de 05570 35260,rinkerode
+de 07337 8055,rinnthal
+de 03257 102,rinteln
+de 08225 6624,rippberg
+de 02000 81953,hamburg rissen
+de 03356 78056,ritterhude
+de 07333 8173,rockenhausen
+de 09473 15151,bad rodach
+de 07340 8060,rodalben
+de 06532 11002,rodenbach dillkr
+de 03461 78185,rodenkirchen oldb
+de 06440 11198,rodheim hhe
+de 09372 2307,roding
+de 09473 75253,rdental mitte
+de 06634 204814,melsungen rhrenfurth
+de 09174 6820,rhrmoos
+de 06631 11066,rnshausen
+de 09479 10605,rslau
+de 05378 38101,rsrath
+de 08237 9601,rt
+de 08315 6545,rtenbach baden
+de 03151 7023,rtgesbttel
+de 09776 1420,rthenbach allgu
+de 09374 10554,rthenbach oberpf
+de 09574 7700,rthenbach pegnitz
+de 09574 7720,rthenbach steinberg
+de 09574 7710,rthenbach seespitze
+de 05378 38102,rsrath stmpen
+de 09183 10612,rohrbach oberbay
+de 07337 8306,rohrbach pfalz
+de 09185 8709,rohrenfeld
+de 08125 1913,roigheim
+de 05382 53101,roisdorf
+de 07131 12943,rolandseck
+de 09574 7580,rollhofen
+de 06438 4615,rodgau rollwald
+de 08119 7701,rommelshausen
+de 05162 20259,rommerskirchen
+de 03241 9844,ronnenberg
+de 06632 209619,ronshausen
+de 06440 11197,rosbach hhe
+de 05382 59902,rosbach sieg
+de 09272 10507,rosenau b grafenau
+de 08225 6109,rosenberg baden
+de 07336 8029,robach pfalz
+de 09163 defas 21955,rosenheim hochschule
+de 09573 5150,rotal
+de 09573 5160,rotal wegbrcke
+de 08127 20492,rot am see
+de 08226 3806,rot malsch
+de 06632 202508,rotenburg fulda
+de 08216 34762,bad rotenfels bf
+de 06435 19150,roth
+de 08216 32825,bad rotenfels schloss
+de 08216 32826,bad rotenfels weinbrennerstrae
+de 09475 10534,rothenbrg
+de 09571 11600,rothenburg ob der tauber
+de 02000 10954,hamburg rothenburgsort
+de 09187 41915,rott inn
+de 08425 3501,rottenacker
+de 08416 1005,rottenburg neckar
+de 09679 5035,rottendorf
+de 09672 75200,rottershausen
+de 08325 20523,rottweil gllsdorf
+de 08115 3212,goldberg wrtt
+de 08325 20524,rottweil saline
+de 05970 10688,rudersdorf siegen
+de 02000 70952,hamburg rbenkamp
+de 09671 1992,rckersbacher schlucht
+de 09574 7750,rckersdorf mfr
+de 06439 11034,rdesheim rhein
+de 07334 1745,rlzheim freizeitzentrum
+de 07334 32451,rlzheim bf
+de 05374 44601,rnderoth
+de 09474 9610,rsselbach
+de 06433 4912,rsselsheim
+de 06433 4913,rsselsheim opelwerk
+de 09189 40958,ruhpolding
+de 09275 4045,ruhstorf
+de 05112 16280,rumeln
+de 05914 2298,rummenohl
+de 06533 11112,runkel
+de 09574 7440,rupprechtstegen
+de 08115 1302,rutesheim
+de 09273 253,saal donau
+de 10041 8005241,saarbrcken ost
+de 10041 8005243,saarbrcken burbach
+de 07235 7484,saarburg bz trier
+de 10042 8005246,saarhlzbach
+de 10044 8005247,saarlouis hbf
+de 06531 11181,saasen
+de 09571 13330,sachsen b ansbach
+de 08118 5639,sachsenheim
+de 08337 6566,bad sckingen
+de 03361 79996,sagehorn
+de 07337 7901,annweiler sarnstall
+de 08117 156,salach
+de 09278 10600,sallach
+de 07231 40726,salmtal
+de 06435 11054,bad soden salmnster
+de 03454 9149,salzbergen
+de 03155 3980,einbeck salzderhelden
+de 03102 3262,salzgitter bad
+de 03102 3080,salzgitter immendorf
+de 03102 3137,salzgitter lebenstedt
+de 05112 16522,duisburg entenfang
+de 03102 770,salzgitter thiede
+de 03102 2589,salzgitter watenstedt
+de 05774 8016,salzkotten
+de 09278 2145,sand niederbay
+de 03455 80383,sande
+de 05762 10082,sandebeck
+de 03455 80409,sanderbusch
+de 03458 80469,sandkrug
+de 01054 80501,sandwehle
+de 05962 3017,sanssouci
+de 06534 11095,sarnau
+de 03254 9834,sarstedt
+de 07132 1591,sassenroth
+de 08127 25615,satteldorf
+de 05366 75301,satzvey
+de 09184 2350,sauerlach
+de 08437 49508,bad saulgau
+de 09180 42949,saulgrub
+de 09564 411,nrnberg gleihammer
+de 10041 8005306,schafbrcke
+de 09182 43425,schaftlach
+de 09189 90029,schalchen
+de 05962 6003,schalksmhle
+de 08315 6677,schallstadt
+de 05970 10700,schameder
+de 03158 568,schandelah
+de 01055 80952,scharbeutz
+de 05774 8025,scharmede
+de 03156 5205,bad lauterberg im harz barbis
+de 09187 90032,schechen
+de 08126 19600,scheppach
+de 03357 81103,scheeel
+de 10041 8005332,scheidt saar
+de 08425 2901,schelklingen
+de 08426 6536,schemmerberg
+de 08325 6598,schenkenzell
+de 05762 8118,scherfede
+de 07132 7305,scheuerfeld sieg
+de 05366 77201,scheven
+de 05766 3764,schieder
+de 07232 21750,usch zendscheid
+de 03458 81336,schierbrok
+de 07338 3434,schifferstadt sd
+de 10043 8005346,schiffweiler
+de 08325 6698,schiltach mitte
+de 08325 6585,schiltach
+de 09479 9600,schirnding
+de 03158 3099,schladen harz
+de 05382 59801,schladern sieg
+de 01059 81683,schleswig
+de 08336 6678,schliengen
+de 06634 204514,schlierbach schwalm eder kr
+de 08221 1287,heidelberg schlierbach ziegelhausen
+de 09182 43374,schliersee
+de 05754 6664,schlo holte
+de 05774 40312,paderborn schloss neuhaus
+de 08315 6546,schluchsee
+de 06631 11069,schmalnau
+de 05366 79301,schmidtheim
+de 08425 2941,schmiechen
+de 09771 1300,schmiechen schwab
+de 06635 205191,vhl schmittlotheim
+de 09574 7800,schnaittach markt
+de 09676 99312,schneeberg im odenwald
+de 09571 13390,schnelldorf
+de 09181 510,landsberg l schule
+de 03358 82190,schneverdingen
+de 09478 27160,schney
+de 07235 11130,schoden ockfen
+de 06437 11447,hesseneck schllenbach
+de 09678 27474,schonungen
+de 03151 7009,schnewrde
+de 09179 6210,schngeising
+de 08237 1502,schnmnzach
+de 09479 10606,schnwald oberfr
+de 03158 3030,schppenstedt
+de 05766 2890,schtmar
+de 09181 506,schondorf bay
+de 09190 41513,schongau
+de 09162 1150,mnchen heimeranplatz
+de 08336 6601,schopfheim
+de 08237 9604,schopfloch b freudenstadt
+de 07335 8144,schopp
+de 08119 7703,schorndorf
+de 08336 6551,schopfheim west
+de 08136 2416,schrezheim
+de 09185 7800,schrobenhausen
+de 08127 20536,schrozberg
+de 01058 83619,schlldorf
+de 03456 83660,schttorf
+de 09565 4411,schwabach
+de 09565 4410,schwabach limbach
+de 09174 6880,schwabhausen b dachau
+de 09772 7200,schwabmnchen
+de 08136 5210,schwabsberg
+de 08127 20013,schwbisch hall
+de 09574 7850,schwaig
+de 08125 693,schwaigern wrtt
+de 08119 1603,schwaikheim
+de 06436 2243,schwalbach taunus limes
+de 06436 11106,schwalbach taunus nord
+de 03358 82689,schwarmstedt
+de 09374 7539,schwarzenbach b pressath
+de 09475 80498,schwarzenbach saale
+de 01053 8005468,schwarzenbek
+de 09376 80499,schwarzenfeld opf
+de 07235 6507,schweich db
+de 09662 75009,schweinfurt mitte
+de 09662 27508,schweinfurt stadt
+de 09571 13150,schweinsdorf
+de 05954 8198,schwelm west
+de 09773 6569,schwenningen bay
+de 08326 6586,schwenningen neckar
+de 08226 3505,schwetzingen
+de 09183 6603,schwindegg
+de 08336 6607,schwrstadt
+de 06532 11004,sechshelden
+de 05382 53501,sechtem
+de 08315 6547,seebrugg
+de 09188 5400,seefeld hechendorf
+de 09777 1329,seeg
+de 09180 10107,seeleiten berggeist
+de 03241 4740,seelze
+de 09190 41534,seeshaupt
+de 07231 40748,sehlem kr wittlich
+de 03241 9826,sehnde
+de 09189 90034,seiboldsdorf
+de 09479 10607,selb nord
+de 09479 9545,selb stadt
+de 09479 80501,selb plberg
+de 09475 8852,selbitz
+de 06438 6601,seligenstadt hess
+de 09679 5030,seligenstadt b wrzburg
+de 05978 16093,selm
+de 05978 16102,selm beifang
+de 09775 4101,senden
+de 05774 9028,sennelager
+de 05711 9024,sennestadt
+de 08225 6155,sennfeld
+de 07235 11150,serrig
+de 08118 5782,sersheim
+de 09373 17910,seubersdorf
+de 06434 4301,seulberg
+de 09475 9122,seulbitz
+de 09472 23800,seybothenreuth
+de 07337 8052,siebeldingen birkweiler
+de 05958 24500,siedlinghausen
+de 05382 55101,siegburg bonn
+de 09573 5350,siegelsdorf
+de 09189 65902,siegsdorf
+de 08335 2390,singen landesgartenschau
+de 01055 84555,sierksdorf
+de 10044 8005562,siersburg
+de 08125 1907,siglingen
+de 08437 47641,sigmaringendorf
+de 05958 31745,silbach
+de 09574 7900,simmelsdorf httenbach
+de 06534 11110,simtshausen
+de 08115 3201,sindelfingen
+de 05362 87401,sindorf
+de 06634 209655,singlis
+de 06532 11008,sinn
+de 08226 3550,sinsheim elsenz hbf
+de 07131 80141,sinzig rhein
+de 09375 446,sinzing
+de 08435 4547,sipplingen
+de 07133 30624,bad sobernheim
+de 08215 1617,sllingen b karlsr
+de 01059 89501,srup
+de 08216 35112,sinzheim
+de 08216 35111,sinzheim nord
+de 05122 13006,solingen schaberg
+de 06532 11122,solms
+de 09577 16860,solnhofen
+de 03358 85458,soltau nord
+de 05122 13869,solingen grnewald
+de 05122 13818,solingen mitte
+de 05966 10718,sondern
+de 08425 2963,sondernach
+de 07334 35002,sondernheim
+de 09778 3078,sontheim schwab
+de 08135 1579,sontheim brenz
+de 09780 800,sonthofen
+de 06636 245610,sontra
+de 03357 85578,sottrum
+de 09187 90047,soyen
+de 08327 1510,spaichingen
+de 08327 1513,spaichingen mitte
+de 03152 85676,speele
+de 07232 21520,speicher
+de 09574 7590,speikern
+de 07318 3650,speyer nord west
+de 07318 3603,speyer hbf
+de 05382 54801,spich
+de 09272 4688,spiegelau
+de 05515 46742,mnster sprakel
+de 06438 2703,dreieich sprendlingen
+de 07339 8004,sprendlingen rheinhess
+de 03241 5900,springe
+de 09181 1423,st alban
+de 03353 8005640,sprtze
+de 08326 6597,st georgen schwarzw
+de 07140 24891,st goar
+de 07141 11151,st goarshausen
+de 08226 1892,st ilgen sandhausen
+de 10045 8005649,st ingbert
+de 09177 3260,st koloman
+de 09763 9022,st mang
+de 01051 86484,st michaelisdonn
+de 09181 504,st ottilien
+de 07232 21755,st thomas
+de 10046 8005659,st wendel
+de 06534 11076,stadtallendorf
+de 03257 152,stadthagen
+de 02000 11952,hamburg stadthausbrcke
+de 03255 86728,stadtoldendorf
+de 09676 1294,stadtprozelten
+de 06533 11023,staffel
+de 09478 27200,bad staffelstein
+de 09190 90041,iffeldorf
+de 07340 95361,stambach
+de 09475 10537,stammbach
+de 09188 5490,starnberg nord
+de 09188 5450,starnberg
+de 07133 30663,staudernheim
+de 03360 86936,stederdorf kr uelzen
+de 09475 10538,stegenwaldhaus
+de 09189 90030,stein traun
+de 08317 18420,steinach baden
+de 07340 8143,steinalben
+de 06435 11053,steinau strae
+de 09476 16372,steinbach am wald
+de 09188 5390,steinebach
+de 08336 6603,steinen
+de 05754 6340,steinhagen westf bielef str
+de 03460 87204,steinfeld oldb
+de 05754 6714,steinhagen westf
+de 06435 4504,steinheim main
+de 05762 8063,steinheim westf
+de 09175 8857,steinhring
+de 05566 63782,steinfurt grottenkamp
+de 07334 33058,steinweiler
+de 08226 3561,steinsfurt
+de 07335 8542,steinwenden
+de 03353 8005717,stelle
+de 06435 11316,sterbfritz
+de 06534 11093,sterzhausen
+de 08327 1554,stetten donau
+de 08125 1700,stetten am heuchelberg
+de 09778 3088,stetten schwab
+de 08119 1701,stetten beinstein
+de 05970 10731,stift keppel allenbach
+de 09472 22740,stockau
+de 09188 5420,stockdorf
+de 06532 11120,stockhausen lahn
+de 09476 15525,stockheim oberfr
+de 09673 25461,stockheim unterfr
+de 09671 2063,stockstadt main
+de 06433 11267,stockstadt rhein
+de 05334 5788,stolberg altstadt
+de 05334 5792,stolberg rathaus
+de 05334 5758,stolberg schneidmhle
+de 05334 5786,stolberg mhlener bahnhof
+de 05362 81401,stommeln
+de 08437 41280,storzingen
+de 05366 72401,euskirchen stotzheim
+de 09185 8707,stra moos
+de 08417 32117,straberg winterlingen
+de 09278 10601,strakirchen
+de 09471 20920,strullendorf
+de 05970 10100,struthtten
+de 03352 88621,stubben
+de 08337 4163,sthlingen
+de 08111 1604,stuttgart ebitzweg
+de 08111 6295,stuttgart nord
+de 08116 2103,stuttgart flughafen messe
+de 08111 6333,stuttgart bad cannstatt
+de 08111 6157,stuttgart feuerbach
+de 08111 1504,stuttgart mnster
+de 08111 6091,stuttgart obertrkheim
+de 08111 6001,stuttgart rohr
+de 08111 1300,stuttgart sommerrain
+de 08111 6085,stuttgart untertrkheim
+de 08111 6002,stuttgart vaihingen
+de 08111 1200,stuttgart zazenhausen
+de 08111 6465,stuttgart zuffenhausen
+de 08111 6027,stuttgart sterfeld
+de 03360 88937,suderburg
+de 01002 88905,suchsdorf
+de 01059 89597,sderbrarup
+de 01051 89612,sderdeich
+de 02000 81952,hamburg slldorf
+de 08125 2004,slzbach
+de 09375 564,snching
+de 03353 8005788,suerhop
+de 01054 89661,sderlgum
+de 08117 157,sen
+de 08325 6590,sulz neckar
+de 08125 2005,slzbach schule
+de 09275 4041,sulzbach inn
+de 09676 1052,sulzbach main
+de 08119 4952,sulzbach murr
+de 10041 8005796,sulzbach saar
+de 10041 8005797,sulzbach saar altenwald
+de 06436 2230,sulzbach taunus
+de 06436 2231,sulzbach taunus nord
+de 09371 18000,sulzbach rosenberg
+de 09371 18044,sulzbach rosenberg htte
+de 09780 9023,sulzberg
+de 08215 32093,sulzfeld baden
+de 03251 89375,syke
+de 05766 2210,sylbach
+de 05562 4936,sythen
+de 07235 7511,taben
+de 09189 90203,tacherting
+de 08118 7404,tamm wrtt
+de 08426 6587,tannheim wrtt
+de 09779 6567,tapfheim
+de 01059 90046,tarp
+de 01054 90089,tating
+de 08128 13015,tauberbischofsheim
+de 09176 7823,tauberfeld
+de 09184 2320,taufkirchen
+de 09172 42454,teisendorf
+de 05570 30476,telgte
+de 07235 7513,temmels
+de 08316 729,teningen mundingen
+de 09276 80541,teisnach rohde schwarz
+de 07340 8061,thaleischweiler frschen
+de 09775 4927,thalfingen b ulm
+de 09177 9951,thann matzbach
+de 09371 18490,thans
+ch 23017 55036,thayngen
+de 07336 8547,theisbergstegen
+de 01056 99950,thesdorf
+de 09679 5040,thngersheim
+de 01051 90817,tiebensee
+de 02000 61950,hamburg tiefstack
+de 08337 6574,tiengen hochrhein
+de 09189 90127,traunstein klinikum
+de 01055 90920,timmendorferstrand
+de 08315 6548,titisee
+de 09171 10007,tging inn
+de 01054 91940,tnning
+de 01056 8005887,tornesch
+de 03353 8005888,tostedt
+de 07231 7327,traben trarbach
+de 09377 7543,trabitz
+de 06531 11142,trais horloff
+ch 23017 53999,trasadingen
+de 09189 90204,traundorf
+de 09189 65991,traunreut
+de 09477 3593,trebgast
+de 07339 32614,trechtingshausen
+de 03151 1104,triangel
+de 08326 6591,triberg
+de 09276 5090,triefenried
+de 07211 1501,trier sd
+de 09571 13000,triesdorf
+de 08136 4245,trochtelfingen b bopfingen
+de 05112 16537,trompet
+de 08327 1696,trossingen bahnhof
+de 09189 90031,trostberg
+de 08416 12041,tbingen west
+de 08416 12101,tbingen derendingen
+de 08416 12001,tbingen lustnau
+de 09179 6230,trkenfeld
+de 09171 10008,tling
+de 09175 4184,tulling
+de 08327 1795,tuttlingen schulen
+de 09188 5480,tutzing
+de 06635 205586,twiste
+de 03251 91901,twistringen
+de 05711 5619,ubbedissen
+de 08215 1861,ubstadt weiher
+de 05370 5952,bach palenberg
+de 08435 4543,berlingen therme
+de 09189 41234,bersee
+de 08435 4788,berlingen
+de 08435 4535,berlingen nudorf
+de 07231 7358,rzig db
+de 08327 1761,tuttlingen gnscker
+de 09575 14950,uffenheim
+de 09180 90017,uffing staffelsee
+de 08117 152,uhingen
+de 07339 8194,uhlerborn
+de 08421 1056,ulm ost
+de 08421 1551,ulm donautal
+de 08421 1220,ulm sflingen
+de 09187 90043,umrathshausen ort
+de 08315 6681,unadingen
+de 09375 485,undorf
+de 09475 10539,unfriedsdorf
+de 06634 209662,ungedanken
+de 07138 20033,unkel
+de 05978 17854,unna knigsborn
+de 09180 90042,unterammergau
+de 09573 5610,unterasbach
+de 09189 90037,unteraschau
+de 08136 6100,bbingen rems
+de 09775 4903,unterelchingen
+de 09184 2030,unterfhring
+de 08125 890,untergriesheim
+de 08215 1854,untergrombach
+de 09184 2310,unterhaching
+de 09185 7967,unterhausen bay
+de 09576 8109,unterheckenhofen
+de 08136 1608,unterkochen
+de 08116 5781,unterlenningen
+de 03351 2797,unterl
+de 08416 12043,unterjesingen mitte
+de 08416 12046,unterjesingen sandcker
+de 09179 6250,germering unterpfaffenhofen
+de 08235 9000,unterreichenbach
+de 09472 22745,untersteinach bayr
+de 09477 18963,untersteinach b stadtsteinach
+de 07335 8025,untersulzbach
+de 01054 92761,uphusum
+de 08415 28108,bad urach ermstalklinik
+de 08415 28129,bad urach
+de 08119 5789,urbach b schorndorf
+de 06438 4730,rdermark urberach
+de 05366 77901,urft
+de 07137 15067,urmitz
+de 07137 11450,urmitz rheinbrcke
+de 09187 90046,urschalling
+de 08425 2540,urspring
+de 03155 92865,uslar
+de 06635 205843,usseln
+de 09181 507,utting
+de 09563 2489,vach
+de 08118 5879,vaihingen enz
+de 07137 10109,vallendar
+de 03455 93054,varel oldb
+de 03355 8006058,vastorf
+de 09175 4000,vaterstetten
+de 03157 431,vechelde
+de 03460 93151,vechta
+de 02000 54950,hamburg veddel
+de 05158 10094,velbert rosenhgel
+de 09679 2171,veitshchheim
+de 09574 7940,velden b hersbruck
+de 06633 209753,vellmar osterberg ekz
+de 03361 93627,verden aller
+de 06633 203903,vernawahlshausen
+de 05358 6074,vettwei
+de 06635 209765,frankenberg viermnden
+de 06533 11113,villmar
+de 09274 3100,vilsbiburg
+de 09371 19300,vilseck
+de 09275 4200,vilshofen niederbay
+de 03241 4121,hannover vinnhorst
+de 03357 94171,visselhvede
+de 05758 4907,vlotho
+de 06635 205601,vhl thalitter
+de 09775 4202,vhringen
+de 03157 8146,vhrum
+de 05170 36966,voerde niederrhein
+de 07312 8126,vogelweh
+de 09186 9025,vohburg
+de 03252 5320,voldagsen
+de 06635 205626,volkmarsen
+de 05962 3024,volkringhausen
+de 03155 94547,volpriehausen
+de 03151 1022,vorhop
+de 05970 10758,vormwald
+de 05970 10759,vormwald dorf
+de 09574 7950,vorra pegnitz
+de 07332 3895,wachenheim pfalz
+de 07331 3908,wachenheim mlsheim
+de 09184 2230,wchterhof
+de 06435 11055,wchtersbach
+de 09372 2809,waffenbrunn
+de 08127 20732,wackershofen
+de 07315 8012,waggonfabrik
+de 08215 32509,waghusel
+de 09189 90039,waging
+de 05970 10892,wahlbach kr siegen
+de 03151 1030,wahrenholz
+de 08127 27531,wallhausen wrtt
+de 09678 75006,waigolshausen
+de 01060 37977,wakendorf
+de 08126 11951,waldenburg wrtt
+de 09377 10603,waldershof
+de 07340 8142,waldfischbach
+de 08136 7031,waldhausen b schorndorf
+de 08316 6530,waldkirch
+de 09372 2957,waldmnchen
+de 09183 80508,waldkraiburg
+de 08337 6575,waldshut
+de 10046 8006170,walhausen saar
+de 08118 5785,walheim wrtt
+de 03156 95568,walkenried
+de 06433 2802,walldorf hess
+de 08225 6573,walldrn
+de 09279 2696,wallersdorf
+de 07331 8002,wallertheim
+de 09181 508,walleshausen
+de 09174 6810,hebertshausen
+de 09177 9950,walpertskirchen
+de 07131 80071,walporzheim
+de 03358 95752,walsrode
+de 05113 9703,essen horst
+de 02000 8006197,hamburg tonndorf
+de 02000 60951,hamburg wandsbeker chaussee
+de 08436 9002,wangen allgu
+de 08415 22003,wannweil
+de 05570 14534,warendorf
+de 05570 68070,warendorf einen mssingen
+de 09182 90187,warngau
+de 08426 6650,warthausen
+de 01058 96398,wasbek
+de 08315 6534,wasenweiler
+de 08136 1906,wasseralfingen
+de 09776 1824,wasserburg bodensee
+de 09774 2940,wasserburg gnz
+de 09187 90025,wasserburg inn bf
+de 07235 10979,wasserliesch
+de 09176 9026,wasserzell b eichsttt
+de 05911 5503,wattenscheid
+de 05911 5504,wattenscheid hntrop
+de 06531 11137,watzenborn steinberg
+de 06440 11156,weckesheim
+de 03158 444,weddel braunschw
+de 01056 85950,wedel holst
+de 05154 35896,weeze
+de 06635 205089,wega
+de 05370 6340,wegberg
+de 07235 7479,wehr mosel
+de 09189 90202,weibhausen
+de 09185 8708,weichering
+de 09677 75207,weickersgrben
+de 09183 5341,weidenbach
+de 09472 22750,weidenberg
+de 07332 4065,weidenthal
+de 09372 3152,weiding
+de 09374 10555,weiherhammer
+de 09573 5580,weiherhof
+de 08111 2270,weilimdorf
+de 08128 13209,weikersheim
+de 03458 102465,wsting
+de 08115 1303,weil der stadt
+de 08336 6639,weil am rhein
+de 08336 6684,weil am rhein ost
+de 09676 1806,weilbach unterfr
+de 08119 1704,weiler rems
+de 09778 2928,weilbach unterallg
+de 05366 71101,weilerswist
+de 08327 1869,weilheim wrtt
+de 06633 203002,ahnatal weimar
+de 08215 1853,weingarten baden
+de 08125 4344,weinsberg
+de 08125 1939,weinsberg west
+de 08216 34768,weisenbach
+de 07332 4205,weisenheim sand
+de 06438 4640,rodgau weiskirchen
+de 08125 1598,weinsberg ellhofen gewerbegebiet
+de 08436 8121,weienau
+de 09577 16000,weienburg bay
+de 09775 4642,weienhorn
+de 09474 9870,weienohe
+de 07137 10116,weienthurm
+de 06434 2330,oberurselweikirchen steinbach
+de 09775 4639,weienhorn eschach
+de 06432 11327,weiterstadt
+de 09777 1343,weizern hopferau
+de 07339 8005,welgesheim zotzenheim
+de 06631 11065,welkers
+de 07235 7518,wellen mosel
+de 03459 42481,wellendorf
+de 02000 71952,hamburg wellingsbttel
+de 05966 10767,welschen ennest
+de 08335 6564,welschingen neuhausen
+de 05974 12909,welver
+de 03355 8006330,wendisch evern
+de 08116 4257,wendlingen neckar
+de 03241 5782,wennigsen deister
+de 05962 3200,werdohl
+de 06532 11012,werdorf
+de 05974 11303,werl
+de 08116 4241,wernau neckar
+de 09376 7385,wernberg
+de 05978 60001,werne lippe
+de 09677 75205,wernfeld
+de 09780 896,wertach haslach
+de 08128 13591,wertheim bestenheid
+de 05170 36206,wesel feldmark
+de 01051 98211,wesselburen
+de 03254 21827,wesseln
+de 09188 5380,weling oberbay
+de 05754 6281,westbarthausen
+de 05570 31378,westbevern
+de 09772 4450,westendorf
+de 09187 90020,westerham
+de 03459 98401,westerhausen
+de 01054 98523,westerland sylt
+de 08425 2470,westerstetten
+de 08136 5817,westhausen
+de 09772 5050,westheim schwab
+de 05958 35292,westheim westf
+de 09672 75195,westheim langendorf
+de 05974 6058,westnnen
+de 06534 11087,wetter hessen
+de 05954 8080,wetter ruhr
+de 05974 11078,wickede ruhr
+de 09571 13270,wicklesgreuth
+de 05116 23860,wickrath
+de 10043 8006392,wiebelskirchen
+de 06634 219697,schwalmstadt wiera
+de 03360 99266,wieren
+de 09377 7102,wiesau oberpf
+de 06414 6906,wiesbaden ost
+de 06414 11325,wiesbaden erbenheim
+de 06414 11324,wiesbaden igstadt
+de 06414 11154,wiesbaden schierstein
+de 06635 219683,wiesenfeld
+de 09473 75252,wiesenfeld b coburg
+de 08125 1565,wieslensdorf
+de 08215 32584,wiesental
+de 09474 9880,wiesenthau
+de 08226 4252,wiesloch walldorf
+de 09189 41119,tittmoning wiesmhl
+de 09189 41089,wiesmhl alz
+de 09677 28530,wiesthal
+ch 23017 53215,wilchingen hallau
+de 08235 8960,bad wildbad bf
+de 08235 9050,wildberg wrtt
+de 03458 99578,wildeshausen
+de 08236 1794,wilferdingen singen
+de 07340 8056,wilgartswiesen
+de 03405 99737,wilhelmshaven hbf
+de 06534 11089,wilhelmshtte lahn
+de 09573 5400,wilhermsdorf
+de 05762 9892,willebadessen
+de 06635 205718,willingen
+de 09372 3211,willmering
+de 08125 2017,willsbach
+de 06533 11017,wilsenroth
+de 01061 100055,wilster
+de 07235 10989,wiltingen saar
+de 07235 7526,wincheringen
+de 06435 4545,nidderau windecken
+de 05711 9042,windelsbleiche
+de 07334 35000,winden pfalz
+de 09374 10556,windischeschenbach
+de 09571 13800,windsbach
+de 03352 100197,wingst
+de 09574 7970,winkelhaid
+de 08119 7605,winnenden
+de 03241 7336,winninghausen
+de 07333 9075,winnweiler
+de 03353 8006484,winsen luhe
+de 08119 1705,winterbach b schorndorf
+de 05958 12104,winterberg westf
+de 09679 5050,winterhausen
+de 03358 100494,wintermoor
+de 09775 4167,witzighausen
+de 06435 11056,wirtheim
+de 07132 16513,wissen sieg
+de 03459 100649,wissingen
+de 05954 2436,wittbrucke
+de 08222 2416,mannheim handelshafen
+de 08222 2386,mannheim luzenberg
+de 05954 5372,witten annen nord
+de 08222 2446,mannheim neckarstadt
+de 08111 6008,stuttgart universitt
+de 05113 9686,essen holthausen
+de 05382 53901,alfter witterschlick
+de 08128 13702,wittighausen
+de 03462 100862,wittmund
+de 06636 206454,witzenhausen nord
+de 01054 100922,witzwort
+de 06411 4732,darmstadt wixhausen
+de 06440 11446,wlfersheim sdel
+de 07334 1741,wrth rhein zgelstrae
+de 09779 4500,wrnitzstein
+de 07331 8006,wrrstadt
+de 06439 11201,wrsdorf
+de 07334 1740,wrth rhein mozartstrae
+de 09274 10543,wrth isar
+de 09676 1005,wrth main
+de 08215 1541,wssingen
+de 01053 25952,wohltorf
+de 08317 18010,wolfach
+de 08436 32006,wolfegg
+de 06634 209651,felsberg wolfershausen
+de 06435 11063,wolfgang kr hanau
+de 06633 203931,wolfhagen
+de 09173 4760,wolfratshausen
+de 03103 2015,wolfsburg hbf
+de 09677 75220,wolfsmnster
+de 07336 8030,wolfstein
+de 03358 101450,wolterdingen han
+de 03157 8206,woltwiesche
+de 03352 101780,wremen
+de 01061 101825,wrist
+de 05158 11724,wlfrath aprath
+de 05970 10798,wrgendorf
+de 05970 10799,wrgendorf ort
+de 10045 8006581,wrzbach saar
+de 09663 54,wrzburg sd
+de 09663 2157,wrzburg zell
+de 09475 9055,wstenselbitz
+de 05562 3999,wulfen westf
+de 03156 10012,wulften
+de 09775 4156,wullenstetten
+de 05124 11130,wuppertal barmen
+de 05124 11594,wuppertal langerfeld
+de 05124 11531,wuppertal ronsdorf
+de 05124 11313,wuppertal sonnborn
+de 05124 11396,wuppertal steinbeck
+de 05124 11524,wuppertal unterbarmen
+de 05124 11151,wuppertal zoologischer garten
+de 09475 9307,wurlitz
+de 08327 1896,wurmlingen mitte
+de 08327 2017,wurmlingen nord
+de 10043 8006627,wustweiler
+de 08337 6762,wutschingen
+de 08336 6605,wyhlen
+de 05170 37032,xanten
+de 08215 32618,zaisenhausen
+de 09471 21900,zapfendorf
+de 09674 75254,zeil
+de 08336 6599,zell wiesental
+de 08116 1803,esslingen zell
+de 06437 11233,bad knig zell
+de 06535 11189,zell romrod
+de 06438 8562,mainhausen zellhausen
+de 06634 204736,zennern
+de 06438 2801,zeppelinheim
+de 06633 209695,zierenberg rosental
+de 06633 203971,zierenberg
+de 05362 88102,zieverich
+de 09372 3019,zillendorf
+de 08225 8202,zimmern b seckach
+de 08128 12541,zimmern main tauber
+de 06634 204507,zimmersrode
+de 09573 5500,zirndorf
+de 09573 5520,zirndorf kneippallee
+de 08326 6627,zollhaus villingen schwenningen
+de 08326 6750,blumberg zollhaus
+de 09780 9027,zollhaus petersthal
+de 09175 4020,zorneding
+de 06431 3366,zotzenbach
+de 05366 72702,euskirchen zuckerfabrik
+de 05366 74101,zlpich
+de 08125 1909,zttlingen
+de 08317 14050,zusenhofen
+de 08226 4520,zuzenhausen
+de 07320 8065,zweibrcken hbf
+de 09276 5025,zwiesel bay
+de 09276 5030,zwieselau
+de 08225 9191,zwingenberg baden
+de 06431 4526,zwingenberg bergstr
+de 09184 2010,unterschleiheim
+de 06412 101,frankfurt m galluswarte
+de 06412 11,frankfurt m taunusanlage
+de 06412 1,frankfurt m hauptwache
+de 09162 1010,mnchen neuperlach sd
+de 08111 6052,stuttgart schwabstr
+de 08111 6221,stuttgart feuersee
+de 08111 6056,stuttgart stadtmitte
+de 01003 58101,lbeck travem skandinavienkai
+de 02000 80951,hamburg reeperbahn
+de 02000 80952,hamburg knigstrae
+de 03152 37762,hann mnden
+de 05562 3868,dorsten
+de 05911 5987,bochum hamme
+de 05911 5925,bochum west
+de 05914 2434,hagen wehringhausen
+de 05316 21101,leverkusen mitte
+de 05122 13790,solingen vogelpark
+de 08237 1431,schwarzenberg
+de 09187 90045,vachendorf
+de 05124 11302,wuppertal vohwinkel
+de 05124 11602,wuppertal oberbarmen
+de 09775 1711,neu ulm
+de 08216 32158,gaggenau mercedes benz werk
+de 08111 6080,stuttgart neckarpark
+de 09263 99002,straubing ost
+de 02000 42018,hamburg heimfeld
+de 02000 41950,hamburg neuwiedenthal
+de 08215 1241,busenbach
+de 08317 41111,achern stadt
+de 08317 41310,oberachern
+de 08317 41311,oberachern bindfadenfabrik
+de 08317 13620,kappelrodeck
+de 08317 13753,furschenbach
+de 08317 13751,ottenhfen
+de 08215 1231,ettlingen stadt
+de 08215 1301,etzenrot
+de 08215 1303,marxzell
+de 08215 1304,frauenalb schielberg
+de 08235 9558,bad herrenalb
+de 08215 1402,reichenbach b ettlingen
+de 08215 1403,langensteinbach bahnhof
+de 08215 1409,ittersbach bahnhof
+de 08317 13752,ottenhfen west
+de 02000 83960,hamburg eidelstedt zentrum
+de 02000 86961,hamburg schnelsen
+de 02000 86960,hamburg burgwedel
+de 01056 37968,bnningstedt
+de 01056 37967,hasloh
+de 01056 37965,quickborn
+de 01056 37964,ellerau
+de 01060 37963,tanneneck
+de 01060 37962,ulzburg sd
+de 01060 37961,henstedt ulzburg
+de 01060 37960,kaltenkirchen holst
+de 01060 37993,ntzen
+de 01060 37992,lentfhrden
+de 01060 37991,bad bramstedt kurhaus
+de 01060 37981,bad bramstedt
+de 01060 37990,wiemersdorf
+de 01060 37989,groenaspe
+de 01060 37988,boostedt
+de 01004 66208,neumnster sd akn
+de 01056 37966,quickborn sd
+de 01056 99965,langenmoor
+de 01056 99964,sparrieshoop
+de 01056 99963,bokholt
+de 01056 99962,voloch
+de 01056 8007069,barmstedt brunnenstr
+de 01056 99960,barmstedt
+de 08425 2565,stubersheim
+de 08425 2576,schalkstetten
+de 08117 519,waldhausen b geislingen
+de 08135 1144,gussenstadt
+de 08135 1095,gerstetten
+de 07132 90220,biersdorf westerw
+de 07132 90210,daaden
+de 07132 90159,alsdorf westerw
+de 07132 90233,niederdreisbach
+de 07132 1597,schutzbach
+de 08317 11022,zell harmersbach
+de 08317 11027,birach
+de 08317 11051,unterharmersbach
+de 08317 11061,kirnbach grn
+de 08317 11081,oberharmersbach dorf
+de 08317 11071,oberharmersbach riersbach
+de 07132 90219,biersdorf ort ww
+de 03357 31090,gnarrenburg
+de 03356 68599,nordsode
+de 03356 45681,httenbusch
+de 03356 65102,neu st jrgen
+de 03356 101702,worpswede
+de 08215 31002,ubstadt ort
+de 08215 31004,stettfeld baden
+de 08215 31005,zeutern bf
+de 08215 3185,zeutern ost
+de 01056 37994,langeln holst
+de 08215 31008,odenheim bf
+de 08215 32003,unterwisheim bf
+de 08215 32004,oberwisheim
+de 08215 32005,mnzesheim
+de 08215 32007,gochsheim baden
+de 08215 32008,bahnbrcken
+de 08215 32009,menzingen baden
+de 08215 32006,mnzesheim ost
+de 08415 28808,trochtelfingen alb gold
+de 01060 8007148,dodenhof
+de 06412 2298,frankfurt unterliederbach
+de 06436 2112,liederbach
+de 06436 4279,kelkheim mnster
+de 06436 4295,kelkheim
+de 06436 4280,kelkheim hornau
+de 06434 4218,schneidhain
+de 06434 4230,knigstein taunus
+de 08215 1120,eggenstein bf
+de 08215 1132,leopoldshafen leopoldstr
+de 08119 5804,schorndorf hammerschlag
+de 08119 5051,haubersbronn
+de 08119 5790,miedelsbach steinenberg
+de 08119 5791,michelau wrtt
+de 08119 5792,schlechtbach
+de 08119 5036,rudersberg
+de 08215 1157,hochstetten
+de 01060 37974,holstentherme
+de 01060 37975,kaltenkirchen sd
+de 08417 30612,schlatt hohenz
+de 08417 30363,jungingen hohenz
+de 08417 30611,killer
+de 08417 30610,hausen starzeln
+de 08417 30132,burladingen
+de 08417 30267,gauselfingen
+de 08437 40016,neufra hohenz
+de 08437 48834,gammertingen
+de 08437 40019,hettingen hohenz
+de 08437 40015,hermentingen
+de 08437 40014,veringenstadt
+de 08437 40013,veringendorf
+de 08437 40012,jungnau
+de 08437 40011,hanfertal
+de 01060 37982,wahlstedt
+de 09671 99147,alzenau unterfr
+de 09671 99145,klberau
+de 09671 1361,michelbach unterfr
+de 09671 99144,niedersteinbach
+de 09671 99143,mmbris mensenges
+de 09671 99142,schimborn
+de 09671 99141,knigshofen kahl
+de 09671 1374,blankenbach
+de 09671 99140,schllkrippen
+de 08316 6676,riegel am kaiserstuhl ort
+de 08316 6688,endingen am kaiserstuhl
+de 08316 6671,knigschaffhausen
+de 08316 6672,sasbach am kaiserstuhl
+de 08316 6673,jechtingen
+de 08315 6674,burkheim bischoffingen
+de 08315 6703,oberrotweil
+de 08315 6691,achkarren
+de 08316 6687,bahlingen am kaiserstuhl
+de 08316 509,nimburg baden
+de 08315 6662,eichstetten am kaiserstuhl
+de 08315 6658,btzingen
+de 08315 6710,btzingen mhle
+de 08316 5290,riegel malterd ne
+de 08316 6715,bahlingen riedlen
+de 08118 5632,mnchingen
+de 08118 5795,schwieberdingen
+de 08118 4527,hemmingen
+de 08315 6502,bad krozingen ost
+de 08315 6723,oberkrozingen
+de 08315 6526,staufen
+de 08315 6529,staufen sd
+de 08315 6528,etzenbach
+de 08315 6527,dietzelbach
+de 08315 6714,hof mnstertal
+de 08315 6523,mnstertal schwarzwald
+de 09372 1728,zellerthal
+de 09372 1606,grafenwiesen
+de 09372 1658,watzelsteg
+de 09372 1655,hohenwarth
+de 09372 1054,arrach
+de 09372 1815,frahelsbruck
+de 09372 1800,lam
+de 08226 2964,neckarbischofsheim stadt
+de 08226 2960,neckarbischofsheim helmhof
+de 08226 2965,untergimpern
+de 08125 4625,obergimpern
+de 08125 5617,siegelsbach
+de 08225 9177,hffenhardt
+de 08226 3065,neidenstein
+de 08226 3943,waibstadt
+de 08226 710,eschelbronn
+de 08226 1464,helmstadt baden
+de 08225 9175,aglasterhausen
+de 08116 5793,frickenhausen
+de 08116 4433,linsenhofen
+de 08116 5794,neuffen
+de 07331 6936,alzey west
+de 07335 94373,miesenbach
+de 08119 7567,rudersberg oberndorf
+de 09182 43209,moosrain
+de 09182 43193,gmund tegernsee
+de 09182 43401,tegernsee
+de 08327 1717,trossingen stadt
+de 03452 67927,norddeich mole
+de 01054 18719,dagebll mole
+de 01004 66202,neumnster stadtwald
+de 03357 14519,bremervrde
+de 05358 4138,jlich broich
+de 05358 4136,jlich nord
+de 05358 4592,linnich bhf
+de 03352 28359,frelsdorf
+de 03352 29720,geestenseth
+de 05358 4654,linnich tetz
+de 03357 40581,heinschenwalde
+de 03357 41857,hesedorf
+de 03359 50461,mulsum essel
+de 03357 70250,oerel
+de 03352 84140,sellstedt
+de 03352 96819,wehdel
+de 05358 4253,jlich selgersdorf
+de 05358 4217,jlich forschungszentrum
+de 05358 5003,krauthausen
+de 05358 4995,huchem stammeln
+de 05358 2251,dren annakirmesplatz
+de 05358 2493,dren lendersdorf
+de 05358 4445,kreuzau bahnhof
+de 05358 4487,dingen
+de 05358 4493,untermaubach schlagstein
+de 05358 4463,obermaubach
+de 05358 4919,zerkall
+de 05358 4911,nideggen brck
+de 05358 4897,abenden
+de 05358 3385,blens
+de 05358 3399,hausen b dren
+de 05358 3409,heimbach eifel
+de 05358 4441,kreuzau eifelstrae
+de 03359 51964,apensen
+de 05358 2509,dren renkerstrae
+de 05358 2341,dren kuhbrcke
+de 05358 2541,niederau tuchmhle
+de 05358 5031,selhausen
+de 05358 2427,dren im groen tal
+de 03359 51977,bargstedt
+de 03359 51976,brest aspe
+de 03359 51978,harsefeld
+de 03359 51975,kutenholz
+de 03359 51979,ruschwedel
+de 06434 6304,hausen taunus
+de 06434 6307,hundstadt
+de 06434 6398,kppern
+de 06434 6303,neu anspach
+de 06434 6301,saalburg taunus
+de 06434 6305,usingen
+de 06434 6302,wehrheim
+de 06434 6306,wilhelmsdorf
+de 08118 7606,korntal gymnasium
+de 09573 5410,wilhermsdorf mitte
+de 07334 35005,schaidt pfalz
+de 07337 4617,steinfeld pfalz
+de 07337 4685,kapsweyer
+de 07337 4626,schweighofen
+de 08212 1600,grtzingen krappmhlenweg
+de 08215 1601,berghausen pfinzbrcke
+de 08215 1634,berghausen am stadion
+de 08215 1616,sllingen reetzstr
+de 08437 44006,thiergarten hohenz
+de 10044 8007868,lebach jabach
+de 07134 35475,ruschberg
+de 07134 35415,heimbach nahe ort
+de 07134 35470,baumholder
+de 04011 14312,bremen aumund
+de 03356 14006,klinikum bremen nord beckedorf
+de 04011 14313,bremen blumenthal
+de 04011 14086,bremen mhlenstrae
+de 04011 14016,bremen kreinsloger
+de 04011 14240,bremen turnerstrae
+de 04011 14316,bremen farge
+de 14523 553,adorf vogtl
+de 16077 8010003,altenburg
+de 12073 900340004,angermnde
+de 14521 50005,annaberg buchholz sd
+de 14625 6770,arnsdorf dresden
+de 16070 8010007,arnstadt hbf
+de 14713 8010008,leipzig anger crottendorf
+de 15089 8010009,aschersleben
+de 14521 40085,aue sachs
+de 14523 309,auerbach ob bf
+de 14523 1102,auerbach unt bf
+de 15089 8010013,baalberge
+de 16073 8010014,bad blankenburg thringerw
+de 13072 2028,bad doberan
+de 12064 900321025,bad freienwalde
+de 13074 5118,bad kleinen
+de 15084 8010019,bad ksen
+de 16064 8010020,bad langensalza
+de 16063 8010021,bad salzungen
+de 14628 3620,bad schandau
+de 12060 900350149,basdorf
+de 14625 7500,bautzen
+de 14521 40120,aue sachs erzgebirgsstadion
+de 12067 900310042,bad saarow klinikum
+de 12067 900311129,beeskow
+de 12069 900220143,bad belzig
+de 15087 8010032,berga kelbra
+de 13073 11329,bergen auf rgen
+de 11000 900162001,berlin karlshorst
+de 11000 900160004,berlin lichtenberg
+de 14523 103,krbitz
+de 11000 900192001,berlin schneweide
+de 15089 8010043,bernburg
+de 14522 70494,berthelsdorf erzgeb
+de 14626 9510,bertsdorf
+de 14729 8010046,beucha
+de 15086 8010047,biederitz
+de 16061 8010048,birkungen
+de 14625 7000,bischofswerda
+de 15082 8010050,bitterfeld
+de 13076 9062,blankenberg meckl
+de 12072 900245027,blankenfelde teltow flming
+de 15087 8010054,blankenheim sangerhausen
+de 16062 8010055,bleicherode ost
+de 15083 8010056,blumenberg
+de 14729 8010059,borsdorf sachs
+de 12051 900275110,brandenburg hbf
+de 16065 8010061,bretleben
+de 12060 900350124,britz
+de 13072 125,btzow
+de 16067 8010067,bufleben
+de 12066 900435459,calau nl
+de 15089 8010070,calbe saale ost
+de 15089 8010071,calbe saale west
+de 14627 4180,coswig b dresden
+de 12052 900470000,cottbus
+de 14521 40184,cranzahl
+de 14730 8010076,delitzsch unt bf
+de 15001 8010077,dessau hbf
+de 15084 8010078,deuben zeitz
+de 12062 900415112,doberlug kirchhain
+de 14522 55998,dbeln hbf
+de 16067 8010081,dllstdt
+de 15089 8010084,gnadau
+de 14612 28,dresden hbf
+de 15003 8010086,magdeburg rothensee
+de 14612 658,dresden klotzsche
+de 14612 16,dresden neustadt
+de 14628 3750,drrrhrsdorf
+de 14626 9285,ebersbach sachs
+de 12060 900350127,eberswalde hbf
+de 14626 9341,eibau
+de 14730 8010095,eilenburg
+de 15083 8010096,eilsleben b magdeburg
+de 16056 8010097,eisenach
+de 12062 900415502,elsterwerda
+de 12062 900415167,elsterwerda biehla
+de 16051 8010101,erfurt hbf
+de 16051 8010102,erfurt nord
+de 12062 900415345,falkenberg elster
+de 16056 8010105,eisenach opelwerke hp
+de 14523 379,falkenstein vogtl
+de 14522 55108,flha
+de 12061 900260005,berlin schnefeld flughafen
+de 16063 8010110,frtha eisenach
+de 12071 900445010,forst lausitz
+de 12053 900360000,frankfurt oder
+de 14522 70228,freiberg sachs
+de 14628 1167,freital hainsberg
+de 12073 900340027,templin stadt
+de 16067 8010118,frttstdt
+de 15089 8010119,frose
+de 12067 900310001,frstenwalde spree
+de 15090 8010121,geestgottberg
+de 14729 8010122,geithain
+de 15086 8010123,genthin
+de 16065 8010124,reinsdorf artern
+de 16052 8010125,gera hbf
+de 16052 8010126,gera sd
+de 15085 817,gernrode harz
+de 14522 55107,flha plaue
+de 14524 10800,glauchau sachs
+de 14524 50130,glauchau schnbrnchen
+de 14626 8885,grlitz
+de 16053 8010133,jena gschwitz
+de 16077 8010134,gnitz
+de 16067 8010136,gotha
+de 16070 8010137,grfenroda
+de 13075 1,greifswald
+de 16076 8010140,greiz
+de 13074 9042,grevesmhlen
+de 16066 8010142,grimmenthal
+de 14729 8010144,grobothen
+de 16071 8010145,groheringen
+de 15084 8010146,grokorbetha
+de 12067 900310060,grunow niederlausitz
+de 15086 8010151,gsen b genthin
+de 15089 8010152,gsten
+de 13072 2295,gstrow
+de 15082 8010154,gterglck
+de 15002 8010155,halle messe
+de 13076 4512,hagenow land
+de 15357 3317,halberstadt
+de 15083 8010158,haldensleben
+de 15002 8010159,halle saale hbf
+de 15002 8010160,halle neustadt
+de 14730 8010161,eilenburg ost
+de 15002 8010162,halle ammendorf
+de 14628 3040,heidenau
+de 14523 66,herlasgrn
+de 12068 900205011,herzberg mark
+de 15087 8010168,hettstedt
+de 15085 8010169,heudeber danstedt
+de 16073 8010170,hockeroda
+de 12066 900435314,hosena
+de 15090 8010172,hohenwulsch
+de 13076 7527,holthusen
+de 14626 8625,horka
+de 12068 900205005,neuruppin rheinsberger tor
+de 13074 9063,hornstorf
+de 14625 7995,hoyerswerda
+de 16070 8010178,ilmenau
+de 13075 6440,jatznick
+de 12072 900245002,jterbog
+de 12066 900435001,sedlitz ost
+de 14511 30062,chemnitz hbf
+de 14511 30219,chemnitz sd
+de 14713 8010186,leipzig karlsruher str
+de 12064 900321518,kstrin kietz
+de 15087 8010191,klostermansfeld
+de 12061 900260001,knigs wusterhausen
+de 15089 8010194,knnern
+de 15082 8010195,kthen
+de 16074 8010196,crossen elster
+de 16051 8010198,khnhausen
+de 13072 2502,lalendorf
+de 13072 1717,langhagen
+de 16077 8010202,lehndorf altenburg
+de 16061 8010203,leinefelde
+de 14713 8010205,leipzig hbf
+de 14713 8010206,leipzig connewitz
+de 14713 8010207,leipzig leutzsch
+de 14713 8010208,leipzig paunsdorf
+de 14713 8010209,leipzig plagwitz
+de 13073 11056,lietzow rgen
+de 14626 9155,lbau sachs
+de 13075 6011,lcknitz
+de 12065 900203780,lwenberg mark
+de 12072 900245029,ludwigsfelde
+de 13076 4782,ludwigslust
+de 12061 900261512,lbben spreewald
+de 12066 900435602,lbbenau spreewald
+de 15091 8010222,lutherstadt wittenberg hbf
+de 15003 8010224,magdeburg hbf
+de 15003 8010226,magdeburg neustadt
+de 13071 10005,malchin
+de 14729 8010228,markkleeberg grostdteln
+de 14523 1120,mehltheuer
+de 16066 8010230,meiningen
+de 15001 8010231,meinsdorf
+de 15088 8010232,merseburg
+de 12069 900220003,michendorf
+de 14626 9700,mittelherwigsdorf
+de 16064 8010235,mhlhausen thr
+de 12064 900320014,mncheberg mark
+de 14729 8010238,narsdorf
+de 12063 900210005,nauen
+de 15084 8010240,naumburg saale hbf
+de 13071 12353,neubrandenburg
+de 16067 8010242,neudietendorf
+de 14729 8010243,neukieritzsch
+de 14523 1122,neumark sachs
+de 14521 60826,neuoelsnitz
+de 12068 900205006,neuruppin west
+de 12068 900205488,neustadt dosse
+de 14628 3880,neustadt sachs
+de 13071 80001,neustrelitz hbf
+de 14522 30320,niederwiesa
+de 15085 8010254,nienhagen halberst
+de 11000 900120005,berlin ostbahnhof
+de 16062 8010256,nordhausen
+de 14626 9725,oberoderwitz
+de 16073 8010260,obstfelderschmiede
+de 15083 8010261,oebisfelde
+de 16074 8010264,orlamnde
+de 15083 8010266,oschersleben bode
+de 13076 6297,parchim
+de 13075 6237,pasewalk
+de 14729 8010269,pegau
+de 14628 3370,pirna
+de 13072 659,plaaz
+de 16070 8010274,plaue thr
+de 14523 1144,plauen vogtl ob bf
+de 14521 49407,pockau lengefeld
+de 12054 900230002,potsdam pirschheide
+de 12054 900230006,potsdam charlottenhof
+de 15091 8010281,pratau
+de 12073 900340050,prenzlau
+de 15091 8010283,pretzsch
+de 13072 2318,priemerburg
+de 14627 5100,priestewitz
+de 12070 900215723,pritzwalk
+de 16073 8010288,probstzella
+de 15085 8010290,quedlinburg
+de 15088 8010291,querfurt
+de 14627 4210,radebeul ost
+de 14627 4212,radebeul ktzschenbroda
+de 12063 900210771,rathenow
+de 14627 5500,riesa
+de 15087 8010299,rblingen am see
+de 13072 2945,rvershagen
+de 16076 8010301,ronneburg thr
+de 15001 8010302,rolau elbe
+de 13003 1489,rostock hbf
+de 16073 8010305,rottenbach
+de 16073 8010306,rudolstadt thr
+de 16073 8010307,rudolstadt schwarza
+de 12066 900435061,ruhland
+de 16073 8010309,saalfeld saale
+de 15081 8010310,salzwedel
+de 15087 8010311,sandersleben anh
+de 15087 8010312,sangerhausen
+de 16066 8010315,schmalkalden
+de 14523 232,schnberg vogtl
+de 15089 8010318,schnebeck elbe
+de 12065 900200033,schmachtenhagen
+de 15090 8010321,schnhausen elbe
+de 13072 1461,schwaan
+de 14521 50323,schwarzenberg erzg
+de 13004 9005,schwerin hbf
+de 13004 9041,schwerin grries
+de 12066 900435000,senftenberg
+de 16068 8010328,smmerda
+de 16065 8010329,sondershausen
+de 12071 900446322,spremberg
+de 14524 60831,st egidien
+de 15089 8010332,stafurt
+de 14524 50333,steinpleis
+de 15090 8010334,stendal
+de 15090 8010335,stendal stadtsee
+de 14523 1163,plauen vogtl straberg
+de 14521 20484,stollberg sachs
+de 13073 10401,stralsund hbf
+de 13075 6800,strasburg uckerm
+de 12064 900320004,strausberg
+de 16068 8010342,straufurt
+de 15082 8010343,stumsdorf
+de 16054 8010345,suhl
+de 12073 900340026,templin
+de 13072 1307,teterow
+de 15084 8010349,teuchern
+de 16069 8010350,themar
+de 14730 8010351,torgau
+de 16075 8010352,triptis
+de 16075 8010354,unterlemnitz
+de 13073 2153,velgast
+de 12071 900445593,guben
+de 14522 80561,waldheim
+de 13071 17001,waren mritz
+de 15085 8010364,wegeleben
+de 16076 8010365,weida
+de 16055 8010366,weimar
+de 14523 286,weischlitz
+de 15084 8010368,weienfels
+de 14626 8281,weiwasser oberlausitz
+de 12064 900321810,werbig
+de 14524 10544,werdau
+de 12069 900220009,werder havel
+de 15085 1307,wernigerode
+de 16066 8010375,wernshausen
+de 12069 900220152,wiesenburg mark
+de 12054 900230007,potsdam park sanssouci
+de 12069 900220006,wilhelmshorst
+de 14524 50379,wilkau halau
+de 14625 7407,wilthen
+de 13074 1011,wismar
+de 12070 900216026,wittenberge
+de 14511 30622,wittgensdorf ob bf
+de 12068 900205617,wittstock dosse
+de 16062 8010385,wolkramshausen
+de 12064 900321168,wriezen
+de 16076 8010387,wnschendorf
+de 14524 20544,wstenbrand
+de 12063 900210003,wustermark
+de 15084 8010390,zeitz
+de 16066 8010391,zella mehlis
+de 13075 4188,zinnowitz
+de 14626 9550,zittau
+de 12072 900245023,zossen
+de 13075 172,zssow
+de 14524 41032,zwickau sachs hbf
+de 14523 1143,zwotental
+de 12065 900203772,frstenberg havel
+de 14625 7220,neukirch lausitz west
+de 13073 11341,putbus
+de 11000 900024101,berlin charlottenburg
+de 11000 900029101,berlin spandau
+de 11000 900053301,berlin wannsee
+de 11000 900023201,berlin zoologischer garten
+de 14521 30907,adorf erzgeb
+de 11000 900170004,ahrensfelde
+de 12060 900350141,ahrensfelde friedhof
+de 12060 900350142,ahrensfelde nord
+de 12060 900350809,alt httendorf
+de 12064 900321302,alt rosenthal
+de 12066 900435209,altdbern
+de 13073 10312,altefhr
+de 14729 8011018,altenbach
+de 14628 1770,kurort altenberg erzgebirge
+de 13071 20,altentreptow
+de 13073 350,altenwillershagen
+de 16066 8011028,altersbach
+de 16064 8011029,ammern
+de 13072 236,althof
+de 14522 60025,altmittweida
+de 12064 900321013,altranft
+de 15087 8011038,amsdorf
+de 14628 3940,amtshainersdorf
+de 11000 900064301,berlin lichterfelde ost
+de 15083 8011042,angern rogtz
+de 15088 8011043,angersdorf
+de 13075 12000,anklam
+de 14521 51045,annaberg buchholz mitte
+de 11000 900143001,berlin karow
+de 14521 40061,annaberg buchholz unterer bf
+de 15091 8011048,annaburg
+de 14521 51049,antonsthal
+de 16071 8011051,apolda
+de 15082 8011053,arensdorf kthen
+de 16061 8011054,arenshausen
+de 16070 8011055,arnstadt sd
+de 16066 8011057,auehtte
+de 16053 8011058,jena saalbf
+de 14523 1100,auerbach vogtl hp
+de 16071 8011060,auerstedt
+de 13073 11017,baabe
+de 12060 900350178,blumberg rehhahn
+de 16072 8011065,bachfeld
+de 16071 8011066,bad berka
+de 16071 8011067,bad berka zeughausplatz
+de 14523 1103,bad brambach
+de 13072 34,bad doberan goethestrae
+de 14730 8011070,bad dben mulde
+de 15088 8011071,bad drrenberg
+de 14523 1104,bad elster
+de 16076 8011074,bad kstritz
+de 14729 8011077,bad lausick
+de 12062 900415240,bad liebenwerda
+de 12067 900310040,bad saarow
+de 15091 8011081,bad schmiedeberg
+de 15091 8011083,bad schmiedeberg sd
+de 15085 22761,bad suderode
+de 16071 8011085,bad sulza
+de 16071 8011086,bad sulza nord
+de 12070 900215110,bad wilsnack
+de 14628 1920,brenhecke johnsbach
+de 12065 900204003,brenklau
+de 14521 40126,brenstein annaberg
+de 14628 1865,brenstein b glashtte sachs
+de 14627 4394,brnsdorf
+de 12071 900445165,bagenz
+de 12066 900435800,bahnsdorf
+de 12069 900220142,baitz
+de 11000 900007102,berlin gesundbrunnen
+de 15084 8011103,balgstdt
+de 16067 8011106,ballstdt gotha
+de 13075 4035,bannemin mlschow
+de 13075 4120,bansin seebad
+de 15083 8011111,barleben
+de 15083 8011112,barleber see
+de 11000 900058101,berlin sdkreuz
+de 13073 135,barth
+de 14523 1105,barthmhle
+de 11000 900100020,berlin potsdamer platz
+de 15089 8011119,bebitz
+de 16073 8011121,bechstedt trippstein
+de 12065 900203491,beetz sommerfeld
+de 14730 8011131,beilrode
+de 14729 8011132,belgershain
+de 15089 8011133,belleben
+de 15087 8011138,bennungen
+de 16066 8011139,benshausen
+de 13072 2998,bentwisch
+de 14627 4386,berbisdorf
+de 14627 4385,berbisdorf anbau
+de 16076 8011144,berga elster
+de 12065 900203942,bergsdorf
+de 15091 8011150,bergwitz
+de 12067 900310005,berkenbrck
+de 11000 900100003,berlin alexanderplatz
+de 11000 900003201,berlin hbf
+de 11000 900120003,berlin ostkreuz
+de 11000 900020201,berlin jungfernheide
+de 15089 8011168,bernburg friedenshall
+de 15089 8011169,bernburg strenzfeld
+de 15089 8011170,bernburg waldau
+de 16061 8011172,bernterode
+de 12061 900260611,bestensee
+de 15088 8011177,beuna geiseltal
+de 16061 8011178,beuren
+de 12062 900415357,beutersitz
+de 15003 8011181,beyendorf
+de 16066 8011183,bibra
+de 15089 8011184,biendorf
+de 14522 70452,bienenmhle
+de 12060 900350137,biesenthal
+de 15090 8011190,bindfelde
+de 13073 11740,ostseebad binz
+de 13073 11034,binz lb
+de 14625 6361,bischheim gersdorf
+de 13071 5266,blankensee meckl
+de 16075 8011206,blankenstein saale
+de 16072 8011208,blechhammer thr
+de 12072 900245018,blnsdorf
+de 12060 900350151,blumberg b berlin
+de 14521 40151,blumenau
+de 13075 6275,blumenhagen
+de 12068 900205010,blumenthal mark
+de 13074 5267,bobitz
+de 16061 8011219,bodenrode
+de 14729 8011222,bhlen werke
+de 12070 900215157,blzke
+de 15085 8011226,brnecke harz
+de 15083 8011228,bsdorf sachs anh
+de 13076 9448,boizenburg elbe
+de 12069 900222030,borkheide
+de 14729 8011242,borna leipzig
+de 13076 9057,brahlstorf
+de 12061 900260019,brand tropical islands
+de 12051 900275123,brandenburg altstadt
+de 15088 8011255,braunsbedra
+de 15088 8011256,braunsbedra ost
+de 14522 70396,braunsdorf lichtenwalde
+de 12068 900205250,breddin
+de 15082 8011260,brehna
+de 14521 40162,breitenbrunn erzg
+de 14625 7985,breitendorf
+de 16066 8011265,breitungen werra
+de 16073 8011267,breternitz
+de 12067 900310006,briesen mark
+de 13072 108,broderstorf
+de 12069 900220141,brck mark
+de 12070 900215172,brgge prign
+de 15081 8011277,brunau packebusch
+de 13073 125,buchenhorst
+de 12069 900220306,buchholz zauche
+de 12067 900310614,buckow beeskow
+de 13075 286,buddenhagen
+de 15091 8011290,blzig
+de 13071 32,burg stargard meckl
+de 15086 8011294,burg magdeburg
+de 15082 8011296,burgkemnitz
+de 14522 60035,burgstdt
+de 14628 3147,burkhardswalde maxen
+de 14521 51299,burkhardtsdorf
+de 12063 900210050,buschow
+de 14521 51298,burkhardtsdorf mitte
+de 16068 8011304,buttstdt
+de 14524 10296,cainsdorf
+de 11000 900100001,berlin friedrichstrae
+de 13071 5257,cammin meckl
+de 12069 900220658,caputh geltow
+de 12073 900340061,casekow
+de 16074 8011312,crossen ort
+de 12060 900350125,chorin
+de 14522 70442,clausnitz
+de 12052 900470001,cottbus sandow
+de 12067 900311250,coschen
+de 14612 450,cossebaude
+de 15091 8011322,coswig anh
+de 15089 8011323,calbe saale stadt
+de 14524 10561,crimmitschau
+de 13076 9019,crivitz
+de 14627 4396,cunnertswalde
+de 16073 8011332,cursdorf
+de 12072 900245024,dabendorf
+de 16064 8011335,dachrieden
+de 16067 8011336,dachwig
+de 14730 8011339,dahlen sachs
+de 12072 900245026,dahlewitz
+de 12065 900203749,dannenwalde gransee
+de 15085 8011346,darlingerode
+de 14625 7187,demitz thumitz
+de 15090 8011355,demker
+de 13071 3650,demmin
+de 15001 8011361,dessau sd
+de 15001 23109,dessau adria
+de 15001 8011363,dessau alten
+de 15001 8011364,dessau mosigkau
+de 14729 8011371,deutzen
+de 15088 8011376,dieskau
+de 16054 8011378,dietzhausen
+de 14628 1430,dippoldiswalde
+de 15085 8011383,ditfurt
+de 14522 60813,dittersbach
+de 14521 20077,dittersdorf
+de 14730 8011387,doberschtz
+de 15083 8011388,dodendorf
+de 12063 900210721,dberitz
+de 16070 8011397,drrberg
+de 14628 3103,dohna sachs
+de 14612 617,dresden flughafen
+de 15088 8011402,domnitz saalkr
+de 13076 1130,domshl
+de 14521 51405,dorfchemnitz
+de 16074 8011406,dornburg saale
+de 12068 900205090,dossow prign
+de 12071 900445360,drebkau
+de 15083 8011415,dreileben drackenstedt
+de 14612 247,dresden bischofsplatz
+de 14612 662,dresden grenzstrae
+de 14612 267,dresden industriegelnde
+de 14612 193,dresden cotta
+de 14612 919,dresden dobritz
+de 14612 550,dresden kemnitz
+de 14612 98,dresden niedersedlitz
+de 14612 593,dresden pieschen
+de 14612 907,dresden reick
+de 14612 556,dresden stetzsch
+de 14612 757,dresden strehlen
+de 14612 622,dresden trachau
+de 14612 910,dresden zschachwitz
+de 12054 900230001,potsdam medienstadt babelsberg
+de 14612 25,dresden freiberger strae
+de 15089 8011433,drohndorf mehringen
+de 13075 2189,ducherow
+de 13076 6171,dtschow
+de 14524 10399,ebersbrunn
+de 16064 8011449,eckardtsleben
+de 16071 8011450,eckartsberga thr
+de 14628 1630,edle krone
+de 16072 8011453,effelder thr
+de 15089 8011455,eggersdorf
+de 13075 6476,eggesin
+de 15090 8011460,eichstedt altm
+de 15089 8011462,eickendorf
+de 14511 55464,einsiedel hp gymnasium
+de 14511 48201,einsiedel
+de 16056 8011468,eisenach west
+de 12067 900311307,eisenhttenstadt
+de 16069 8011472,eisfeld
+de 16070 8011476,elgersburg
+de 14523 1108,ellefeld
+de 16062 8011480,ellrich
+de 13073 2256,elmenhorst
+de 12069 900220305,elsholz
+de 15082 8011484,elsnigk anh
+de 15091 8011486,elster elbe
+de 14523 886,elsterberg
+de 14523 1191,elsterberg kunstseidenwerk
+de 16068 8011489,elxleben
+de 14713 8011491,leipzig engelsdorf
+de 14713 8011495,leipzig werkstttenstrae
+de 15087 8011496,erdeborn
+de 14522 51497,erdmannsdorf augustusburg
+de 16051 8011500,erfurt ost
+de 16051 8011502,erfurt bischleben
+de 16051 8011503,erfurt gispersleben
+de 14521 51505,erla
+de 14521 40260,erlabrunn erzgeb
+de 14522 51500,erlau sachs
+de 16072 8011512,ernstthal am rennsteig
+de 16063 8011519,ettenhausen
+de 16065 8011520,etzleben
+de 15091 8011522,eutzsch
+de 13003 1501,rostock evershagen
+de 14524 49982,fhrbrcke
+de 14522 51528,falkenau sachs hp
+de 14522 51529,falkenau sachs sd
+de 12064 900321068,falkenberg mark
+de 12067 900310003,fangschleuse
+de 13075 90000,ferdinandshof
+de 12062 900415464,fermerswalde
+de 12067 900311232,finkenheerd
+de 12063 900210011,finkenkrug
+de 12062 900415005,finsterwalde niederlausitz
+de 15083 8011544,flechtingen
+de 15081 8011545,fleetmark
+de 14521 51548,flomhle
+de 15089 8011549,frderstedt
+de 12069 900220183,fohrde
+de 14522 60045,frankenberg sachs
+de 14522 57253,frankenberg sachs sd
+de 14522 55986,frankenstein sachs
+de 12053 900360001,frankfurt oder neuberesinchen
+de 12053 900360004,frankfurt oder rosengarten
+de 15088 8011560,frankleben
+de 14627 5823,frauenhain
+de 15089 8011564,freckleben
+de 16074 8011567,freienorla
+de 14628 1175,freital comannsdorf
+de 14628 1162,freital deuben
+de 14628 1176,freital hainsberg west
+de 15082 8011571,frenz
+de 12068 900205092,fretzdorf
+de 15084 8011573,freyburg unstrut
+de 12061 900260013,friedersdorf knigs wusterhausen
+de 14627 4327,friedewald kr dresden bad
+de 14627 4326,friedewald kr dresden hp
+de 16067 8011578,friedrichroda
+de 13076 1131,friedrichsruhe meck
+de 12063 900210456,friesack mark
+de 14729 8011588,frohburg
+de 12067 900310010,frstenwalde sd
+de 13074 9231,gadebusch
+de 16068 8011594,gangloffsmmern
+de 15081 8011596,gardelegen
+de 13073 11742,garftitz
+de 14729 8011598,markkleeberg gaschwitz
+de 15085 8011599,gatersleben
+de 16062 8011602,gebra hainleite
+de 16070 8011603,gehlberg
+de 14628 1800,geising
+de 13072 1618,gelbensande
+de 16052 8011619,gera langenberg
+de 16052 8011623,gera zwtzen
+de 16070 8011624,geraberg
+de 14729 8011626,gerichshain
+de 14626 8807,gersdorf grlitz
+de 16063 8011629,gerstungen
+de 15086 8011630,gerwisch
+de 15089 8011632,giersleben
+de 14628 1940,glashtte sachs
+de 14627 5750,glaubitz riesa
+de 12070 900215322,glwen
+de 16065 8011643,glckauf
+de 13071 3406,gnevkow
+de 13073 11020,ghren rgen
+de 12051 900275325,grden
+de 14626 8985,grlitz weinhbel
+de 16062 8011657,grsbach
+de 12069 900220182,gtz
+de 15090 8011665,goldbeck osterburg
+de 12066 900435527,gollmitz niederlausitz
+de 12060 900350060,golzow eberswalde
+de 12064 900321430,golzow oderbruch
+de 15086 8011673,gommern
+de 12064 900321435,gorgast
+de 14628 3670,godorf kohlmhle
+de 16067 8011678,gotha ost
+de 13076 9012,grabow meckl
+de 15091 8011683,grfenhainichen
+de 16067 8011687,grfentonna
+de 13075 6022,grambow
+de 12065 900203709,gransee
+de 13075 88020,greifswald sd
+de 16076 8011697,greiz dlau
+de 15082 8011699,greppin
+de 16065 8011700,greuen
+de 13074 3294,grieben meckl
+de 15091 8011703,griebo
+de 14729 8011705,grimma ob bf
+de 13073 342,grimmen
+de 14523 1112,grobau
+de 15088 8011711,grbers
+de 14627 5809,grditz riesa
+de 15083 8011714,gro ammensleben
+de 13074 7325,gro brtz
+de 13075 165,gro kiesow
+de 12069 900220699,gro kreutz
+de 13076 4128,gro laasch
+de 13072 272,gro lsewitz
+de 12070 900215350,gro pankow
+de 13071 5773,gro quassow
+de 12060 900350152,gro schnebeck
+de 13072 278,gro schwa
+de 12072 900245032,grobeeren
+de 14729 8011745,grodeuben
+de 16064 8011746,groengottern
+de 14627 5021,groenhain cottb bf
+de 16065 8011750,grofurra
+de 14625 7103,groharthau
+de 15088 8011752,grokugel
+de 14729 8011753,grolehna
+de 16068 8011754,groneuhausen
+de 14729 8011755,gropsna
+de 12066 900435339,grorschen
+de 14625 6010,grorhrsdorf
+de 16068 8011759,grorudestedt
+de 14626 9450,groschnau sachs
+de 16071 8011762,groschwabhausen
+de 14729 8011763,grosteinberg
+de 12063 900210314,growudicke
+de 14511 55770,grna sachs hp
+de 14713 8011771,leipzig grnauer allee
+de 14523 1113,grnbach vogtl
+de 12065 900203961,grneberg
+de 14521 70602,grnhainichen borstendorf
+de 13073 10530,stralsund grnhufe
+de 12064 900321442,seelow gusow
+de 14523 1115,gutenfrst
+de 16068 8011791,guthmannshausen
+de 16070 8011792,haarhausen
+de 15083 8011794,hadmersleben
+de 14626 8526,hhnichen
+de 15090 8011796,hmerten
+de 13074 5277,hagebk
+de 13076 9129,hagenow stadt
+de 14626 8992,hagenwerder
+de 14626 9405,hainewalde
+de 14522 60050,hainichen
+de 12061 900260017,halbe
+de 15357 7659,halberstadt oststr
+de 15085 8011809,halberstadt spiegelsberge
+de 15002 8011813,halle nietleben
+de 15002 8011814,halle trotha
+de 12073 900340353,hammelspring
+de 14521 55988,hammerunterwiesenthal
+de 12067 900310002,hangelsberg
+de 16075 8011820,harra
+de 16075 8011821,harra nord
+de 16069 8011822,harras thr
+de 14524 10239,hartenstein
+de 14628 1803,hartmannmhle
+de 16061 8011834,hausen eichsfeld
+de 15085 8011838,hedersleben wedderstedt
+de 14628 3053,heidenau sd
+de 14628 3065,heidenau grosedlitz
+de 13072 1475,heiligendamm
+de 13072 3065,steilkste wittenbeck
+de 12068 900205322,heiligengrabe
+de 16061 8011849,heilbad heiligenstadt
+de 16065 8011852,heldrungen
+de 12053 900360016,helenesee
+de 14628 3846,helmsdorf pirna
+de 14522 51856,hennersdorf sachs
+de 16062 8011860,heringen helme
+de 14625 6620,hermsdorf dresden
+de 16074 8011862,hermsdorf klosterlausnitz
+de 12064 900320011,herrensee
+de 13074 5260,herrnburg
+de 12062 900415683,herzberg elster
+de 16071 8011869,hetschburg
+de 14522 70549,hetzdorf flhatal
+de 16069 8011871,hildburghausen
+de 14626 9650,hirschfelde
+de 13075 2154,hohendorf
+de 16065 8011891,hohenebra ort
+de 14522 51892,hohenfichte
+de 16076 8011895,hohenleuben
+de 14730 8011900,hohenroda
+de 11000 900152001,berlin hohenschnhausen
+de 14524 20184,hohenstein ernstthal
+de 15088 8011905,hohenthurm
+de 13074 7735,holdorf meckl
+de 15091 8011909,holzdorf elster
+de 16055 8011910,holzdorf b weimar
+de 14522 70716,holzhau
+de 14713 8011913,leipzig holzhausen
+de 14729 8011914,hopfgarten sachs
+de 16071 8011915,hopfgarten weimar
+de 12067 900310612,hubertushhe
+de 13072 383,huckstorf
+de 16072 8011925,httengrund
+de 14523 1116,hundsgrn
+de 15089 8011929,ilberstedt
+de 16070 8011931,ilmenau bad
+de 16070 8011932,ilmenau roda
+de 15085 8011933,ilsenburg
+de 16063 8011934,immelborn
+de 16070 8011935,ilmenau prlitzer hhe
+de 14523 904,irfersgrn
+de 13071 7118,jabel meckl
+de 12067 900310007,jacobsdorf mark
+de 12071 900445750,jnschwalde
+de 12071 900445751,jnschwalde ost
+de 15081 8011946,jvenitz
+de 13073 11741,jagdschlo
+de 14521 30908,jahnsdorf erzgeb
+de 13076 4253,jasnitz
+de 15091 8011952,jeber bergfrieden
+de 13073 2364,jeeser
+de 16053 8011956,jena paradies
+de 16053 8011957,jena west
+de 16053 8011958,jena zwtzen
+de 14730 8011959,jesewitz leipzig
+de 15091 8011960,jessen elster
+de 15082 8011961,jenitz anh
+de 12060 900350811,joachimsthal
+de 14523 1117,jocketa
+de 14523 1118,jnitz
+de 14521 40342,johanngeorgenstadt
+de 12072 900245007,altes lager
+de 14511 30417,chemnitz kinderwaldsttte
+de 14511 30393,chemnitz mitte
+de 14511 30377,chemnitz borna hp
+de 14511 55975,chemnitz erfenschlag
+de 14511 60818,chemnitz harthau
+de 14511 30106,chemnitz reichenhain
+de 14511 55979,chemnitz schnau
+de 14511 30435,chemnitz siegmar
+de 12061 900260012,kablow
+de 14730 8011983,kmmereiforst
+de 16074 8011985,kahla thr
+de 14625 6201,kamenz sachs
+de 13075 6228,karlsburg
+de 13075 4239,karlshagen
+de 15084 8011993,karsdorf
+de 12070 900215455,karstdt
+de 13074 5265,kalsow
+de 16073 8011999,katzhtte
+de 16073 8012000,kaulsdorf saale
+de 13072 9000,kavelstorf kr rostock
+de 14521 52004,kemtau
+de 13073 387,kenz
+de 12071 900445801,kerkwitz
+de 16068 8012007,kiebitzhhe
+de 13076 4669,kirch jesar
+de 12051 900275719,kirchmser
+de 15084 8012012,kirchscheidungen
+de 15090 8012014,klden stendal
+de 12060 900350153,klandorf
+de 13075 2195,klein bnzow
+de 16062 8012033,kleinfurra
+de 15084 8012034,kleinjena
+de 14625 6025,kleinrhrsdorf
+de 14522 52037,kleinschirma
+de 15091 8012040,klieken
+de 12071 900445122,klinge
+de 14628 1243,klingenberg colmnitz
+de 14523 666,klingenthal
+de 14730 8012046,klitschmar
+de 14522 55200,klosterbuch
+de 12060 900350154,klosterfelde
+de 14713 8012059,knautnaundorf
+de 14626 8645,kodersdorf
+de 16068 8012064,klleda
+de 13075 4134,klpinsee
+de 15086 8012066,knigsborn
+de 14625 6101,knigsbrck
+de 14628 3500,knigstein schs schw
+de 16073 8012075,knitz thr
+de 14628 3113,kttewitz
+de 15088 8012080,ktzschau
+de 12071 900445884,kolkwitz
+de 12071 900445885,kolkwitz sd
+de 13075 4136,koserow
+de 16076 8012088,kraftsdorf
+de 12067 900311233,kraftwerk finkenheerd
+de 16071 8012092,kranichfeld
+de 13071 5787,kratzeburg
+de 12065 900203452,kremmen
+de 14730 8012097,krensitz
+de 14521 40496,kretscham rothensehma
+de 14628 3610,krippen
+de 16075 8012107,krlpa ranis
+de 13072 2480,krpelin
+de 13072 2479,kronskamp
+de 14628 3912,krumhermsdorf
+de 15088 8012114,krumpa
+de 14625 7772,kubschtz
+de 14729 8012117,khren
+de 13073 150,kummerow stralsund
+de 12067 900310610,kummersdorf storkow
+de 14626 9475,kurort jonsdorf
+de 14626 9485,kurort jonsdorf hst
+de 14521 40533,kurort oberwiesenthal
+de 14626 9495,kurort oybin
+de 14626 9499,kurort oybin niederdorf
+de 14628 3710,kurort rathen
+de 14730 8012141,kyhna
+de 12068 900205139,kyritz
+de 13072 1420,laage meckl
+de 14627 5440,lampertswalde
+de 13073 11355,lancken
+de 15088 8012147,landsberg b halle saale
+de 15088 8012148,landsberg b halle saale sd
+de 14612 6680,langebrck sachs
+de 15084 8012155,langendorf
+de 15088 8012156,langeneichstdt
+de 16075 8012159,langenorla ost
+de 16075 8012160,langenorla west
+de 15085 8012161,langenstein
+de 15083 8012162,langenweddingen
+de 14628 3824,langenwolmsdorf
+de 14628 3828,langenwolmsdorf mitte
+de 15084 8012167,laucha unstrut
+de 12066 900435203,lauchhammer
+de 14628 1870,lauenstein sachs
+de 16072 8012171,lauscha thr
+de 14730 8012173,lauig dben
+de 14625 6090,launitz
+de 14625 6810,lauta nl
+de 14521 52176,lauter sachs
+de 13073 11400,lauterbach mole
+de 14729 8012178,lauterbach steinbach
+de 16055 8012180,legefeld
+de 14713 8012181,leipzig olbrichtstrae
+de 14730 8012183,leipzig halle flughafen
+de 14713 8012184,leipzig bayerischer bahnhof
+de 14713 8012186,leipzig markt
+de 14713 8012187,leipzig mdr
+de 14713 8012188,leipzig gohlis
+de 14713 8012190,leipzig heiterblick
+de 14713 8012192,leipzig knauthain
+de 14713 8012193,leipzig mckern
+de 14713 8012194,leipzig sttteritz
+de 14713 8012195,leipzig thekla
+de 14713 8012196,leipzig nord
+de 14713 8012197,leipzig wahren
+de 14522 80229,leisnig
+de 15084 8012199,leiling
+de 14521 40585,lengefeld rauenstein
+de 14713 8012202,leipzig wilhelm leuschner platz
+de 14523 418,lengenfeld vogtl
+de 14713 8012204,leipzig slevogtstrae
+de 12064 900321540,letschin
+de 16068 8012207,leubingen
+de 14522 70336,leubsdorf sachs
+de 15088 8012211,leuna werke nord
+de 15088 8012212,leuna werke sd
+de 16073 8012213,leutenberg
+de 12071 900445986,leuthen cottbus
+de 14522 70355,lichtenberg erzgeb
+de 13003 840,rostock lichtenhagen
+de 16073 8012222,lichtenhain bergbahn
+de 14524 20304,lichtenstein sachs
+de 14524 1045,lichtentanne sachs
+de 16073 8012225,lichtentanne thr
+de 12068 900205130,liebenthal prignitz
+de 14713 8012228,leipzig liebertwolkwitz
+de 14523 1119,limbach vogtl
+de 14522 55206,limmritz sachs
+de 15091 8012233,linda elster
+de 14713 8012236,leipzig lindenau
+de 12067 900310600,lindenberg mark
+de 12068 900205400,lindow mark
+de 14729 8012241,lobstdt
+de 14521 52245,lnitz ob bf
+de 14521 52246,lnitz unt bf
+de 14627 4279,lnitzgrund
+de 14628 3732,lohmen
+de 16076 8012252,loitsch hohenleuben
+de 12072 900245836,ludwigsfelde struveshof
+de 12060 900200040,lottschesee
+de 12061 900261549,lubolz
+de 15084 8012259,luckenau
+de 12072 900245016,luckenwalde
+de 13076 9184,lblow meckl
+de 15086 8012263,lbs magdeburg
+de 13074 9120,lbstorf
+de 13074 5162,ldersdorf meckl
+de 13072 537,lssow meckl
+de 13003 1503,rostock ltten klein
+de 13074 3356,ltzow
+de 15087 8012279,lutherstadt eisleben
+de 15091 8012280,lutherstadt wittenberg altstadt
+de 15091 8012282,lutherstadt wittenberg piesteritz
+de 14729 8012284,machern sachs
+de 14713 8012285,leipzig ltzschena
+de 15003 8012287,magdeburg sdost
+de 15003 8012289,magdeburg eichenweiler
+de 15003 8012291,magdeburg salbke
+de 15003 8012292,magdeburg sudenburg
+de 15083 8012295,mahlwinkel
+de 13071 17477,inselstadt malchow
+de 14628 1605,malter
+de 16070 8012299,manebach
+de 15083 8012302,marienborn
+de 14729 8012304,markkleeberg nord
+de 15082 8012305,marke
+de 14729 8012308,markkleeberg
+de 14729 8012311,markranstdt
+de 16063 8012312,marksuhl
+de 16070 8012314,marlishausen
+de 12054 900220012,marquardt
+de 13073 152,martensdorf
+de 16070 8012317,martinroda
+de 14627 4055,meien altstadt
+de 16067 8012320,mechterstdt
+de 13074 5125,dorf mecklenburg
+de 12069 900222245,medewitz mark
+de 14524 10472,meerane
+de 14521 20358,meinersdorf erzgeb
+de 14627 4000,meien
+de 14627 4079,meien triebischtal
+de 15083 8012328,meitzendorf
+de 12060 900350126,melchow
+de 16073 8012330,mellenbach glasbach
+de 16071 8012332,mellingen thr
+de 16072 8012333,mengersgereuth hmmern
+de 16072 8012334,mengersgereuth hmmern ost
+de 15088 8012339,merseburg bergmannsring
+de 12052 900470163,cottbus merzdorf
+de 15090 8012342,medorf
+de 14713 8012343,leipzig vlkerschlachtdenkmal
+de 14713 8012344,leipzig miltitzer allee
+de 16073 8012346,meuselbach schwarzmhle
+de 12070 900215609,meyenburg
+de 15081 8012351,mieste
+de 15081 8012352,miesterhorst
+de 15090 8012354,miltern
+de 14713 8012355,leipzig miltitz
+de 13073 839,miltzow
+de 13071 90002,mirow
+de 13072 1539,mistorf
+de 14521 20728,mitteloelsnitz
+de 16066 8012367,mittelschmalkalden
+de 14522 60326,mittweida
+de 12067 900311470,mixdorf
+de 14730 8012371,mockrehna
+de 12063 900210197,mgelin
+de 14713 8012375,leipzig mlkau
+de 13071 3628,mlln meckl
+de 13072 565,mnchhagen
+de 15090 8012378,mringen altm
+de 15086 8012381,mser
+de 13074 9142,moidentin
+de 14627 4340,moritzburg
+de 14524 52388,mosel
+de 15088 8012390,mcheln geiseltal
+de 15088 8012392,mcheln geiseltal stadt
+de 15091 8012393,mhlanger
+de 14628 3144,mhlbach pirna
+de 12067 900311475,mllrose
+de 16071 8012401,mnchen bad berka
+de 14522 70371,mulda sachs
+de 14522 45301,muldenhtten
+de 15082 8012409,muldenstein
+de 15089 8012410,nachterstedt hoym
+de 14522 70142,nassau erzgeb
+de 12065 900200043,nassenheide
+de 15088 8012414,nauendorf saalkr
+de 15084 8012415,naumburg saale ost
+de 14729 8012416,naunhof
+de 15084 8012417,nebra
+de 12073 900340979,nechlin
+de 13071 5300,neetzka
+de 15085 8012423,neinstedt
+de 15088 8012424,nemsdorf ghrendorf
+de 12063 900210318,nennhausen
+de 14521 40491,nennigmhle
+de 12068 900205022,netzeband
+de 15084 8012429,naumburg robach
+de 14523 929,netzschkau
+de 13072 1265,neu wokern
+de 13072 2597,neubukow
+de 16065 8012440,artern
+de 14521 55990,neudorf erzgeb
+de 16074 8012443,neue schenke
+de 12071 900446411,teichland
+de 16072 8012452,neuhaus igelshieb
+de 14626 9350,neugersdorf
+de 12071 900446070,neuhausen cottbus
+de 14625 7230,neukirch lausitz ost
+de 14521 60819,neukirchen klaffenbach
+de 14729 8012463,neukirchen wyhra
+de 16076 8012465,neumhle elster
+de 15089 8012467,neundorf anh
+de 16075 8012468,neunhofen
+de 12066 900435347,neupetershain
+de 14626 9255,neusalza spremberg
+de 14627 4194,neusrnewitz
+de 16075 8012472,neustadt orla
+de 13076 137,neustadt glewe
+de 12064 900321139,neutrebbin
+de 14713 8012478,leipzig messe
+de 12067 900310601,neuzelle
+de 14627 4120,niederau
+de 14522 52483,niederbobritzsch
+de 12060 900350493,niederfinow
+de 12072 900245017,niedergrsdorf
+de 12061 900260010,niederlehme
+de 15083 8012490,niederndodeleben
+de 14626 9715,niederoderwitz
+de 16061 8012492,gernrode niederorschel
+de 16076 8012493,niederpllnitz
+de 16062 8012494,niedersachswerfen
+de 14521 40514,niederschlag
+de 14628 1953,niederschlottwitz
+de 16066 8012498,niederschmalkalden
+de 14521 44507,niederzwnitz
+de 16065 8012500,niederspier
+de 16071 8012502,niedertrebra
+de 14612 470,niederwartha
+de 16070 8012504,niederwillingen
+de 14521 20521,niederwrschnitz
+de 15088 8012506,niemberg
+de 15089 8012507,nienburg saale
+de 16077 8012509,nbdenitz
+de 16055 8012511,nohra weimar
+de 16062 8012512,nohra wipper
+de 16062 8012516,nordhausen salza
+de 13071 7116,nossentin
+de 14627 5705,nnchritz
+de 16071 8012524,obergrunstedt
+de 16066 8012525,oberhof thr
+de 14729 8012526,oberholz
+de 16072 8012527,oberlauscha
+de 14522 60707,oberlichtenau
+de 14626 9729,oberoderwitz oberdorf
+de 15087 8012532,oberrblingen
+de 16063 8012533,oberrohn
+de 14524 52534,oberrothenbach
+de 14628 1950,oberschlottwitz
+de 12064 900320015,obersdorf
+de 14628 3420,obervogelgesang
+de 16055 8012541,oberweimar
+de 16073 8012542,oberweibach deesbach
+de 15083 8012546,ochtmersleben
+de 12061 900260018,oderin
+de 14522 70688,oederan
+de 12067 900310615,oegeln
+de 12072 900245019,oehna
+de 14521 20426,oelsnitz erzgeb
+de 14523 732,oelsnitz vogtl
+de 13071 5120,oertzenhof
+de 14521 48328,olbernhau
+de 14521 40555,olbernhau grnthal
+de 14626 9525,olbersdorf niederdorf
+de 14626 9520,olbersdorf oberdorf
+de 16068 8012562,olbersleben ellersleben
+de 16075 8012563,oppurg
+de 15091 23104,oranienbaum anh
+de 12066 900435801,ortrand
+de 16071 8012567,omannstedt
+de 15090 8012568,osterburg
+de 15082 8012570,osternienburg
+de 14521 55109,olbernhau west
+de 15083 8012572,osterweddingen
+de 14522 55204,ostrau
+de 13003 1502,rostock torfbrcke
+de 13072 116,graal mritz
+de 13072 1624,graal mritz koppelweg
+de 13072 490,ostseebad khlungsborn mitte
+de 13072 486,ostseebad khlungsborn ost
+de 13072 487,ostseebad khlungsborn west
+de 14522 55593,ottendorf mittweida
+de 14625 6601,ottendorf okrilla hp
+de 14625 6602,ottendorf okrilla nord
+de 14625 6600,ottendorf okrilla sd
+de 14729 8012597,otterwisch
+de 15083 8012599,ovelgnne
+de 13072 2317,papendorf
+de 16074 8012604,papiermhle stadtr
+de 12071 900445956,kunersdorf
+de 13072 1641,parkentin
+de 13075 6254,pasewalk ost
+de 12073 900341007,passow uckermark
+de 12063 900210423,paulinenaue
+de 16073 8012615,paulinzella
+de 13075 4238,peenemnde
+de 15088 8012619,peien
+de 12071 900446103,peitz ost
+de 12070 900215696,perleberg
+de 14729 8012623,petergrube
+de 12073 900340011,petershagen uckerm
+de 15082 8012629,petersroda
+de 14521 20438,pfaffenhain
+de 13073 11746,philippshagen
+de 12067 900310008,pillgram
+de 12073 900340003,pinnow uckermark
+de 14523 161,pirk
+de 14628 3430,pirna copitz
+de 14628 3465,pirna copitz nord
+de 13076 17129,plate meckl
+de 14523 1126,plauen vogtl west
+de 12062 900416008,plessa
+de 13074 3138,plschow
+de 13072 661,plchow
+de 14730 8012656,pnitz leipzig
+de 16075 8012657,pneck ob bf
+de 16075 8012658,pneck unt bf
+de 14625 7950,pommritz
+de 16077 8012661,ponitz
+de 14628 3664,porschdorf pirna
+de 16074 8012663,porstendorf
+de 13073 11737,posewald
+de 12054 900230999,potsdam hbf
+de 12063 900210343,premnitz nord
+de 12063 900210344,premnitz zentrum
+de 15081 8012673,pretzier altm
+de 15084 8012675,prittitz
+de 12069 900220184,pritzerbe
+de 13076 4259,pritzier
+de 15086 8012678,prdel
+de 12062 900415465,prsen
+de 12062 900416053,prsen west
+de 12062 900416052,prsen ost
+de 15084 8012682,profen
+de 13073 11352,prora
+de 13073 11038,prora ost
+de 14625 6038,pulsnitz
+de 14625 6078,pulsnitz sd
+de 14625 7200,putzkau
+de 15085 22365,quedlinburg quarmbeck
+de 14628 1295,rabenau
+de 15091 8012696,rackith elbe
+de 14730 8012697,rackwitz leipzig
+de 12066 900435697,raddusch
+de 14625 6700,radeberg
+de 14627 4211,radebeul weintraube
+de 14627 4213,radebeul zitzschewig
+de 14627 4365,radeburg
+de 12068 900205512,wustrau radensleben
+de 15091 8012704,radis
+de 15083 8012705,rtzlingen
+de 15082 8012707,raguhn
+de 13073 79,rakow
+de 13073 11070,rambin rgen
+de 12072 900245025,rangsdorf
+de 13076 7538,rastow
+de 14628 3653,rathmannsdorf kr pirna
+de 16072 8012723,rauenstein thr
+de 14523 1128,raun
+de 14522 57217,rechenberg
+de 13072 1642,reddelich
+de 14729 8012731,regis breitingen
+de 12069 900220008,potsdam rehbrcke
+de 12062 900416072,rehfeld falkenberg
+de 12064 900320012,rehfelde
+de 13074 7437,rehna
+de 14626 8785,reichenbach oberlausitz
+de 14523 988,reichenbach vogtl ob bf
+de 14521 40590,reifland wnschendorf
+de 16067 8012742,reinhardsbrunn friedrichroda
+de 15084 8012743,reinsdorf bei nebra
+de 16070 8012749,rennsteig
+de 16066 8012750,rentwertshausen
+de 16076 8012751,rentzschmhle
+de 16069 8012756,reurieth
+de 15088 8012757,reuen
+de 13071 31,reuterstadt stavenhagen
+de 14523 209,reuth b plauen vogtl
+de 12068 900205524,rheinsberg mark
+de 13073 5388,ribnitz damgarten ost
+de 13073 5018,ribnitz damgarten west
+de 15087 8012766,riestedt
+de 14626 8378,rietschen
+de 16068 8012769,ringleben gebesee
+de 16066 8012770,ritschenhausen
+de 14523 1131,rodewisch
+de 15001 8012777,rodleben
+de 14524 20454,rdlitz hohndorf
+de 13072 799,roggentin
+de 16066 8012787,rohr thr
+de 15082 8012788,roitzsch bitterf
+de 12068 900205001,rosenwinkel
+de 15087 8012796,rola
+de 13003 853,rostock parkstrae
+de 13003 1504,rostock bramow
+de 13003 791,rostock holbeinplatz
+de 13003 1640,rostock kassebohm
+de 13003 827,rostock marienehe
+de 16074 8012811,rothenstein saale
+de 14713 8012817,leipzig rckmarsdorf
+de 12060 900350158,rdnitz
+de 12060 900350159,ruhlsdorf zerpenschleuse
+de 14523 1132,ruppertsgrn
+de 13076 7142,ruthenbeck
+de 16063 8012826,sttelstdt
+de 13073 2208,saatel
+de 15089 8012830,sachsendorf calbe
+de 12065 900200041,sachsenhausen nordb
+de 13073 11052,sagard
+de 13073 11067,samtens
+de 13075 6445,sandfrde
+de 13072 959,sandhagen b bad dob
+de 13072 2968,sanitz b rostock
+de 12070 900215839,sarnow
+de 13073 11351,sassnitz
+de 16072 8012852,schalkau
+de 14521 20469,scharfenstein
+de 16072 8012854,schalkau mitte
+de 12067 900310613,wendisch rietz
+de 13072 977,scharstorf
+de 15089 8012862,schierstedt
+de 14730 8012863,schkeuditz west
+de 14625 7295,schirgiswalde kirschau
+de 14730 8012865,schkeuditz
+de 15088 8012867,schkopau
+de 14626 8948,grlitz rauschwalde
+de 14626 8180,schleife
+de 14521 40640,bad schlema
+de 16066 8012881,schmalkalden fachhochschule
+de 14628 3645,schmilka hirschmhle
+de 16077 8012889,schmlln thr
+de 14625 7219,schmlln ol
+de 13075 4242,schmollensee
+de 12067 900310616,schneeberg mark
+de 12066 900435818,luckaitztal
+de 14628 3598,schna
+de 16063 8012899,schnau hrsel
+de 13074 3019,schnberg meckl
+de 12062 900415466,schnborn doberl
+de 15089 8012907,schnebeck bad salzelmen
+de 14523 778,schneck vogtl
+de 12060 900350164,schnerlinde
+de 12064 900321733,schnflie mark dorf
+de 12073 900340025,schnow angerm
+de 16064 8012919,schnstedt
+de 12061 900261871,schnwalde spreewald
+de 16076 8012927,schptitz
+de 16066 8012929,schwallungen
+de 13076 4422,schwanheide
+de 12065 900204001,schwante
+de 16073 8012937,schwarzburg
+de 14521 52938,schwarzenberg hp
+de 14521 52939,schwarzenberg neuwelt
+de 13004 9006,schwerin mitte
+de 12066 900435802,schwarzheide ost
+de 14625 8144,schwarzkollm
+de 12073 900341110,schwedt oder
+de 12073 900341111,schwedt oder mitte
+de 14522 60270,schweikershain
+de 14524 10556,schweinsburg culten
+de 13071 7130,schwenzin
+de 13004 9220,schwerin sd
+de 13004 8282,schwerin lankow
+de 13004 2192,schwerin warnitz
+de 12069 900220573,caputh schwielowsee
+de 14628 3920,sebnitz sachs
+de 13004 2175,schwerin margaretenhof
+de 16064 8012961,seebach mhlhausen
+de 13075 92428,seebad ahlbeck
+de 13075 92240,seebad heringsdorf
+de 16067 8012965,seebergen
+de 12060 900350168,seefeld mark
+de 15090 8012967,seehausen altm
+de 12073 900340055,seehausen uckermark
+de 12064 900321741,seelow mark
+de 13073 11738,seelvitz
+de 14627 5950,seerhausen
+de 14521 52976,sehma
+de 14628 1615,seifersdorf
+de 14626 9365,seifhennersdorf
+de 14625 7610,seitschen
+de 13073 11744,sellin rgen ost
+de 16072 8012984,seltendorf
+de 13073 11739,serams
+de 16061 8012993,silberhausen
+de 14524 52996,silberstrae
+de 16070 8012998,singen thr
+de 16073 8013000,sitzendorf unterweibach
+de 15091 8013001,sllichau
+de 14523 1135,sohl
+de 14625 7268,sohland
+de 16062 8013004,sollstedt
+de 15081 8013005,solpke
+de 16072 8013008,sonneberg thr hbf
+de 16072 8013009,sonneberg thr nord
+de 16072 8013010,sonneberg thr ost
+de 16072 8013011,sonneberg thr west
+de 14628 1310,spechtritz
+de 13071 5041,sponholz
+de 13076 6389,spornitz
+de 11000 900029305,berlin staaken
+de 14628 3720,stadt wehlen sachs
+de 16070 8013023,stadtilm
+de 16074 8013025,stadtroda
+de 14627 5985,stauchitz
+de 14522 55207,steina
+de 16072 8013034,steinach thr
+de 16072 8013036,steinach thr sd
+de 16066 8013037,steinbach hallenberg
+de 15090 8013039,steinfeld stendal
+de 13074 5276,steinhausen neuburg
+de 15090 8013046,stendal vorbf
+de 14524 57125,stenn
+de 13071 3150,sternfeld
+de 14628 3815,stolpen
+de 12067 900310611,storkow mark
+de 16051 8013061,stotternheim
+de 13073 10307,stralsund rgendamm
+de 12064 900320001,strausberg nord
+de 13076 4285,strohkirchen
+de 14713 8013070,leipzig allee center
+de 16070 8013071,sttzerbach
+de 13072 1589,subzin liessow
+de 13076 9010,slstorf
+de 16070 8013074,slzenbrcken
+de 16054 8013077,suhl heinrichs
+de 13076 7307,sukow b schwerin
+de 14523 1137,syrau
+de 15090 8013083,tangerhtte
+de 15090 8013084,tangermnde
+de 15090 8013085,tangermnde west
+de 14729 8013087,tanndorf
+de 16071 8013089,tannroda
+de 12073 900341224,tantow
+de 14625 7288,taubenheim spree
+de 14730 8013093,taucha leipzig
+de 14729 8013095,tautenhain
+de 15088 8013097,teicha
+de 12069 900220001,teltow
+de 13073 11064,teschenhagen
+de 13072 1050,teschow
+de 13072 1057,tessin
+de 12061 900260016,gro kris
+de 15088 8013110,teutschenthal
+de 15088 8013111,teutschenthal ost
+de 15085 8013112,thale hbf
+de 14521 20619,thalheim erzgeb
+de 14628 1200,tharandt
+de 15084 8013115,theien
+de 14521 53116,thermalbad wiesenbad
+de 12072 900245037,thyrow
+de 14627 5877,tiefenau
+de 15085 8013125,thale musestieg
+de 16076 8013129,tppeln
+de 13075 7479,torgelow
+de 13075 4233,trassenheide
+de 13075 4240,trassenmoor
+de 12072 900245010,trebbin
+de 16077 8013138,treben lehma
+de 15091 8013139,trebitz elbe
+de 15089 8013140,trebitz knnern
+de 12064 900321780,trebnitz mark
+de 14523 517,treuen
+de 12069 900220164,treuenbrietzen
+de 12069 900220165,treuenbrietzen sd
+de 16076 8013150,triebes
+de 15084 8013152,tromsdorf
+de 13075 22,ueckermnde stadthafen
+de 15090 8013158,uchtspringe
+de 16061 8013159,uder
+de 12062 900415467,uebigau
+de 13075 4241,ckeritz
+de 13075 6471,ueckermnde
+de 16073 8013164,uhlstdt
+de 14626 8565,uhsmannsdorf
+de 14628 3674,ulbersdorf
+de 16073 8013171,unterloquitz
+de 16066 8013172,untermafeld
+de 14521 55991,unterneudorf
+de 16073 8013174,unterwellenborn
+de 14521 22056,unterwiesenthal
+de 13071 3673,utzedel
+de 16066 8013179,vachdorf
+de 15083 8013180,vahldorf
+de 12065 900203671,vehlefanz
+de 16069 8013184,veilsdorf
+de 12065 900200004,velten mark
+de 13074 7474,ventschow
+de 12066 900435884,vetschau
+de 14521 55989,vierenstrae
+de 16066 8013191,viernau
+de 16051 8013192,vieselbach
+de 15090 8013194,vinzelberg
+de 12065 900203956,vogelsang gransee
+de 14524 57110,voigtsgrn
+de 16065 8013202,voigtstedt
+de 15086 8013205,wahlitz
+de 14521 20533,waldkirchen erzgeb
+de 16066 8013215,walldorf werra
+de 15087 8013217,wallhausen helme
+de 15088 8013220,wallwitz saalkr
+de 16068 8013221,walschleben
+de 12068 900205023,walsleben
+de 16067 8013223,waltershausen
+de 16067 8013224,waltershausen schnepfenthal
+de 16067 8013226,wandersleben
+de 12060 900350169,wandlitz
+de 12060 900350170,wandlitzsee
+de 15087 8013230,wansleben am see
+de 13071 7067,warenshof
+de 14521 53235,warmbad
+de 13003 1500,warnemnde
+de 13003 926,warnemnde werft
+de 12073 900340056,warnitz uckermark
+de 15084 8013240,wangen unstrut
+de 16065 8013244,wasserthaleben
+de 16066 8013245,wasungen
+de 14628 3130,weesenstein
+de 15083 8013248,wefensleben
+de 15083 8013250,wegenstedt
+de 16076 8013251,weida mitte
+de 14625 7063,weickersdorf sachs
+de 16076 8013254,weida altstadt
+de 16055 8013256,weimar berkaer bf
+de 12070 900216013,weisen
+de 15082 8013259,weiandt glzau
+de 15084 8013261,weienfels west
+de 14627 4220,weies ro
+de 16055 8013266,weimar west
+de 14627 4401,weinbhla hp
+de 14612 6589,weixdorf
+de 14612 6584,weixdorf bad
+de 15083 8013271,wellen magdeburg
+de 12067 900311612,wellmitz
+de 15091 8013275,lutherstadt wittenberg labetz
+de 12065 900200035,wensickendorf
+de 12060 900350502,joachimsthal kaiserbahnhof
+de 14524 53280,werdau nord
+de 12060 900350172,werneuchen
+de 15085 8013286,wernigerode elmowerk
+de 16062 8013291,werther
+de 13071 5770,wesenberg
+de 14522 55201,westewitz hochweitzschen
+de 15084 8013297,wetterzeube
+de 12067 900311620,wiesenau
+de 14524 10209,wiesenburg sachs
+de 14521 55110,wiesa erzgeb
+de 14521 55111,zschopau ost
+de 14521 20538,wilischthal
+de 12073 900341270,wilmersdorf angerm
+de 16061 8013315,wingerode
+de 16062 8013318,wipperdorf
+de 13073 2299,wittenhagen
+de 14511 59999,wittgensdorf mitte
+de 14521 20542,witzschdorf
+de 16066 8013329,wlfershausen
+de 15091 3826,wrlitz
+de 16062 8013333,woffleben
+de 16076 8013334,wolfsgefrth
+de 15082 8013335,wolfen bitterfeld
+de 15087 8013336,wolferode
+de 13075 4001,wolgast
+de 13075 34,wolgast hafen
+de 13075 35,wolgaster fhre
+de 14521 40801,wolkenstein
+de 15083 8013344,wolmirstedt
+de 12072 900245014,woltersdorf nuthe urstromtal
+de 14627 5854,wlknitz
+de 16076 8013349,wnschendorf nord
+de 12072 900245022,wnsdorf waldstadt
+de 13073 2305,wstenfelde
+de 13004 2022,schwerin wstmark
+de 15082 8013357,wulfen anh
+de 16075 8013360,wurzbach thr
+de 14729 8013361,wurzen
+de 14729 8013362,bennewitz
+de 12068 900205663,wusterhausen dosse ne
+de 12069 900220249,wusterwitz
+de 16063 8013366,wutha
+de 12070 900216060,wutike
+de 14627 5394,zabeltitz
+de 13076 4810,zachun
+de 15091 8013371,zahna
+de 13073 2182,zarrendorf
+de 12061 900260014,zeesen
+de 12065 900203853,zehdenick mark
+de 12065 900203898,zehdenick neuhof
+de 14627 5602,zeithain
+de 16066 8013383,zella mehlis west
+de 12072 900245303,zellendorf
+de 13075 4235,zempin
+de 15082 8013389,zerbst anhalt
+de 12061 900260011,zernsdorf
+de 13075 6004,zerrenthin
+de 16076 8013396,zeulenroda unt bf
+de 16073 8013398,zeutsch
+de 15083 8013402,zielitz
+de 12067 900311631,ziltendorf
+de 13071 5718,zirtow leussow
+de 14626 9599,zittau hp
+de 14626 9596,zittau sd
+de 14626 9577,zittau vorstadt
+de 14626 8775,zoblitz
+de 15088 8013414,zberitz
+de 15091 8013418,zrnigall
+de 14522 55205,zschaitz
+de 15088 8013425,zscherben
+de 14521 53427,zschopau
+de 14730 8013428,zschortau
+de 12065 900203211,zhlsdorf
+de 15085 8013432,stapelburg
+de 14524 1117,zwickau plbitz
+de 14524 53434,zwickau schedewitz
+de 14521 44506,zwnitz
+de 14523 1142,zwota zechenbach
+de 14523 1141,zwota
+de 15085 8013439,blankenburg harz
+de 14612 1,dresden mitte
+de 14628 1102,freital potschappel
+de 14729 8013447,zwenkau grodalzig
+de 15002 8013448,halle silberhhe
+de 14511 30085,chemnitz hilbersdorf
+de 16075 8013452,bad lobenstein
+de 15003 8013455,magdeburg herrenkrug
+de 15003 8013456,magdeburg buckau
+de 14521 20404,niederdorf erzgeb
+de 14730 8013461,oschatz
+de 15089 8013465,schnebeck felgeleben
+de 12069 900220005,beelitz heilsttten
+de 12069 900220938,beelitz stadt
+de 12060 900350160,bernau b berlin
+de 14729 8013471,bhlen leipzig
+de 12063 900210326,brieselang
+de 16074 8013474,camburg saale
+de 14612 192,dresden friedrichstadt
+de 14612 166,dresden plauen
+de 12067 900310004,erkner
+de 12063 900210010,falkensee
+de 12069 900220303,ferch lienewitz
+de 12054 900220010,golm
+de 12065 900200000,hennigsdorf b berlin
+de 15003 8013485,magdeburg sket industriepark
+de 12065 900200005,oranienburg
+de 12063 900210001,priort
+de 14627 4209,radebeul naundorf
+de 12069 900220004,seddin
+de 14626 9497,teufelsmhle
+de 13073 11736,beuchow
+de 16056 8013547,hrschel hp
+de 06636 206159,herleshausen hp
+de 15085 1354,albrechtshaus
+de 15085 820,alexisbad
+de 15085 1664,benneckenstein
+de 15085 797,birkenmoor
+de 15085 803,brocken
+de 15085 5543,drahtzug
+de 15085 826,drei annen hohne
+de 16062 8017007,eisfelder talmhle
+de 15085 804,elend
+de 15085 6161,friedrichshhe
+de 15085 794,gntersberge
+de 15085 813,harzgerode
+de 15085 796,hasselfelde
+de 16062 8017014,ilfeld
+de 15085 5539,mgdesprung
+de 16062 8017016,netzkater
+de 16062 8017017,niedersachswerfen ost
+de 16062 8017018,nordhausen altentor
+de 16062 8017019,nordhausen krimderode
+de 16062 8017020,nordhausen nord
+de 15085 806,osterteich
+de 15085 802,schierke
+de 15085 5863,silberhtte ne
+de 15085 805,sorge
+de 15085 812,steinerne renne
+de 15085 807,sternhaus haferfeld
+de 15085 808,sternhaus ramberg
+de 15085 795,stiege
+de 15085 810,straberg harz
+de 16062 8017030,tiefenbachmhle
+de 15085 8017032,wernigerode hasserode
+de 15085 1390,wernigerode hochschule harz
+de 15085 824,wernigerode westerntor
+de 16062 8017040,sophienhof
+de 09180 90199,griesen oberbay
+de 09180 10108,untergrainau
+de 14522 70743,holzhau skilift
+de 14522 55992,berthelsdorf erzgebirge ort
+de 13073 11082,lauterbach rgen
+de 12070 900215017,falkenhagen gewerbepark prignitz
+de 12070 900215747,pritzwalk west
+de 13075 4128,neu pudagla
+de 14511 30532,chemnitz alt chemnitz center
+de 14511 30650,chemnitz riemenschneiderstrae
+de 14511 30034,chemnitz erdmannsdorfer strae
+de 14511 30037,chemnitz gustav freytag strae
+de 14524 53996,lichtenstein ernst schneller siedlung
+de 14524 53995,lichtenstein gewerbegebiet
+de 14524 53997,lichtenstein hartensteiner strae
+de 14511 30270,chemnitz moritzhof
+de 14521 53999,oelsnitz bahnhofstrae
+de 14511 30035,chemnitz rsslerstrae
+de 14511 30075,chemnitz roter turm
+de 14511 30283,chemnitz scheffelstrae
+de 14511 30277,chemnitz schneeberger strae
+de 14511 30276,chemnitz schule altchemnitz
+de 14521 20505,stollberg schlachthofstrae
+de 14511 30004,chemnitz theaterplatz
+de 14511 30036,chemnitz treffurthstrae
+de 14511 30033,chemnitz uhlestrae
+de 14511 30131,chemnitz zentralhaltestelle
+de 14511 30029,chemnitz altchemnitz
+de 14511 30652,klaffenbach hp
+de 14521 53998,hohndorf mitte
+de 14523 2050,plauen vogtl mitte
+de 14511 30444,chemnitz brckenstrae freie presse
+de 09274 80589,altdorf niederbay
+de 09274 80590,pfettrach
+de 09274 80591,neuhausen b landshut
+de 08417 30248,endingen wrtt
+de 08417 30251,erzingen wrtt
+de 08417 37602,dotternhausen dormettingen
+de 08417 37616,schmberg b balingen
+de 01054 98527,westerland sylt sylt shuttle
+de 12064 900320026,birkenstein
+de 06412 11511,frankfurt m flughafen fernbf
+de 06412 2930,frankfurt m flughafen regionalbf
+de 08135 610,heidenheim voithwerk
+de 08215 1831,bruchsal tunnelstr
+de 08215 1832,bruchsal schlachthof
+de 08215 1833,heidelsheim nord
+de 08215 1836,gondelsheim schlostadion
+de 08215 1838,diedelsheim
+de 08215 1526,hummelberg
+de 08417 30609,burladingen west
+de 03357 7419,basdahl kluste
+de 05382 55711,st augustin markt
+de 05314 62116,bonn heussallee museumsmeile
+de 05314 68715,bonn ramersdorf
+de 05382 56412,knigswinter fhre
+de 03357 31100,gnarrenburg nord
+de 06436 2113,liederbach sd
+de 05382 56111,bad honnef stadtbahn
+de 05382 56411,knigswinter clem august str
+de 05314 65115,bonn konrad adenauer platz
+de 05382 55811,hangelar mitte
+de 08119 5803,haubersbronn mitte
+de 08119 5801,rudersberg nord
+de 03241 3017,hannover karl wiechert allee
+de 06438 4530,mhlheim main dietesheim
+de 06413 11265,offenbach main marktplatz
+de 06413 11264,offenbach main ledermuseum
+de 06413 11263,offenbach main kaiserlei
+de 08215 1556,bretten kupferhlde
+de 07332 3263,albsheim eis
+de 08226 3558,sinsheim museum arena
+de 08215 32603,ubstadt uhlandstr
+de 08215 31007,odenheim west
+de 05314 61114,bonn stadthaus
+de 02000 84950,hamburg sternschanze
+de 08125 4391,schwaigern ost
+de 08125 8402,leingarten ost
+de 08121 2001,bckingen west
+de 08121 77,bckingen sonnenbrunnen
+de 09372 1657,hohenwarth campingplatz
+de 09671 99150,kahl kopp heide
+de 09671 99149,michelbach unterfr herrnmhle
+de 09671 99148,mmbris strtzbach
+de 08216 35109,durmersheim nord
+de 08121 1114,heilbronn hauptbahnhof willy brandt pl
+de 08121 1123,heilbronn harmonie
+de 08121 55,heilbronn rathaus
+de 08121 137,heilbronn neckar turm k s pl
+de 08215 1543,wssingen ost
+de 01060 37973,alveslohe
+de 03356 72263,ostersode
+de 08425 2956,htten
+de 08118 7607,mnchingen rhrberg
+de 05314 66206,bonn bad godesberg stadthalle
+de 07333 5288,albisheim pfrimm
+de 07333 9079,harxheim zell
+de 07333 5454,gllheim dreisen
+de 13073 11743,sellin rgen west
+de 15001 15683,dessau waldersee
+de 15091 3821,kapen biosphrenreservat
+de 08231 3994,brtzingen sandweg
+de 08231 3995,brtzingen wohnlichstrae
+de 08236 1492,neuenbrg enz freibad
+de 08236 1494,rotenbach enz
+de 08236 5660,neuenbrg enz eyachbrcke
+de 08235 422,hfen enz nord
+de 08235 423,calmbach sd
+de 08235 424,bad wildbad nord
+de 08235 402,bad wildbad uhlandplatz
+de 08235 8961,bad wildbad kurpark
+de 08417 30089,bad imnau
+de 08336 6754,binzen
+de 03359 27702,deinste
+de 09571 12000,dinkelsbhl bf
+de 07131 11044,engeln
+de 08437 40004,gammertingen europastrae
+de 09779 6652,fremdingen bf
+de 08415 28717,gomadingen
+de 08415 28817,haidkapelle
+de 08417 33089,haigerloch
+de 08336 6758,hammerstein
+de 08336 6759,kandern
+de 08415 28698,engstingen
+de 08415 28710,kohlstetten
+de 08415 28810,mgerkingen
+de 08415 28716,marbach b mnsingen
+de 05374 49301,marienheide
+de 08237 8022,mhringen
+de 08415 21510,mnsingen
+de 07131 80385,niederzissen
+de 07131 80398,oberzissen
+de 09779 defas 3,oettingen bay
+de 08415 28718,offenhausen
+de 08417 33093,rangendingen
+de 08336 6755,rmmingen
+de 08417 30490,stetten b haigerloch
+de 08415 28809,trochtelfingen hohenz
+de 09276 1773,viechtach
+de 09571 13550,wassertrdingen
+de 08337 6761,weizen
+de 08336 6756,wittlingen
+de 08336 6757,wollbach baden
+de 08416 5212,altingen wrtt
+de 09276 7955,gumpenried asbach
+de 09571 defas 6,feuchtwangen bf
+de 08115 3231,gltstein
+de 09571 13700,wilburgstetten bf
+de 08437 41510,ostrach bahnhof
+de 08437 41043,pfullendorf
+de 09276 7962,ruhmannsfelden
+de 09276 16165,patersdorf
+de 09276 80540,teisnach
+de 09276 80598,schnitzmhle
+de 08415 28030,metzingen neuhausen
+de 08415 28235,dettingen mitte
+de 08415 28130,bad urach wasserfall
+de 05334 1016,aachen schanz
+de 16062 8070732,nordhausen hesserder strae
+de 16062 8070733,nordhausen ricarda huch strae
+de 05758 4787,mesch neue mhle
+de 05314 61713,bonn brhler str
+de 05314 68811,bonn oberkassel mitte
+de 16062 8070776,ilfeld neanderklinik
+de 16062 8070777,nordhausen bahnhofsplatz
+de 08121 3033,heilbronn finanzamt
+de 08121 3032,heilbronn friedensplatz
+de 08121 173,heilbronn pfhlpark
+de 09187 41746,halfing
+de 09187 40100,amerang
+de 09189 90206,obing
+de 15091 8070831,bad schmiedeberg kurzentrum
+de 09679 99004,eisenheim
+de 09675 75256,escherndorf vogelburg
+de 09679 99002,prosselsheim
+de 09679 99003,seligenstadt mainschleifenbahn
+de 09675 4687,volkach astheim
+de 08215 1627,sllingen kapellenstrae
+de 08337 6133,eggingen
+de 16062 8070902,nordhausen schurzfell
+de 13071 5720,weier see
+de 08425 2943,schmiechen albbahn
+de 08326 6712,brunlingen industriegebiet
+de 08125 4405,gemmingen west
+de 08125 1705,schwaigern wrtt west
+de 08125 7403,leingarten mitte
+de 05358 6052,jakobwllesheim
+de 08121 24,heilbronn harmonie hafenmarktpassage
+de 14511 30651,chemnitz friedrichstrae
+de 05358 5044,bubenheim
+de 05358 5036,binsfeld
+de 14511 30471,chemnitz hbf bahnhofstrae
+de 14511 30228,chemnitz annenstrae
+de 14511 30016,chemnitz stefan heym platz
+de 07131 80417,weiler brohltal
+de 09189 40942,aindorf
+de 08121 23,heilbronn harmonie kunsthalle
+de 08417 37603,schmberg stausee
+de 08121 31001,heilbronn technisches schulzentrum
+de 08121 31004,heilbronn hans rieer strae
+de 09189 90048,pittenhart
+de 05315 11950,kln messe deutz gl 11 12
+de 15083 8073410,zielitz ort
+de 01054 66969,niebll neg
+de 05382 55101,siegburg bahnhof
+de 08317 13625,kappelrodeck ost
+de 09671 99151,alzenau nord
+de 09671 99146,alzenau burg
+de 08226 2962,neckarbischofsheim nord
+de 01054 18717,dagebll kirche
+de 08335 6695,haselbrunn
+de 08335 6693,nenzingen
+de 08335 6694,stahringen
+de 08335 6692,stockach ne
+de 08335 6696,wahlwies
+de 08215 1153,linkenheim rathaus
+de 01054 58706,maasbll b niebll
+de 01054 19259,deezbll
+de 01060 37986,moorbekhalle
+de 01060 37972,friedrichsgabe
+de 01060 37970,haslohfurth
+de 01060 37969,meeschensee
+de 01060 36961,norderstedt mitte
+de 01060 37971,quickborner strae
+de 08212 1,karlsruhe marktplatz kaiserstrae
+de 08212 89,karlsruhe bahnhofsvorplatz
+de 08215 1155,hochstetten grenzstrae
+de 08212 1201,karlsruhe albtalbf
+de 08212 1115,karlsruhe neureut kirchfeld
+de 08215 1406,spielberg
+de 08327 1763,tuttlingen zentrum
+de 08212 1525,grtzingen oberausstrae
+de 08215 1530,jhlingen west
+de 08215 1550,rinklingen
+de 08215 1554,bretten wannenweg
+de 05334 5546,breinig
+de 05711 5062,oldentrup
+de 08425 2559,amstetten w lokalbahn
+de 08125 1110,eppingen west
+de 08215 1561,oberderdingen flehingen industrie
+de 07340 3741,bruchweiler
+de 07340 3747,dahn sd
+de 10046 8079083,nohfelden
+de 13075 4143,ahlbeck grenze
+de 07340 3772,dahn
+de 07340 6297,bundenthal rumbach
+de 07340 6269,hinterweidenthal ort
+de 08417 47604,albstadt ebingen west
+de 08236 1795,ersingen west
+de 08426 6391,pfingen
+de 08426 6427,ochsenhausen
+de 08426 6446,reinstetten
+de 03241 255,hannover nordstadt
+de 03241 4411,hannover ledeburg
+de 08426 6637,barabein
+de 08426 6644,herrlishfen
+de 08426 6388,sulmingen
+de 08426 6452,wennedach
+de 07340 6296,busenberg schindhard
+de 08426 6383,maselheim
+de 08212 3,karlsruhe durlacher tor
+de 08212 51,karlsruhe entenfang
+de 08212 107,karlsruhe kniel rheinbergstr
+de 05315 16701,kln blumenberg
+de 07334 1735,wrth rhein brgerpark
+de 07334 1734,wrth rhein bienwaldhalle
+de 07334 1714,wrth rhein alte bahnmeisterei
+de 08212 49,karlsruhe mhlburger tor
+de 07332 3062,neidenfels
+de 07340 6270,hinterweidenthal ost
+de 08215 32002,unterwisheim m luther str
+de 06438 2700,dreieich weibelfeld
+de 07334 1736,wrth rhein rathaus
+de 07334 1739,wrth rhein badallee
+de 07334 1738,wrth rhein badepark
+de 07340 16500,moosbachtal
+de 13072 2058,tessin west
+de 01061 41767,herzhorn
+de 08335 2409,singen industriegebiet
+de 08215 32554,zeutern sportplatz
+de 13003 1509,rostock thierfelder str
+de 08121 2000,heilbr bckingen berufsschulzentrum
+de 06412 11501,frankfurt main messe
+de 11000 900037168,albrechtshof
+de 12054 900230000,potsdam babelsberg
+de 12065 900200011,bergfelde b berlin
+de 12072 900245030,birkengrund
+de 12065 900200008,birkenwerder b berlin
+de 12065 900200007,borgsdorf
+de 12063 900210007,dallgow dberitz
+de 14730 8080280,delitzsch ob bf
+de 12061 900260004,eichwalde
+de 12063 900210006,elstal
+de 12064 900320006,fredersdorf b berlin
+de 12069 900220114,teltow stadt
+de 12054 900230003,potsdam griebnitzsee
+de 15002 8080560,halle dessauer brcke
+de 15002 8080570,halle rosengarten
+de 15002 8080580,halle steintorbrcke
+de 15002 8080590,halle sdstadt
+de 15002 8080600,halle wohnstadt nord
+de 15002 8080610,halle zoo
+de 15002 8080620,halle zscherbener strae
+de 05754 9036,halle w gerry weber stadion
+de 15003 8080660,magdeburg hasselbachplatz
+de 12064 900320003,strausberg hegermhle
+de 12065 900200010,hohen neuendorf west
+de 12065 900200009,hohen neuendorf b berlin
+de 12064 900320008,hoppegarten mark
+de 14713 8080840,leipzig coppiplatz
+de 14713 8080930,leipzig sellerhausen
+de 12072 900245028,mahlow
+de 12065 900200013,mhlenbeck mnchmhle
+de 16062 8080990,ilfeld schreiberwiese
+de 16062 8080991,niedersachswerfen ilfelder strae
+de 16062 8080992,niedersachswerfen herkulesmarkt
+de 16062 8080998,ilfeld bad
+de 12064 900320007,neuenhagen b berlin
+de 13072 40,bad doberan stadtmitte
+de 12064 900320005,petershagen nord
+de 12060 900350162,rntgental
+de 12069 900220002,saarmund
+de 15089 8081260,schnebeck sd
+de 15089 8081270,schnebeck frohse
+de 12065 900200012,schnflie b oranienburg
+de 12060 900350165,schnwalde barnim
+de 12064 900320002,strausberg stadt
+de 12061 900260002,wildau
+de 12060 900350163,zepernick bernau
+de 12061 900260003,zeuthen
+de 12063 900210180,seegefeld
+de 12052 900470307,cottbus willmersdorf nord
+de 12065 900200006,lehnitz
+de 08417 32107,hechingen landesbahn
+de 05315 11950,kln messe deutz gl 9 10
+de 09171 10004,kirchweidach
+de 07334 1723,maximiliansau west
+de 08212 1700,maxau
+de 16068 8084070,griefstedt
+de 09262 92,neustift b passau
+de 15085 811,straberg glasebach
+de 08215 1857,bruchsal schlogarten
+de 08215 1858,bruchsal stegwiesen
+de 08215 32001,ubstadt salzbrunnenstr
+de 08115 4711,bblingen danziger str
+de 08115 6742,bblingen sdbf
+de 08115 4712,bblingen heusteigstr
+de 08115 4713,bblingen zimmerschlag
+de 08115 3222,holzgerlingen nord
+de 08115 4193,holzgerlingen bf
+de 08115 4786,holzgerlingen buch
+de 08115 4192,weil im schnbuch troppel
+de 08115 4781,weil im schnbuch rte
+de 08115 7037,weil im schnbuch untere halde
+de 08416 6349,dettenhausen
+de 01054 66963,niebll sylt shuttle
+de 03460 93255,vechta stoppelmarkt
+de 13075 6512,ahlbeck ostseetherme
+de 13075 4244,heringsdorf neuhof
+de 13075 4133,stubbenfelde
+de 05966 10861,attendorn hohen hagen
+de 07314 2058,ludwigshafen rhein basf nord
+de 16067 8087061,hrselgau
+de 07333 8185,mnchweiler alsenz
+de 06434 2200,kronberg sd
+de 06434 11502,oberursel stierstadt
+de 05762 7305,wehrden
+de 08436 8159,weingarten berg
+de 08236 2292,maulbronn west
+de 16072 8087081,neuhaus am rennweg
+de 11000 900091205,berlin schulzendorf
+de 11000 900100003,berlin alexanderplatz s
+de 11000 900012101,berlin anhalter bf
+de 11000 900068301,berlin attilastr
+de 11000 900191001,berlin baumschulenweg
+de 11000 900003102,berlin bellevue
+de 11000 900160002,berlin betriebsbf rummelsburg
+de 11000 900193001,berlin betriebsbf schneweide
+de 11000 900110011,berlin bornholmer str
+de 11000 900066102,berlin botanischer garten
+de 11000 900072101,berlin buckower chaussee
+de 11000 900110003,berlin greifswalder str
+de 11000 900063101,berlin feuerbachstr
+de 11000 900120001,berlin frankfurter allee
+de 11000 900152002,berlin gehrenseestr
+de 11000 900007102,berlin gesundbrunnen s
+de 11000 900196001,berlin grnbergallee
+de 11000 900100002,berlin hackescher markt
+de 11000 900008101,berlin humboldthain
+de 11000 900100004,berlin jannowitzbrcke
+de 11000 900110004,berlin landsberger allee
+de 11000 900003201,berlin hbf s bahn
+de 11000 900170003,berlin mehrower allee
+de 11000 900050301,berlin mexikoplatz
+de 11000 900007104,berlin nordbahnhof
+de 11000 900091203,berlin heiligensee
+de 11000 900160003,berlin nldnerplatz
+de 11000 900100007,berlin oranienburger strae
+de 11000 900120003,berlin ostkreuz s
+de 11000 900191002,berlin plnterwald
+de 11000 900170005,berlin poelchaustr
+de 11000 900100020,berlin potsdamer platz s
+de 11000 900110002,berlin prenzlauer allee
+de 11000 900058102,berlin priesterweg
+de 11000 900170002,berlin raoul wallenberg str
+de 11000 900062202,berlin rathaus steglitz
+de 11000 900024203,berlin savignyplatz
+de 11000 900074202,berlin schichauweg
+de 11000 900110001,berlin schnhauser allee
+de 11000 900171003,berlin springpfuhl
+de 11000 900110012,berlin storkower str
+de 11000 900049202,berlin sundgauer str
+de 11000 900190001,berlin treptower park
+de 11000 900100025,berlin brandenburger tor
+de 11000 900120004,berlin warschauer strae
+de 11000 900024102,berlin westkreuz
+de 11000 900130003,berlin wollankstrae
+de 11000 900175001,berlin wuhletal
+de 11000 900058103,berlin yorckstr s2
+de 11000 900057102,berlin yorckstr s1
+de 11000 900193002,berlin adlershof
+de 11000 900030202,berlin stresow
+de 11000 900195510,berlin altglienicke
+de 11000 900171001,berlin biesdorf
+de 11000 900142001,berlin blankenburg
+de 11000 900135001,berlin buch
+de 11000 900060101,berlin friedenau
+de 11000 900171002,berlin friedrichsfelde ost
+de 11000 900182002,berlin friedrichshagen
+de 11000 900092201,berlin frohnau
+de 11000 900048101,berlin grunewald
+de 11000 900186001,berlin grnau
+de 11000 900093201,berlin hermsdorf
+de 11000 900182001,berlin hirschgarten
+de 11000 900175002,berlin kaulsdorf
+de 11000 900180001,berlin kpenick
+de 11000 900074201,berlin lichtenrade
+de 11000 900066101,berlin lichterfelde west
+de 11000 900176001,berlin mahlsdorf
+de 11000 900058101,berlin sdkreuz s
+de 11000 900073101,berlin marienfelde
+de 11000 900170001,berlin marzahn
+de 11000 900078201,berlin neuklln
+de 11000 900052201,berlin nikolassee
+de 11000 900192002,berlin oberspree
+de 11000 900130002,berlin pankow
+de 11000 900130001,berlin pankow heinersdorf
+de 11000 900183001,berlin rahnsdorf
+de 11000 900160001,berlin rummelsburg
+de 11000 900050355,berlin schlachtensee
+de 11000 900085201,berlin schnholz
+de 11000 900180003,berlin spindlersfeld
+de 11000 900089303,berlin tegel s
+de 11000 900068201,berlin tempelhof
+de 11000 900003103,berlin tiergarten
+de 11000 900094101,berlin waidmannslust
+de 11000 900151001,berlin wartenberg
+de 11000 900183002,berlin wilhelmshagen
+de 11000 900084101,berlin wilhelmsruh
+de 11000 900096101,berlin wittenau wilhelmsruher damm
+de 11000 900180002,berlin wuhlheide
+de 11000 900049201,berlin zehlendorf
+de 12060 900350161,bernau friedenstal
+de 11000 900020201,berlin jungfernheide s
+de 11000 900096405,berlin eichborndamm
+de 11000 900096458,berlin karl bonhoeffer nervenklinik
+de 11000 900085105,berlin alt reinickendorf
+de 11000 900077155,berlin kllnische heide
+de 11000 900079221,berlin hermannstrae
+de 11000 900054105,berlin innsbrucker platz
+de 11000 900044202,berlin bundesplatz
+de 11000 900044101,berlin hohenzollerndamm
+de 11000 900040101,berlin halensee
+de 11000 900024106,berlin messe nord icc witzleben
+de 11000 900026207,berlin westend
+de 11000 900045102,berlin heidelberger platz
+de 11000 900064301,berlin lichterfelde ost s
+de 11000 900067221,berlin lankwitz
+de 11000 900063452,berlin sdende
+de 11000 900001201,berlin westhafen
+de 11000 900020202,berlin beusselstrae
+de 08315 6740,neuenburg baden
+de 11000 900009104,berlin wedding
+de 11000 900192001,berlin schneweide s
+de 14511 20060,chemnitz omnibusbahnhof
+de 11000 900077106,berlin sonnenallee
+de 11000 900025423,berlin messe sd eichkamp
+de 11000 900026105,berlin heerstrae
+de 11000 900025321,berlin olympiastadion
+de 11000 900025424,berlin pichelsberg
+de 11000 900064201,berlin lichterfelde sd
+de 11000 900064256,berlin osdorfer strae
+de 11000 900054104,berlin schneberg
+de 11000 900057104,berlin julius leber brcke
+de 08215 1410,ittersbach rathaus
+de 08116 5863,nrtingen vorstadt
+de 08116 5858,nrtingen rodorf
+de 08116 5859,frickenhausen kelterstrae
+de 05314 61101,bonn hbf tief
+de 08111 6118,stuttgart hbf tief
+de 06412 7010,frankfurt hbf tief
+de 02000 49950,hamburg harburg s
+de 15002 8098159,halle saale hbf gl 13a
+de 11000 900003200,berlin hbf tief
+de 06611 200001,kassel hbf tief
+de 14713 8098205,leipzig hbf tief
+de 09162 100,mnchen hbf gl 27 36
+de 09162 100,mnchen hbf gl 5 10
+de 09162 6,mnchen hbf tief
+de 05334 5766,stolberg rheinl hbf gl 27
+de 05334 5766,stolberg rheinl hbf gl 44
+de 09564 407,nrnberg frankenstadion sonderbahnsteig
+de 02000 10950,hamburg hbf s bahn
+de 02000 80953,hamburg altona s
+de 05334 5766,stolberg rheinl gbf
+de 01055 66588,neustadt holst gbf
+de 03457 96663,weener
+de 14730 8017344,kleinforst rosensee
+de 14730 8070199,glossen b oschatz
+de 14730 8070660,grauschwitz flocke
+de 14730 8070685,oschatz lichtstr
+de 14730 8070686,oschatz krnerstr
+de 14730 8070688,oschatz sdbf
+de 14730 8070689,altoschatz rosenthal
+de 14730 8070690,thalheim b oschatz
+de 14730 8070691,naundorf b oschatz
+de 14730 8070692,schweta gasth
+de 14730 8070693,schweta bf
+de 14730 8070695,mgeln bf
+de 14730 8070696,mgeln stadt
+de 14730 8070697,altmgeln
+de 14730 8070698,nebitzschen
+de 09189 90028,bad empfing
+de 05913 328,dortmund ltgendortmund
+de 09272 4851,freyung bf
+de 09180 10006,jgerhaus
+de 09476 16155,nordhalben bf
+de 05570 14657,raestrup everswinkel
+de 09476 75266,steinwiesen bf
+de 09187 90044,umrathshausen bf
+de 09272 4997,waldkirchen niederbay
+de 01057 83494,schnkirchen bf
+de 01057 74779,probsteierhagen
+de 12061 900261596,luckau uckro
+de 12072 900245035,baruth mark
+de 12061 900260408,drahnsdorf
+de 16052 8011617,gera ost
+de 16052 8011620,gera liebschwitz
+de 12061 900261171,golen niederlausitz
+de 12062 900415735,hohenleipisch
+de 12072 900245036,klasdorf glashtte
+de 12072 900245034,neuhof b zossen
+de 12062 900416094,rckersdorf
+de 12061 900261973,walddrehna
+de 09275 80592,tiefenbach b passau
+de 05314 68810,bonn oberkassel sd rmlinghoven
+de 05314 61115,bonn bertha von suttner platz
+de 05314 61209,bonn juridicum
+de 01057 83343,schnberg holstein
+de 01057 83368,schnberger strand
+de 09276 80595,bbrach
+de 09276 80596,nuberg schnau
+de 09276 80597,gstadt wanderbahn
+de 05314 61208,bonn bundesrechnungshof auswrtiges amt
+de 05314 61207,bonn museum koenig
+de 05314 61712,bonn west
+de 05314 62114,bonn gronau olof palme allee
+de 05314 62115,bonn gronau ollenhauerstrae
+de 05314 66614,bonn hochkreuz rheinaue
+de 05314 65116,bonn beuel rathaus
+de 05314 65117,bonn beuel obere wilhelmstrae
+de 05314 65206,bonn vilich rheindorf adelheidisstr
+de 05314 68206,bonn vilich mldorf
+de 05314 65207,bonn vilich
+de 05314 65517,bonn limperich kdinghoven
+de 05314 65516,bonn limperich
+de 05314 68812,bonn oberkassel nord
+de 05314 66708,bonn plittersdorf wurzerstr
+de 05314 66109,bonn bad godesberg plittersdorfer str
+de 05314 66707,bonn hochkreuz deutsches museum bonn
+de 05314 66606,bonn max lbner str friesdorf
+de 05314 66613,bonn robert schuman platz
+de 05382 56510,knigswinter oberdollendorf nord
+de 05382 56511,knigswinter oberdollendorf
+de 05382 56413,knigswinter denkmal
+de 05382 56513,knigswinter longenburg
+de 05382 55810,hangelar west
+de 05382 55812,hangelar ost
+de 05382 55709,st augustin ort
+de 05382 55710,st augustin kloster
+de 05382 55712,st augustin mlldorf
+de 05314 61110,bonn universitt markt
+de 05382 56112,bad honnef am spitzenbach
+de 05314 65515,bonn limperich nord
+de 05314 68717,bonn ramersdorf schiebergweg
+de 09476 16152,mauthaus
+de 09476 16154,drrenwaid bahnhof
+de 09275 4680,fischhaus
+de 09275 4954,kalteneck
+de 09272 4793,frsteneck
+de 09272 4983,rhrnbach
+de 09375 863,schierling
+de 09273 80588,langquaid b eggmhl
+de 05314 66101,bonn bad godesberg bahnhof
+de 05314 65101,bonn beuel bahnhof
+de 05382 56201,rhndorf bahnhof
+de 01002 71352,oppendorf bahnhof

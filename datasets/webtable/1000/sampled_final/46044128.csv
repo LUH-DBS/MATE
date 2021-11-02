@@ -1,0 +1,76 @@
+1,0
+re new struts project sourceforge portal scope,cedric dumoulin
+re security issues struts,craig r mcclanahan
+re cvs commit jakarta struts src share org apache struts action action.java,craig r mcclanahan
+re security issues struts,craig r mcclanahan
+re path mapped action struts 1.1 beta,craig r mcclanahan
+re security issues struts,craig r mcclanahan
+re ant build struts 1.1b failed,craig r mcclanahan
+re linktag extension url encode sessionid,craig r mcclanahan
+re off topic jsp 2.0 tiles,craig r mcclanahan
+re security issues struts,hal deadman
+re tiles forwards,james holmes
+re patch books.xml,james holmes
+re cvs commit jakarta struts src share org apache struts action action.java,james mitchell
+re security issues struts,james mitchell
+patch books.xml,james turner
+bug requestutils,jens viebig
+linktag extension url encode sessionid,jens viebig
+re security issues struts,jing zhou
+re re formbeans interface,joe germuska
+off topic jsp 2.0 tiles,john yu
+re security issues struts,marcel kruzel
+re cvs commit jakarta struts src share org apache struts action action.java,martin cooper
+re path mapped action struts 1.1 beta,martin cooper
+re actionform initialization,martin cooper
+1 2 3 4 5 6 7 8 9 next,message list
+1 2 3 4 5 6 7 8 9 next,message list
+re new struts project sourceforge portal scope,ted husted
+re cvs commit jakarta struts src share org apache struts actionaction.java,ted husted
+re path mapped action struts 1.1 beta,ted husted
+re security issues struts,ted husted
+re help required gnrk,ted husted
+re formbeans interface,ted husted
+re actionform initialization,ted husted
+re actionform initialization,ted husted
+re formbeans interface,ted husted
+ant build struts 1.1b failed,yibing li
+do reply bug 10279 only one message resources loaded,bugzi apache.org
+do reply bug 10380 new dynaactionformclass serializable,bugzi apache.org
+do reply bug 10268 sub apps need context relative option input action,bugzi apache.org
+do reply bug 5942 computeurl miscalculates query string redirect,bugzi apache.org
+do reply bug 5942 computeurl miscalculates query string redirect,bugzi apache.org
+do reply bug 7781 html taglib requires message resources unnecessarily,bugzi apache.org
+do reply bug 10380 dynaactionformclass serializable,bugzi apache.org
+do reply bug 10380 dynaactionformclass serializable,bugzi apache.org
+do reply bug 10322 problems lookupdispatchaction other locals,bugzi apache.org
+do reply bug 10380 dynaactionformclass serializable,bugzi apache.org
+do reply bug 10322 problems lookupdispatchaction other locals,bugzi apache.org
+do reply bug 10322 problems lookupdispatchaction other locals,bugzi apache.org
+do reply bug 10432 new dynavalidatoractionform does validate data,bugzi apache.org
+do reply bug 7202 add forward attribute formtag allow submision global forward,bugzi apache.org
+do reply bug 10322 problems lookupdispatchaction other locals,bugzi apache.org
+do reply bug 10322 problems lookupdispatchaction other locals,bugzi apache.org
+do reply bug 10451 new add new book books.xml,bugzi apache.org
+do reply bug 7202 add forward attribute formtag allow submision global forward,bugzi apache.org
+do reply bug 7202 add forward attribute formtag allow submision global forward,bugzi apache.org
+do reply bug 7202 add forward attribute formtag allow submision global forward,bugzi apache.org
+cvs commit jakarta struts src share org apache struts tiles xmldefinition xmlparser.java,ced apache.org
+cvs commit jakarta struts src test org apache struts mock new directory,craig apache.org
+cvs commit jakarta struts src test org apache struts util new directory,craig apache.org
+cvs commit jakarta struts src share org apache struts util requestutils.java,craig apache.org
+cvs commit jakarta struts src share org apache struts config forwardconfig.java,craig apache.org
+cvs commit jakarta struts src test org apache struts util formbean.java testrequestutils.java,craig apache.org
+cvs commit jakarta struts src test org apache struts action testdynaactionform.java,craig apache.org
+cvs commit jakarta struts src test org apache struts util testrequestutils.java formbean.java,craig apache.org
+cvs commit jakarta struts src test org apache struts mock mockaction.java,craig apache.org
+cvs commit jakarta struts src test org apache struts util testrequestutils.java,craig apache.org
+cvs commit jakarta struts doc userguide release notes.xml preface.xml,hus apache.org
+help required gnrk,kumar rupesh
+re do reply bug 11074 new bean:include docs state internal dispatch that's true,siraj
+re re formbeans interface,struts japache.org
+actionform initialization,struts japache.org
+re actionform initialization,struts japache.org
+re re formbeans interface,struts japache.org
+re re formbeans interface,struts japache.org
+re re formbeans interface,struts japache.org

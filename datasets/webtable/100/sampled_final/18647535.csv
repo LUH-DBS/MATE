@@ -1,0 +1,21 @@
+0,1
+10,resource res resource inputport de multiplexor
+11,reservationtable resv resv.addcolumn res lat
+12,traverseport inputport lat resv opdalts
+14,pipeline latch add one latency
+15,identify inputport latch
+16,reservationtable resv resv.addrow lat
+17,operandlatency lat lat.addlatency l
+18,traverseport inputport lat resv opdalts
+20,register literal file base case
+21,fieldtype ftype fieldtype file.registers
+22,resource res resource outputport register file
+23,reservationtable resv resv.addcolumn res lat
+24,opdalts.addalt ftype lat resv
+25,endcase
+3,case predecessor component connected thisport
+4,multiplexor accumulate all field type choices
+5,each inputport multiplexor do
+6,traverseport inputport lat resv opdalts
+7,endfor
+9,e multiplexor add resource column reservation table

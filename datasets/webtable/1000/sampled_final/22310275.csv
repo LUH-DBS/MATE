@@ -1,0 +1,63 @@
+1,2
+2005.90.1399.0,sql server 2005 rtm
+2005.90.2029.0,slq server 2005 service pack 1 sp1 beta
+2005.90.2040.0,sql server 2005 service pack 1 sp1 ctp march 2006
+2005.90.2047.0,sql server 2005 service pack 1 sp1
+2005.90.2153.0,918222 cumulative hotfix package build 2153 sql server 2005 available
+2005.90.2164.0,919636 fix memory usage compiled query plan may unexpectedly increase sql server 2005
+2005.90.2206.0,928537 fix full text index population indexed view very slow sql server 2005
+2005.90.2211.0,930284 fix you receive error 1456 when you try add witness dbm session sql server 2005
+2005.90.2223.0,932393 fix you may experience poor performance after you install sql server 2005 service pack 1
+2005.90.3027.0,sql server 2005 service pack 2 sp2 ctp november 2006
+2005.90.3033.0,sql server 2005 service pack 2 sp2 ctp december 2006
+2005.90.3042.0,sql server 2005 service pack 2 sp2
+2005.90.3068.0,941203 ms08 040 vulnerabilities microsoft sql server could allow elevation privilege
+2005.90.3077.0,960089 ms09 004 description security update sql server 2005 gdr february 10 2009
+2005.90.3152.0,933097 cumulative hotfix package build 3152 sql server 2005 service pack 2 available
+2005.90.3161.0,935356 cumulative update package cu1 build 3161 sql server 2005 service pack 2 available
+2005.90.3175.0,936305 cumulative update package 2 cu2 build 3175 sql server 2005 service pack 2 available
+2005.90.3182.0,940128 fix you receive error 8623 when you run complex query sql server 2005
+2005.90.3186.0,939537 cumulative update package 3 cu3 sql server 2005 service pack 2
+2005.90.3200.0,941450 cumulative update package 4 cu4 sql server 2005 service pack 2
+2005.90.3215.0,943656 cumulative update package 5 cu5 sql server 2005 service pack 2
+2005.90.3224.0,947463 fix stored procedure cannot finish its execution sql server 2005
+2005.90.3228.0,946608 cumulative update package 6 cu6 sql server 2005 service pack 2
+2005.90.3239.0,949095 cumulative update package 7 cu7 sql server 2005 service pack 2
+2005.90.3257.0,951217 cumulative update package 8 cu8 sql server 2005 service pack 2
+2005.90.3259.0,954669 fix ongoing ms dtc transaction orphaned sql server 2005
+2005.90.3282.0,953752 cumulative update package 9 cu9 sql server 2005 service pack 2
+2005.90.3294.0,956854 cumulative update package 10 cu10 sql server 2005 service pack 2
+2005.90.3301.0,958735 cumulative update package 11 cu11 sql server 2005 service pack 2
+2005.90.3310.0,960090 ms09 004 description security update sql server 2005 qfe february 10 2009
+2005.90.3315.0,962970 cumulative update package 12 cu12 sql server 2005 service pack 2
+2005.90.3325.0,967908 cumulative update package 13 cu13 sql server 2005 service pack 2
+2005.90.3328.0,970278 cumulative update package 14 cu14 sql server 2005 service pack 2
+2005.90.3330.0,972510 cumulative update package 15 cu15 sql server 2005 service pack 2
+2005.90.3355.0,974647 cumulative update package 16 cu16 sql server 2005 service pack 2
+2005.90.3356.0,976952 cumulative update package 17 cu17 sql server 2005 service pack 2
+2005.90.4028.0,sql server 2005 service pack 3 sp3 ctp
+2005.90.4035.0,sql server 2005 service pack 3 sp3
+2005.90.4207.0,959195 cumulative update package 1 cu1 sql server 2005 service pack 3
+2005.90.4211.0,961930 cumulative update package 2 cu2 sql server 2005 service pack 3
+2005.90.4220.0,967909 cumulative update package 3 cu3 sql server 2005 service pack 3
+2005.90.4226.0,970279 cumulative update package 4 cu4 sql server 2005 service pack 3
+2005.90.4230.0,972511 cumulative update package 5 cu5 sql server 2005 service pack 3
+2005.90.4266.0,974648 cumulative update package 6 cu6 sql server 2005 service pack 3
+2005.90.4273.0,976951 cumulative update package 7 cu7 sql server 2005 service pack 3
+2005.90.4285.0,978915 cumulative update package 8 cu8 sql server 2005 service pack 3
+2005.90.4294.0,980176 cumulative update package 9 cu9 sql server 2005 service pack 3
+2005.90.4305.0,983329 cumulative update package 10 cu10 sql server 2005 service pack 3
+2005.90.4309.0,2258854 cumulative update package 11 cu11 sql server 2005 service pack 3
+2005.90.4311.0,2345449 cumulative update package 12 cu12 sql server 2005 service pack 3
+2005.90.4315.0,2438344 cumulative update package 13 cu13 sql server 2005 service pack 3
+2005.90.4317.0,2489375 cumulative update package 14 cu14 sql server 2005 service pack 3
+2005.90.4325.0,2507766 cumulative update package 15 cu15 sql server 2005 service pack 3
+2005.90.4912.0,sql server 2005 service pack 4 sp4 customer technology preview ctp
+2005.90.5000.0,sql server 2005 service pack 4 sp4
+2005.90.5069.0,microsoft security bulletin ms12 070
+2005.90.5254.0,2464079 cumulative update package 1 cu1 sql server 2005 service pack 4
+2005.90.5259.0,2489409 cumulative update package 2 cu2 sql server 2005 service pack 4
+2005.90.5266.0,2507769 cumulative update package 3 cu3 sql server 2005 service pack 4
+2005.90.5294.0,2572407 fix error 5180 when you use online option rebuild index sql server 2005
+2005.90.5324.0,2716427 ms12 070 description security update sql server 2005 service pack 4 qfe
+file version,kb description

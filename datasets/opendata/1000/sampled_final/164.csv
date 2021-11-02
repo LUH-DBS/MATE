@@ -1,0 +1,283 @@
+8,5
+richtung 01,zst name
+bremen,ladbergen
+bremen,ascheberg
+kamen mnster,hengsen
+dortmund,schloss burg
+wuppertal,ak leverkusen o
+ak leverkusen,ak leverkusen w
+ak leverkusen,kln nord
+ak kln nord,kln lvenich
+kln,hrth
+ak bliesheim,euskirchen bliesheim
+kln,nettersheim
+dortmund,oberhausen sterkrade
+dortmund,gelsenkirchen
+hannover,oelde
+hannover,bielefeld
+hannover,bad oeynhausen
+arnheim nl,elten
+emmerich,hnxe
+ak oberhausen,oberhausen holten
+oberhausen,ak oberhausen west n
+ak oberhausen,oberhsn hauptfahrbahn
+ak oberhausen west,ak oberhausen west s
+oberhausen,breitscheid
+oberhausen,ak breitscheid n
+oberhausen,ak breitscheid s
+oberhausen,ak hilden n
+ak hilden,ak hilden s
+oberhausen,opladen 2
+oberhausen,ak leverkusen n
+ak leverkusen,ak leverkusen s
+oberhausen,leverkusen
+oberhausen,ad heumar n
+ad heumar,ad heumar s
+kln,siegburg
+kln,ak bonn siegburg n
+ak bonn siegburg,ak bonn siegburg s
+kln,bad honnef linz
+aachen,aachen vetschau
+ak aachen,wrselen
+ak aachen,ak aachen w
+kln,ak aachen o
+kln,buir merzenich
+ak kerpen,ak kerpen w
+kln,ak kerpen o
+ak kln sd,kln klettenberg
+ak heumar,rheinbr rodenkirchen
+ad heumar,ad heumar w
+olpe,bensbg frankenforst
+olpe,engelskirchen
+olpe,eckenhagen
+bad oeynhausen,ibbenbren
+bad oeynhausen,kirchlengern
+emden,gescher
+bielefeld,paderborn
+moers,straelen niederdorf
+duisburg,wankum
+ak moers,ak moers w
+duisburg,ak moers o
+dortmund,ad essen ost w
+dortmund,ad essen ost o
+bochum,essen kray
+dortmund,bochum
+dortmund,dortmund
+oberhausen,ak kamp lintfort o
+du hamborn,duisburg beeckerwerth
+dortmund,ak oberhausen west w
+dortmund,ak oberhausen west o
+dortmund,gelsenkirchen hessler
+dortmund,wanne eickel
+mnster,albachten
+recklinghausen,herne
+recklinghausen,sprockhvel
+aachen,aachen lichtenbusch
+aachen,aachen brand
+ak aachen,ak aachen s
+dsseldorf,ak aachen n
+dsseldorf,jlich mersch
+krefeld,neersen
+dsseldorf,ak neersen n
+dsseldorf,ilverich
+langenberg,langenberg
+velbert,velbert birth tunnel
+kassel,soest
+dortmund,dortmund sd
+dortmund,ldenscheid nord
+dortmund,freudenberg
+erkelenz,dremmen
+ak holz neuss,hochneukirch
+dsseldorf,neuss holzheim
+dsseldorf,ak neuss sd o
+dsseldorf wuppert,dsseldorf flehe
+ak hilden,ak hilden w
+wuppertal,ak hilden o
+wuppertal,wuppertal sonnborn
+ak wuppertal nord,wuppertal oberbarmen
+brilon,meschede
+mnchengladbach,elmpt
+viersen,schwalmtal
+dsseldorf,dsseldorf heerdt
+essen,lintorf
+essen,ak breitscheid w
+essen,ak breitscheid o
+essen,essen bredeney
+dortmund,ad essen ost s
+nimwegen nl,hommersum
+goch,rheinberg
+goch,ak kamp lintfort n
+goch,ak kamp lintfort s
+kamp lintfort,ak moers n
+ak moers,ak moers s
+kleve,neuss bttgen
+kleve,neuss west
+ad neuss,neuss west s
+dsseldorf,ad neuss n
+ad neuss,ad neuss s
+ad neuss,ak neuss sd n
+ak neuss sd,ak neuss sd s
+dsseldorf,walsum
+duisburg,duisburg sd
+dsseldorf,langenfeld
+ak heumar,ak heumar flughfn
+kln,ad st augustin n
+ad st augustin,ad st augustin s
+ad st augustin,ad bonn nordost n
+ad bonn beuel,ad bonn nordost s
+bonn beuel,ak bonn ost n
+ak bonn ost,ak bonn ost s
+venlo nl,schwanenhaus
+mnchengl venlo,mnchengladbach wickrath
+mnchengladbach,ak kerpen n
+ak kerpen,ak kerpen s
+koblenz,miel
+ak breitscheid,ratingen
+essen,velbert nord
+velbert,wuppertal saurenhaus
+ak aachen,ak aachen sw
+kln,bliesheim
+kln,godorf
+ak bonn siegburg,ad st augustin o
+ak bonn siegburg,ak bonn siegburg w
+hennef,ak bonn siegburg o
+altenkirchen,hennef
+ak bonn ost,ak bonn ost w
+oberpleis l 8,ak bonn ost o
+ad bonn beuel,ad bonn nordost w
+bonn,meckenheim merl
+neuss,aachen vaalserquartier
+hameln,horn
+soest,werl westnnen
+warburg,warburg west
+arnheim nl,elten 2 bundesstr
+nimwegen nl,kranenburg
+goch,geldern o
+kln,dormagen
+kleve,goch s
+ostbevern,ostbevern
+telgte,telgte
+bad mnstereifel,tondorf s
+blankenheim,dahlem
+mnster,drensteinfurt n
+gronau,altenberge
+lnen,dortmund brechten
+ldenscheid,meinerzhagen
+elsdorf,elsdorf
+grevenbrck,grevenbrck
+drolshagen,bergneustadt
+olpe,loope
+mnchengladbach,sittard
+gummersbach,siegburg stallberg
+kleve,aachen kpfchen
+xanten,menzeler heide n
+erkelenz,alsdorf ofden
+straelen,straelen 2 bundesstr
+haltern,dorsten o
+straelen,geldern n
+wesel,menzeler heide w
+kln,pulheim
+bremen,petershagen 2
+wiedenbrck,stromberg
+siegen,siegen
+mnster,drensteinfurt s
+lage lemgo,bielefeld hillegossen
+osnabrck,halle gartnisch
+paderborn,lichtenau
+ibbenbren,greven n
+greven,greven s
+doetinchem nl,emmerich
+brggen,brggen n
+aachen,heinsberg
+gladbeck,bottrop
+soest,delecke n
+ldenscheid,ldenscheid brgge
+solingen remscheid,solingen
+46 neuss,holzheim
+ldinghausen,datteln
+luenen,dortmund berghofen
+werdohl,plettenberg ohle
+winterberg,gleidorf o
+meinerzhagen,ohl
+herford,bad salzuflen
+brakel,brakel
+wipperfrth,marienheide
+gummersbach,derschlag
+aachen,friesenrath w
+aachen,friesenrath s
+aachen,blankenheimer wald
+mayen,ahrhtte o
+dren,aachen bildchen
+dren,langerwehe
+aachen,dren kerpen
+kln,lechenich 2
+zlpich,wollersheim o
+schleiden,kesternich s
+ak breitscheid,uerdingen
+gohr,gohr
+kln,rommerskirchen
+waldbrl,waldbrl
+paderborn,brilon n
+brilon,winterberg
+winterberg,bad berleburg
+goch,goch n
+meschede,gleidorf n
+bad oeynhausen,babbenhausen
+vlotho,kalletal
+rthen,ense mhnesee
+brilon,brilon w
+wollersheim,wollersheim w
+venlo,heidenend
+willich,willich viersen
+odenthal,schildgen o
+gahlen,kirchhellen o
+blankenheim,ahrhtte n
+ittenbach,rottbitze n
+rurberg,kesternich o
+wesseling,bornheim s
+brhl,bornheim w
+brhl kln,weilerswist
+heimbach,heimbach
+kerkrade nl,horbach locht
+herzogenrath,richterich
+aachen,friesenrath n
+stolberg eschweiler,stolberg
+stolberg vicht,zweifall
+bad honnef,rottbitze o
+leverkusen,schildgen w
+4 reichshof,erdingen
+ittenbach,margarethenhhe
+erkrath,dsseldorf gerresheim
+bensberg,bensberg refrath
+witzhelden,witzhelden w
+amern dlken,brggen o
+remscheid,hahnerberg
+essen werden,essen werden o
+mlheim ruhr,essen werden n
+hnxe,voerde
+moers,krefeld
+enschede nl,gronau glanerbrcke
+breckerfeld,breckerfeld n
+neheim sorpesee,langscheid w
+dlmen,haltern
+osterwick,coesfeld nordost
+enschede nl,sanderskper
+borken,rhede
+greven,st mauritz
+lienen,lienen
+aalten nl,hemden
+gro reken,gro reken
+ge buer,gelsenkirchen schalke
+datteln,recklinghausen
+gahlen,kirchhellen s
+neheim hsten,langscheid s
+plettenberg,attendorn
+paderborn,salzkotten
+bielefeld,sennestadt s
+lippstadt,lippstadt cappel
+detmold,detmold n
+detmold,detmold s
+detmold,detmold w
+bad driburg,bad driburg
+bielefeld,sennestadt o
+gloertalsperre,breckerfeld o

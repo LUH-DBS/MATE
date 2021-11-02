@@ -1,0 +1,310 @@
+3,1
+omap3630 3730 gp es2 0 cpu opp2 l3 165mhz max cpu clock 1 ghz,omap3630 3730 gp es2 1 cpu opp2 l3 165mhz max cpu clock 1 ghz
+beagle xm rev,beagle xm rev c
+eeprom expansion board,recognized tincantools trainer board rev 0 0
+die id 10c600011ff00000015739eb0800c018,die id 397600029ff80000015f26ad0f01a010
+hit any key stop autoboot 3 2 1 0,hit any key stop autoboot 0
+3144304 bytes read,3203088 bytes read
+image name linux 2.6.32,image name angstrom 2.6.32 beagleboard
+data size 3144240 bytes 3 mib,data size 3203024 bytes 3 1 mib
+0.000000 beagle expansionboard none,0.000000 beagle expansionboard trainer
+0.000000 memory 458624kb available 5760k code 672k data 196k init 0k highmem,0.000000 memory 458496kb available 5900k code 673k data 204k init 0k highmem
+0.000000 calibrating delay loop 508 37 bogomips lpj 1986560,0.000000 calibrating delay loop 513 62 bogomips lpj 2007040
+0.000000 omap3 beagle rev xm,0.000000 omap3 beagle rev xm c
+22393 999969 omap dma hardware revision 5.0,1551 363037 omap dma hardware revision 5.0
+22394 006072 bio create slab 0,1551 369598 bio create slab 0
+22394 007293 scsi subsystem initialized,1551 370880 scsi subsystem initialized
+22394 008636 usbcore registered new interface driver usbfs,1551 372283 usbcore registered new interface driver usbfs
+22394 008789 usbcore registered new interface driver hub,1551 372467 usbcore registered new interface driver hub
+22394 008972 usbcore registered new device driver usb,1551 372680 usbcore registered new device driver usb
+22394 009399 i2c_omap i2c_omap 1 bus 1 rev4.0 2600 khz,1551 373046 i2c_omap i2c_omap 1 bus 1 rev4.0 2600 khz
+22394 012054 twl4030 pih irq 7 chaining irqs 368 375,1551 375701 twl4030 pih irq 7 chaining irqs 368 375
+22394 012115 twl4030 power irq 373 chaining irqs 376 383,1551 375762 twl4030 power irq 373 chaining irqs 376 383
+22394 012390 twl4030 gpio irq 368 chaining irqs 384 401,1551 376037 twl4030 gpio irq 368 chaining irqs 384 401
+22394 014099 regulator vusb1v5 1500 mv normal standby,1551 377807 regulator vusb1v5 1500 mv normal standby
+22394 014343 regulator vusb1v8 1800 mv normal standby,1551 378112 regulator vusb1v8 1800 mv normal standby
+22394 014587 regulator vusb3v1 3100 mv normal standby,1551 378356 regulator vusb3v1 3100 mv normal standby
+22394 015808 twl4030_usb twl4030_usb initialized twl4030 usb module,1551 379638 twl4030_usb twl4030_usb initialized twl4030 usb module
+22394 016265 regulator vmmc1 1850 3150 mv normal standby,1551 380096 regulator vmmc1 1850 3150 mv normal standby
+22394 016540 regulator vdac 1800 mv normal standby,1551 380340 regulator vdac 1800 mv normal standby
+22394 016784 regulator vpll2 1800 mv normal standby,1551 380615 regulator vpll2 1800 mv normal standby
+22394 017028 regulator vsim 1800 3000 mv normal standby,1551 380889 regulator vsim 1800 3000 mv normal standby
+22394 017364 regulator vaux3 1800 mv normal standby,1551 381256 regulator vaux3 1800 mv normal standby
+22394 017730 regulator vaux4 1800 mv normal standby,1551 381622 regulator vaux4 1800 mv normal standby
+22394 029235 i2c_omap i2c_omap 2 bus 2 rev4.0 400 khz,1551 381805 i2c_omap i2c_omap 2 bus 2 rev4.0 400 khz
+22394 042480 i2c_omap i2c_omap 3 bus 3 rev4.0 100 khz,1551 391357 i2c_omap i2c_omap 3 bus 3 rev4.0 100 khz
+22394 043670 switching clocksource 32k_counter,1551 392578 switching clocksource 32k_counter
+22394 052429 musb_hdrc version 6.0 musb dma otg peripheral host debug 0,1551 401733 musb_hdrc version 6.0 musb dma otg peripheral host debug 0
+22394 056182 musb_hdrc usb otg mode controller fa0ab000 using dma irq 92,1551 405517 musb_hdrc usb otg mode controller fa0ab000 using dma irq 92
+22394 056213 musb_hdrc musb_hdrc musb hdrc host driver,1551 405578 musb_hdrc musb_hdrc musb hdrc host driver
+22394 056365 musb_hdrc musb_hdrc new usb bus registered assigned bus number 1,1551 405700 musb_hdrc musb_hdrc new usb bus registered assigned bus number 1
+22394 056518 usb usb1 new usb device found idvendor 1d6b idproduct 0002,1551 405883 usb usb1 new usb device found idvendor 1d6b idproduct 0002
+22394 056549 usb usb1 new usb device strings mfr 3 product 2 serialnumber 1,1551 405914 usb usb1 new usb device strings mfr 3 product 2 serialnumber 1
+22394 056610 usb usb1 product musb hdrc host driver,1551 405975 usb usb1 product musb hdrc host driver
+22394 056640 usb usb1 manufacturer linux 2.6.32 musb hcd,1551 406005 usb usb1 manufacturer linux 2.6.32 musb hcd
+22394 056671 usb usb1 serialnumber musb_hdrc,1551 406036 usb usb1 serialnumber musb_hdrc
+22394 057312 hub 1 0 1.0 usb hub found,1551 406677 hub 1 0 1.0 usb hub found
+22394 057373 hub 1 0 1.0 1 port detected,1551 406738 hub 1 0 1.0 1 port detected
+22394 058380 net registered protocol family 2,1551 407775 net registered protocol family 2
+22394 058624 ip route cache hash table entries 4096 order 2 16384 bytes,1551 408050 ip route cache hash table entries 4096 order 2 16384 bytes
+22394 059204 tcp established hash table entries 16384 order 5 131072 bytes,1551 408660 tcp established hash table entries 16384 order 5 131072 bytes
+22394 059661 tcp bind hash table entries 16384 order 4 65536 bytes,1551 409088 tcp bind hash table entries 16384 order 4 65536 bytes
+22394 059906 tcp hash tables configured established 16384 bind 16384,1551 409332 tcp hash tables configured established 16384 bind 16384
+22394 059936 tcp reno registered,1551 409362 tcp reno registered
+22394 059967 udp hash table entries 256 order 0 4096 bytes,1551 409393 udp hash table entries 256 order 0 4096 bytes
+22394 060028 udp lite hash table entries 256 order 0 4096 bytes,1551 409454 udp lite hash table entries 256 order 0 4096 bytes
+22394 060272 net registered protocol family 1,1551 409698 net registered protocol family 1
+22394 060729 rpc registered udp transport module,1551 410156 rpc registered udp transport module
+22394 060760 rpc registered tcp transport module,1551 410217 rpc registered tcp transport module
+22394 060791 rpc registered tcp nfsv4.1 backchannel transport module,1551 410247 rpc registered tcp nfsv4.1 backchannel transport module
+22394 061645 omap iommu omap iommu 0 isp registered,1551 411132 omap iommu omap iommu 0 isp registered
+22394 063354 vfs disk quotas dquot_6.5.2,1551 412872 vfs disk quotas dquot_6.5.2
+22394 063476 dquot cache hash table entries 1024 order 0 4096 bytes,1551 412994 dquot cache hash table entries 1024 order 0 4096 bytes
+22394 064544 squashfs version 4.0 2009 01 31 phillip lougher,1551 414093 squashfs version 4.0 2009 01 31 phillip lougher
+22394 065338 jffs2 version 2.2 nand summary 2001 2006 red hat inc,1551 414916 jffs2 version 2.2 nand summary 2001 2006 red hat inc
+22394 066192 msgmni has been set 896,1551 415771 msgmni has been set 896
+22394 069824 alg test stdrng krng,1551 419555 alg test stdrng krng
+22394 070129 block layer scsi generic bsg driver version 0.4 loaded major 254,1551 419860 block layer scsi generic bsg driver version 0.4 loaded major 254
+22394 070190 io scheduler noop registered,1551 419921 io scheduler noop registered
+22394 070220 io scheduler deadline registered,1551 419952 io scheduler deadline registered
+22394 070373 io scheduler cfq registered default,1551 420104 io scheduler cfq registered default
+22394 129882 omap dss rev 2.0,1551 478790 omap dss rev 2.0
+22394 129974 omap dispc rev 3.0,1551 478881 omap dispc rev 3.0
+22394 130035 omap venc rev 2,1551 478942 omap venc rev 2
+22394 130279 omap dsi rev 1.0,1551 479187 omap dsi rev 1.0
+22394 466735 serial 8250 16550 driver 4 ports irq sharing enabled,1551 815734 serial 8250 16550 driver 4 ports irq sharing enabled
+22394 484924 serial8250.0 ttys0 mmio 0x4806a000 irq 72 st16654,1551 834197 serial8250.0 ttys0 mmio 0x4806a000 irq 72 st16654
+22394 502471 serial8250.1 ttys1 mmio 0x4806c000 irq 73 st16654,1551 851959 serial8250.1 ttys1 mmio 0x4806c000 irq 73 st16654
+22394 519989 serial8250.2 ttys2 mmio 0x49020000 irq 74 st16654,1551 869659 serial8250.2 ttys2 mmio 0x49020000 irq 74 st16654
+22395 101104 console ttys2 enabled,1552 456451 console ttys2 enabled
+22395 111206 brd module loaded,1552 466857 brd module loaded
+22395 117492 loop module loaded,1552 473175 loop module loaded
+22395 122009 omap2 nand driver initializing,1552 477752 omap2 nand driver initializing
+22395 126403 nand device found,1552 482238 nand device found
+22395 130096 nand device found,1552 485900 nand device found
+22395 134582 usbcore registered new interface driver catc,1552 490447 usbcore registered new interface driver catc
+22395 140106 catc v2.8 catc el1210a netmate usb ethernet driver,1552 495971 catc v2.8 catc el1210a netmate usb ethernet driver
+22395 146209 usbcore registered new interface driver kaweth,1552 502044 usbcore registered new interface driver kaweth
+22395 151824 pegasus v0.6.14 2006 09 27 pegasus pegasus ii usb ethernet driver,1552 507720 pegasus v0.6.14 2006 09 27 pegasus pegasus ii usb ethernet driver
+22395 159484 usbcore registered new interface driver pegasus,1552 515380 usbcore registered new interface driver pegasus
+22395 165222 rtl8150 v0.6.2 2004 08 27 rtl8150 based usb ethernet driver,1552 521118 rtl8150 v0.6.2 2004 08 27 rtl8150 based usb ethernet driver
+22395 172271 usbcore registered new interface driver rtl8150,1552 528167 usbcore registered new interface driver rtl8150
+22395 178070 usbcore registered new interface driver asix,1552 533966 usbcore registered new interface driver asix
+22395 183593 usbcore registered new interface driver cdc_ether,1552 539489 usbcore registered new interface driver cdc_ether
+22395 189575 usbcore registered new interface driver dm9601,1552 545501 usbcore registered new interface driver dm9601
+22395 195312 usbcore registered new interface driver smsc95xx,1552 551269 usbcore registered new interface driver smsc95xx
+22395 201232 usbcore registered new interface driver gl620a,1552 557159 usbcore registered new interface driver gl620a
+22395 206939 usbcore registered new interface driver net1080,1552 562866 usbcore registered new interface driver net1080
+22395 212738 usbcore registered new interface driver plusb,1552 568664 usbcore registered new interface driver plusb
+22395 218383 usbcore registered new interface driver rndis_host,1552 574310 usbcore registered new interface driver rndis_host
+22395 224456 usbcore registered new interface driver cdc_subset,1552 580383 usbcore registered new interface driver cdc_subset
+22395 230499 usbcore registered new interface driver zaurus,1552 586425 usbcore registered new interface driver zaurus
+22395 236236 usbcore registered new interface driver moschip usb ethernet driver,1552 592163 usbcore registered new interface driver moschip usb ethernet driver
+22395 244323 ehci_hcd usb 2.0 enhanced host controller ehci driver,1552 600250 ehci_hcd usb 2.0 enhanced host controller ehci driver
+22395 251190 ehci omap ehci omap 0 omap ehci host controller,1552 607147 ehci omap ehci omap 0 omap ehci host controller
+22395 257232 ehci omap ehci omap 0 new usb bus registered assigned bus number 2,1552 613189 ehci omap ehci omap 0 new usb bus registered assigned bus number 2
+22395 264862 ehci omap ehci omap 0 irq 77 io mem 0x48064800,1552 620819 ehci omap ehci omap 0 irq 77 io mem 0x48064800
+22395 286010 ehci omap ehci omap 0 usb 2.0 started ehci 1.00,1552 634948 ehci omap ehci omap 0 usb 2.0 started ehci 1.00
+22395 291900 usb usb2 new usb device found idvendor 1d6b idproduct 0002,1552 640869 usb usb2 new usb device found idvendor 1d6b idproduct 0002
+22395 298797 usb usb2 new usb device strings mfr 3 product 2 serialnumber 1,1552 647766 usb usb2 new usb device strings mfr 3 product 2 serialnumber 1
+22395 306121 usb usb2 product omap ehci host controller,1552 655059 usb usb2 product omap ehci host controller
+22395 311492 usb usb2 manufacturer linux 2.6.32 ehci_hcd,1552 660461 usb usb2 manufacturer linux 2.6.32 ehci_hcd
+22395 316955 usb usb2 serialnumber ehci omap 0,1552 665924 usb usb2 serialnumber ehci omap 0
+22395 322204 hub 2 0 1.0 usb hub found,1552 671203 hub 2 0 1.0 usb hub found
+22395 326080 hub 2 0 1.0 3 ports detected,1552 675048 hub 2 0 1.0 3 ports detected
+22395 356445 initializing usb mass storage driver,1552 705352 initializing usb mass storage driver
+22395 361541 usbcore registered new interface driver usb storage,1552 710449 usbcore registered new interface driver usb storage
+22395 367645 usb mass storage support registered,1552 716552 usb mass storage support registered
+22395 372680 mice ps 2 mouse device common all mice,1552 721618 mice ps 2 mouse device common all mice
+22395 378326 input gpio keys devices platform gpio keys input input0,1552 727294 input gpio keys devices platform gpio keys input input0
+22395 396911 i2c dev entries driver,1552 745910 i2c dev entries driver
+22395 401031 linux video capture interface v2.00,1552 750030 linux video capture interface v2.00
+22395 406005 omap iommu omap iommu 0 isp version 1.1,1552 755004 omap iommu omap iommu 0 isp version 1.1
+22395 412689 vpfe_init,1552 761749 vpfe_init
+22395 415557 omap watchdog timer rev 0x31 initial timeout 60 sec,1552 764648 omap watchdog timer rev 0x31 initial timeout 60 sec
+22395 422363 cpuidle using governor ladder,1552 771423 cpuidle using governor ladder
+22395 426574 cpuidle using governor menu,1552 775634 cpuidle using governor menu
+22395 536285 mmci omap hs mmci omap hs 1 err 16 configuring card detect,1552 885253 mmci omap hs mmci omap hs 1 err 16 configuring card detect
+22395 543365 registered led device beagleboard usr0,1552 892333 registered led device beagleboard usr0
+22395 548522 registered led device beagleboard usr1,1552 897521 registered led device beagleboard usr1
+22395 555023 registered led device beagleboard pmu_stat,1552 904022 registered led device beagleboard pmu_stat
+22395 562103 usbcore registered new interface driver usbhid,1552 911041 usbcore registered new interface driver usbhid
+22395 567779 usbhid usb hid core driver,1552 916717 usbhid usb hid core driver
+22395 571838 advanced linux sound architecture driver version 1.0.21,1552 920745 advanced linux sound architecture driver version 1.0.21
+22395 578765 usbcore registered new interface driver snd usb audio,1552 927703 usbcore registered new interface driver snd usb audio
+22395 653930 usb 2 2 new high speed usb device using ehci omap address 2,1553 003601 usb 2 2 new high speed usb device using ehci omap address 2
+22395 667388 device dai omap mcbsp dai 0,1553 011474 device dai omap mcbsp dai 0
+22395 671905 device dai omap mcbsp dai 1,1553 015960 device dai omap mcbsp dai 1
+22395 676422 device dai omap mcbsp dai 2,1553 020477 device dai omap mcbsp dai 2
+22395 680938 device dai omap mcbsp dai 3,1553 024963 device dai omap mcbsp dai 3
+22395 685455 device dai omap mcbsp dai 4,1553 029479 device dai omap mcbsp dai 4
+22395 689941 omap3 beagle soc init,1553 034027 omap3 beagle soc init
+22395 694122 asoc twl4030 omap mcbsp dai 0 mapping ok,1553 038177 asoc twl4030 omap mcbsp dai 0 mapping ok
+22395 705291 alsa device list,1553 049713 alsa device list
+22395 708374 0 omap3beagle twl4030,1553 052734 0 omap3beagle twl4030
+22395 712341 oprofile using arm armv7,1553 056732 oprofile using arm armv7
+22395 716278 tcp cubic registered,1553 060699 tcp cubic registered
+22395 719573 net registered protocol family 17,1553 063964 net registered protocol family 17
+22395 724151 net registered protocol family 15,1553 068572 net registered protocol family 15
+22395 728698 lib80211 common routines ieee802.11 drivers,1553 073181 lib80211 common routines ieee802.11 drivers
+22395 734466 thumbee cpu extension supported,1553 078918 thumbee cpu extension supported
+22395 738800 power management ti omap3,1553 083282 power management ti omap3
+22395 744171 smartreflex driver initialized,1553 088714 smartreflex driver initialized
+22395 748504 omap3beaglelmb driver registration complete,1553 092987 omap3beaglelmb driver registration complete
+22395 761932 vfp support v0.3 implementor 41 architecture 3 part 30 variant c rev 3,1553 106903 vfp support v0.3 implementor 41 architecture 3 part 30 variant c rev 3
+22395 770202 registered taskstats version 1,1553 115173 registered taskstats version 1
+22395 833557 usb 2 2 new usb device found idvendor 0424 idproduct 9514,1553 182495 usb 2 2 new usb device found idvendor 0424 idproduct 9514
+22395 840362 usb 2 2 new usb device strings mfr 0 product 0 serialnumber 0,1553 189300 usb 2 2 new usb device strings mfr 0 product 0 serialnumber 0
+22395 848327 hub 2 2 1.0 usb hub found,1553 197296 hub 2 2 1.0 usb hub found
+22395 852355 hub 2 2 1.0 5 ports detected,1553 201385 hub 2 2 1.0 5 ports detected
+22395 958404 console switching colour frame buffer device 160x45,1553 275512 mmc0 host does support reading read only switch assuming write enable
+22395.977630 mmc0 host does support reading read only switch assuming write enable,1553 283721 mmc0 new high speed sdhc card address 1234
+22395 986053 mmc0 new high speed sdhc card address e624,1553 289611 mmcblk0 mmc0 1234 sa04g 3 67 gib
+22395 992187 mmcblk0 mmc0 e624 su08g 7 40 gib,1553.307678 console switching colour frame buffer device 160x45
+22395 997222 mmcblk0,1553 327545 mmcblk0 p1 p2
+22396 001953 regulator_init_complete incomplete constraints leaving vaux4,1553 333892 regulator_init_complete incomplete constraints leaving vaux4
+22396.009674 p1 p2,1553 341491 regulator_init_complete incomplete constraints leaving vaux3
+22396 012573 regulator_init_complete incomplete constraints leaving vaux3,1553 349334 regulator_init_complete incomplete constraints leaving vdac
+22396 020416 regulator_init_complete incomplete constraints leaving vdac,1553 357391 omap_vout omap_vout probed unknown device
+22396 053924 kjournald starting commit interval 5 seconds,1553 392669 ext3 fs mmcblk0p2 using internal journal
+22396 072601 ext3 fs mmcblk0p2 using internal journal,1553 398101 ext3 fs mmcblk0p2 mounted filesystem writeback data mode
+22396 081604 ext3 fs mmcblk0p2 mounted filesystem writeback data mode,1553 405456 vfs mounted root ext3 filesystem device 179 2
+22396 092468 vfs mounted root ext3 filesystem device 179 2,1553 416168 devtmpfs mounted
+22396 108184 devtmpfs mounted,1553 422851 freeing init memory 204k
+22396 114929 freeing init memory 196k,1553 533721 usb 2 2.1 new high speed usb device using ehci omap address 3
+22396 309906 usb 2 2.1 new usb device found idvendor 0424 idproduct ec00,1553 670410 usb 2 2.1 new usb device strings mfr 0 product 0 serialnumber 0
+22396 320922 usb 2 2.1 new usb device strings mfr 0 product 0 serialnumber 0,1553 684997 smsc95xx v1.0.4
+22396 653747 usb 2 2.2 new high speed usb device using ehci omap address 4,1554 000518 usb 2 2.2 new usb device found idvendor 0b95 idproduct 7720
+22396 781158 usb 2 2 2 new usb device found idvendor 1415 idproduct 2000,1554.012084 usb 2 2.2 new usb device strings mfr 1 product 2 serialnumber 3
+22396 801727 usb 2 2 2 new usb device strings mfr 1 product 2 serialnumber 0,1554.023956 usb 2 2.2 product ax88772
+22396 825225 usb 2 2 2 product usb camera b4.04.27.1,1554.032348 usb 2 2.2 manufacturer asix elec corp
+22396 845581 usb 2 2 2 manufacturer omnivision technologies inc,1554.042266 usb 2 2.2 serialnumber 000001
+22397 031524 udev starting version 151,1555.316528 twl_rtc twl_rtc rtc core registered twl_rtc rtc0
+22397 089172 usb 2 2 3 new usb device found idvendor 0b95 idproduct 7720,1555.752227 usb 2 2.3 new high speed usb device using ehci omap address 5
+22397 292785 usb 2 2 3 new usb device strings mfr 1 product 2 serialnumber 3,1556 591064 usb 2 2 3 new usb device found idvendor 1415 idproduct 2000
+22397 818115 usb 2 2 3 product ax88772,1556 747467 usb 2 2 3 new usb device strings mfr 1 product 2 serialnumber 0
+22398 287506 gspca main v2 8.0 registered,1556 782348 usb 2 2 3 product usb camera b4.04.27.1
+22398 408355 usb 2 2 3 manufacturer asix elec corp,1556 792510 usb 2 2 3 manufacturer omnivision technologies inc
+22398 639282 gspca probing 1415 2000,1556 891815 gspca main v2.8.0 registered
+22398 782592 usb 2 2 3 serialnumber 000001,1556.912536 usb 2 2 4 new low speed usb device using ehci omap address 6
+22399 603393 bluetooth core ver 2.15,1572 894226 bluetooth core ver 2.15
+22399 612976 net registered protocol family 31,1572 904296 net registered protocol family 31
+22399 622619 bluetooth hci device connection manager initialized,1572 914123 bluetooth hci device connection manager initialized
+22399 633453 bluetooth hci socket layer initialized,1572 925842 bluetooth hci socket layer initialized
+22399 665588 bluetooth l2cap ver 2.14,1572 953735 bluetooth l2cap ver 2.14
+22399 674407 bluetooth l2cap socket layer initialized,1572 962768 bluetooth l2cap socket layer initialized
+22399 705413 bluetooth hidp human interface emulation ver 1.2,1572 991455 bluetooth hidp human interface emulation ver 1.2
+22399.791259 udev renamed network interface eth0 eth1,1573 192199 net registered protocol family 23
+22399.888122 usb 2 2.4 new low speed usb device using ehci omap address 6,1573 221649 ircomm protocol dag brattli
+22399.996948 net registered protocol family 10,1573 332153 bluetooth rfcomm tty layer initialized
+22400 064605 usb 2 2.4 new usb device found idvendor 045e idproduct 00cb,1573 342224 bluetooth rfcomm socket layer initialized
+22400.090820 usb 2 2.4 new usb device strings mfr 1 product 2 serialnumber 0,1573 352325 bluetooth rfcomm ver 1.11
+configuring network interfaces eth0 unknown interface device,configuring network interfaces 1575.066680 eth0 link up 100mbps full duplex lpa 0x45e1
+eth0 unknown interface device,eth0 wireless extensions
+siocsifaddr device,listening lpf eth0 00 50 b6 06 c4 57
+eth0 unknown interface device,sending lpf eth0 00 50 b6 06 c4 57
+eth0 unknown interface device,sending socket fallback
+bind socket interface device,dhcprequest eth0 255 255 255 255 port 67
+you did get software from ftp isc org please,bound 137 112 41.87 renewal 1567 seconds
+listening lpf usb0 7e 3d 60 0e c7 a2,listening lpf usb0 22 b8 c4 7d a8 50
+sending lpf usb0 7e 3d 60 0e c7 a2,sending lpf usb0 22 b8 c4 7d a8 50
+dhcprequest usb0 255.255.255.255 port 67,dhcpdiscover usb0 255.255.255.255 port 67 interval 5
+dhcpdiscover usb0 255.255.255.255 port 67 interval 3,dhcpdiscover usb0 255.255.255.255 port 67 interval 14
+dhcpdiscover usb0 255.255.255.255 port 67 interval 7,dhcpdiscover usb0 255.255.255.255 port 67 interval 16
+dhcpdiscover usb0 255 255.255.255 port 67 interval 7,1614 207458 eth0 link up 100mbps full duplex lpa 0x45e1
+dhcpdiscover usb0 255.255.255.255 port 67 interval 10,dhcpdiscover usb0 255.255.255.255 port 67 interval 9
+dhcpdiscover usb0 255.255.255.255 port 67 interval 13,dhcpdiscover usb0 255.255.255.255 port 67 interval 6
+74g ok,ok
+broadcast message from root ttys2 tue oct 4 01 58 15 2011,broadcast message from root ttys2 thu dec 29 16 02 35 2011
+74g ok,ok
+listening lpf usb0 aa db 5c 9e a0 a0,listening lpf usb0 92 93 b0 18 e8 b6
+sending lpf usb0 aa db 5c 9e a0 a0,sending lpf usb0 92 93 b0 18 e8 b6
+rebooting 22385 076416 restarting system,rebooting 67884 488464 restarting system
+22396 092468 vfs mounted root ext3 filesystem device 179 2,67895 991638 usb 2 2.2 device descriptor read 64 error 18
+22396 108184 devtmpfs mounted,67896 002227 devtmpfs mounted
+22396 114929 freeing init memory 196k,67896 009552 freeing init memory 204k
+2 1 page 15 initial bootloader serial output,2 1 page 15 initial bootloader serial output
+u boot 2011.03 rc1 00000 g9a3cc57 dirty apr 01 2011 17 41 42,u boot 2011.03 rc1 00000 g9a3cc57 dirty apr 01 2011 17 41 42
+omap3 beagle board lpddr nand,omap3 beagle board lpddr nand
+i2c ready,i2c ready
+out serial,out serial
+err serial,err serial
+running uenvcmd,running uenvcmd
+loading file boot uimage from mmc device 0 2 xxa2,loading file boot uimage from mmc device 0 2 xxa2
+booting from mmc,booting from mmc
+booting kernel from legacy image 80200000,booting kernel from legacy image 80200000
+image type arm linux kernel image uncompressed,image type arm linux kernel image uncompressed
+load address 80008000,load address 80008000
+entry point 80008000,entry point 80008000
+starting kernel,starting kernel
+0.000000 cpu armv7 processor 413fc082 revision 2 armv7 cr 10c53c7f,0.000000 cpu armv7 processor 413fc082 revision 2 armv7 cr 10c53c7f
+0.000000 cpu vipt nonaliasing data cache vipt nonaliasing instruction cache,0.000000 cpu vipt nonaliasing data cache vipt nonaliasing instruction cache
+0.000000 reserving 25165824 bytes sdram vram,0.000000 reserving 25165824 bytes sdram vram
+0.000000 built 1 zonelists zone order mobility grouping total pages 122624,0.000000 built 1 zonelists zone order mobility grouping total pages 122624
+0.000000 beagle cameraboard lbcm3m1,0.000000 beagle cameraboard lbcm3m1
+0.000000 pid hash table entries 2048 order 1 8192 bytes,0.000000 pid hash table entries 2048 order 1 8192 bytes
+0.000000 inode cache hash table entries 32768 order 5 131072 bytes,0.000000 inode cache hash table entries 32768 order 5 131072 bytes
+0.000000 memory 99mb 384mb 483mb total,0.000000 memory 99mb 384mb 483mb total
+0.000000 hierarchical rcu implementation,0.000000 hierarchical rcu implementation
+0.000000 nr_irqs 402,0.000000 nr_irqs 402
+0.000000 console colour dummy device 80x30,0.000000 console colour dummy device 80x30
+0.000000 console tty0 enabled,0.000000 console tty0 enabled
+0.000000 mount cache hash table entries 512,0.000000 mount cache hash table entries 512
+0.000000 cpu testing write buffer coherency ok,0.000000 cpu testing write buffer coherency ok
+0.000000 regulator core version 0.5,0.000000 regulator core version 0.5
+0.000000 net registered protocol family 16,0.000000 net registered protocol family 16
+0.000000 beagle cameraboard registering i2c2 bus lbcm3m1,0.000000 beagle cameraboard registering i2c2 bus lbcm3m1
+0.000000 found nand cs0,0.000000 found nand cs0
+0.000000 registering nand cs0,0.000000 registering nand cs0
+0.000000 unable get dvi reset gpio,0.000000 unable get dvi reset gpio
+0.000000 omap_init_mbox platform supported,0.000000 omap_init_mbox platform supported
+init version 2.86 booting,init version 2.86 booting
+please wait booting,please wait booting
+starting udev,starting udev
+remounting root file system,remounting root file system
+caching udev devnodes,caching udev devnodes
+populating dev cache,populating dev cache
+alsa restoring mixer settings,alsa restoring mixer settings
+cleaning etc network run ifstate,cleaning etc network run ifstate
+state present card camerab404271,state present card camerab404271
+internet systems consortium dhcp client 4.1.1 p1,internet systems consortium dhcp client 4.1.1 p1
+copyright 2004 2010 internet systems consortium,copyright 2004 2010 internet systems consortium
+info please visit https www.isc.org software dhcp,info please visit https www.isc.org software dhcp
+usb0 wireless extensions,usb0 wireless extensions
+info please visit https www.isc.org software dhcp,info please visit https www.isc.org software dhcp
+sending socket fallback,sending socket fallback
+dhcprequest usb0 255.255.255.255 port 67,dhcprequest usb0 255.255.255.255 port 67
+dhcpdiscover usb0 255.255.255.255 port 67 interval 11,dhcpdiscover usb0 255.255.255.255 port 67 interval 11
+dhcpoffers received,dhcpoffers received
+working leases persistent database sleeping,working leases persistent database sleeping
+done,done
+net.ipv4 conf.default.rp_filter 1,net.ipv4 conf.default.rp_filter 1
+net.ipv4 conf.all.rp_filter 1,net.ipv4 conf.all.rp_filter 1
+init entering runlevel 5,init entering runlevel 5
+starting system message bus dbus,starting system message bus dbus
+starting hardware abstraction layer hald,starting hardware abstraction layer hald
+starting internet superserver xinetd,starting internet superserver xinetd
+starting avahi mdns dns sd daemon avahi daemon,starting avahi mdns dns sd daemon avahi daemon
+starting network connection manager daemon networkmanager,starting network connection manager daemon networkmanager
+starting pvr,starting pvr
+cups started scheduler,cups started scheduler
+starting gnome display manager gdm,starting gnome display manager gdm
+angstrom 2010.7 test 20110220 beagleboard ttys2,angstrom 2010.7 test 20110220 beagleboard ttys2
+root beagleboard shutdown r now,root beagleboard shutdown r now
+system going down reboot now,system going down reboot now
+deconfiguring leds,deconfiguring leds
+beagleboard pmu_stat trigger,beagleboard pmu_stat trigger
+stopping dropbear ssh server dropbear,stopping dropbear ssh server dropbear
+stopping avahi mdns dns sd daemon avahi daemon,stopping avahi mdns dns sd daemon avahi daemon
+stopping advanced power management daemon usr sbin apmd found running none killed,stopping advanced power management daemon usr sbin apmd found running none killed
+apmd,apmd
+info please visit https www.isc.org software dhcp,info please visit https www.isc.org software dhcp
+sending socket fallback,sending socket fallback
+dhcprelease usb0 192.168.1.1 port 67,dhcprelease usb0 192.168.1.1 port 67
+done,done
+stopping pvr,stopping pvr
+deactivating swap,deactivating swap
+unmounting local filesystems,unmounting local filesystems
+init version 2.86 booting,init version 2.86 booting
+please wait booting,please wait booting
+starting udev,starting udev

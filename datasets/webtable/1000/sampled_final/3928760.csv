@@ -1,0 +1,133 @@
+1,0
+haskore.interface.csound.tutorial,1 data constructor
+haskore.interface.csound.tutorial,1 data constructor
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorial,1 function
+haskore.interface.csound.tutorialcustom,2 data constructor
+haskore.interface.csound.tutorialcustom,2 data constructor
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.interface.csound.tutorialcustom,2 function
+haskore.music.generalmidi,oboe
+haskore.music.generalmidi,ocarina
+haskore.basic.pitch,octave
+haskore.basic.duration,offset
+haskore.music.generalmidi haskore.composition.drum,opencuica
+haskore.music.generalmidi haskore.composition.drum,openhiconga
+haskore.music.generalmidi haskore.composition.drum,openhihat
+haskore.music.generalmidi haskore.composition.drum,opentriangle
+haskore.interface.csound.orchestra,orc
+haskore.music.generalmidi,orchestrahit
+haskore.music.generalmidi,orchestralharp
+haskore.music haskore.music.rhythmic haskore.music.generalmidi haskore.music.standard,orn
+haskore.music haskore.music.rhythmic haskore.music.generalmidi haskore.music.standard,ornament
+haskore.interface.csound.tutorialcustom,outfunc
+haskore.interface.csound.tutorialcustom,outfunc0
+haskore.interface.csound.tutorialcustom,outfunc2
+haskore.interface.csound.tutorialcustom,outfunc4
+haskore.interface.csound.orchestra,output
+haskore.music.generalmidi,overdrivenguitar
+haskore.basic.interval,octave
+haskore.basic.interval,octavefifth
+haskore.basic.interval,octavefourth
+haskore.basic.interval,octavemajorsecond
+haskore.basic.interval,octavemajorseventh
+haskore.basic.interval,octavemajorsixth
+haskore.basic.interval,octavemajorthird
+haskore.basic.interval,octaveminorsecond
+haskore.basic.interval,octaveminorseventh
+haskore.basic.interval,octaveminorsixth
+haskore.basic.interval,octaveminorthird
+haskore.interface.csound.orchestra,orc1
+haskore.music,ornament
+haskore.interface.csound.orchestra,osc
+haskore.interface.csound.orchestra,osci

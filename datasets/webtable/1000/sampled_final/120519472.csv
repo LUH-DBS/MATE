@@ -1,0 +1,52 @@
+1,0
+1 2 3 4 5 6 7 next,message list
+nexus staging completed,nexus repository manager
+nexus staging completed,nexus repository manager
+nexus staging completed,nexus repository manager
+svn commit r844752 websites production cxf content cache main.pagecache dosgi releases.html,build apache.org
+svn commit r844827 websites production cxf content cache docs.pagecache docs jaxb.html,build apache.org
+buildbot retry asf buildbot cxf site production,build apache.org
+buildbot success asf buildbot cxf site production,build apache.org
+svn commit r845012 websites production cxf content cache docs.pagecache docs jaxb.html,build apache.org
+svn commit r1428301 cxf branches 2.6 x fixes,cohei apache.org
+svn commit r1428303 cxf branches 2.5 x fixes,cohei apache.org
+svn commit r1428348 cxf branches 2.6 x fixes,cohei apache.org
+svn commit r1428352 cxf branches 2.5 x fixes,cohei apache.org
+svn commit r1428804 cxf branches 2.6 x fixes,cohei apache.org
+svn commit r1428814 cxf branches 2.5 x fixes,cohei apache.org
+svn commit r1428820 cxf branches 2.6 x fixes,cohei apache.org
+svn commit r1428821 cxf branches 2.5 x fixes,cohei apache.org
+conf apache cxf documentation writing service spring,conflue apache.org
+conf apache cxf documentation writing service spring,conflue apache.org
+conf apache cxf documentation writing service spring,conflue apache.org
+conf apache cxf documentation jax ws configuration,conflue apache.org
+conf apache cxf documentation writing service spring,conflue apache.org
+conf apache cxf documentation writing service spring,conflue apache.org
+conf apache cxf dosgi releases,conflue apache.org
+conf apache cxf documentation jaxb,conflue apache.org
+conf apache cxf documentation jetty configuration,conflue apache.org
+conf apache cxf documentation standalone http transport,conflue apache.org
+conf apache cxf dosgi apache karaf feature,conflue apache.org
+conf apache cxf dosgi apache karaf feature,conflue apache.org
+svn commit r1428407 cxf branches 2.6 x fixes,dk apache.org
+svn commit r1428524 cxf trunk api src main java org apache cxf resource extendeduriresolver.java,dk apache.org
+svn commit r1428529 cxf trunk parent pom.xml,dk apache.org
+svn commit r1428546 cxf branches 2.6 x fixes parent pom.xml,dk apache.org
+svn commit r1428549 cxf branches 2.6 x fixes,dk apache.org
+svn commit r1428562 cxf branches 2.6 x fixes parent pom.xml,dk apache.org
+svn commit r1428658 cxf branches 2.5 x fixes,dk apache.org
+svn commit r1428659 cxf branches 2.5 x fixes,dk apache.org
+svn commit r1428935 cxf branches 2.5 x fixes distribution src main release release_notes.txt,dk apache.org
+svn commit r1428937 cxf branches 2.6 x fixes distribution src main release release_notes.txt,dk apache.org
+svn commit r1428939 cxf trunk distribution src main release release_notes.txt,dk apache.org
+svn commit r1428952 cxf branches 2.6 x fixes,dk apache.org
+svn commit r1428956 cxf branches 2.5 x fixes,dk apache.org
+svn commit r1429025 cxf trunk parent pom.xml,dk apache.org
+svn commit r1429026 cxf branches 2.6 x fixes parent pom.xml,dk apache.org
+svn commit r1429028 cxf branches 2.5 x fixes parent pom.xml,dk apache.org
+svn commit r1429035 cxf branches 2.5 x fixes api pom.xml common common pom.xml,dk apache.org
+svn commit r1429052 cxf tags cxf 2.5.8,dk apache.org
+svn commit r1429111 cxf tags cxf 2.6.5,dk apache.org
+svn commit r1429139 cxf tags cxf 2.7.2,dk apache.org
+svn commit r1429450 cxf trunk osgi karaf features src main resources features.xml,ff apache.org
+svn commit r1428570 cxf trunk osgi bundle all pom.xml jaxrs pom.xml minimal pom.xml,serg apache.org
