@@ -175,11 +175,11 @@ class mate_table_extraction:
         print('BF Hash')
         self.run_system_BF(hash_size, False, True)
 
-    def DXF(self):
+    def SCI(self):
         print('Linear')
         self.run_system(False, True)
 
-    def run_DXF_system(self, run_ICS=False, active_pruning=True):
+    def run_SCI_system(self, run_ICS=False, active_pruning=True):
         print('{} DATASET'.format(self.dataset_name))
         row_block_size = 100
         total_match = 0
