@@ -1,0 +1,1046 @@
+1,0
+bereich,nr
+011 jdefelderstrae,11
+012 spiekerhof,12
+013 sonnenstrae,13
+014 prinzipalmarkt,14
+015 aegidii,15
+016 berwasser,16
+b90101 brief altstadt 1,b90101
+b90102 brief altstadt 2,b90102
+b90103 brief altstadt 3,b90103
+b90104 brief altstadt 4,b90104
+021 kapuzinerstrae,21
+022 marientalstrae,22
+023 schulstrae,23
+024 schloss,24
+025 wilhelmstrae,25
+b90201 brief schloss 1,b90201
+b90202 brief schloss 2,b90202
+b90203 brief schloss 3,b90203
+b90204 brief schloss 4,b90204
+031 finkenstrae,31
+032 tannenbergstrae,32
+033 siverdesstrae,33
+034 coerdestrae,34
+035 hoyastrae,35
+036 gertrudenstrae,36
+b90301 brief kreuz 1,b90301
+b90302 brief kreuz 2,b90302
+b90303 brief kreuz 3,b90303
+041 holsteiner strae,41
+042 mecklenburger strae,42
+043 staufenstrae,43
+044 overbergstrae,44
+045 landeshaus,45
+046 zeppelinstrae,46
+047 gartenstrae,47
+b90401 brief piusallee 1,b90401
+b90402 brief piusallee 2,b90402
+b90403 brief piusallee 3,b90403
+b90404 brief piusallee 4,b90404
+051 salzmannstrae,51
+052 nevinghoff flandernstrae,52
+053 rumphorstweg,53
+054 uppenkampstiege,54
+055 kinderhauser strae,55
+056 dreizehnerstrae,56
+b90501 brief uppenberg 1,b90501
+b90502 brief uppenberg 2,b90502
+b90503 brief uppenberg 3,b90503
+b90504 brief uppenberg 4,b90504
+061 hoppengarten,61
+062 saarstrae,62
+063 ostmarkstrae,63
+064 ptterhoek,64
+065 ksliner strae,65
+b90601 brief rumphorst 1,b90601
+b90602 brief rumphorst 2,b90602
+b90603 brief rumphorst 3,b90603
+071 kirchstrae,71
+072 dechaneistrae,72
+073 prozessionsweg,73
+074 oststrae,74
+075 zumsandestrae,75
+b90701 brief mauritz mitte 1,b90701
+b90702 brief mauritz mitte 2,b90702
+b90703 brief mauritz mitte 3,b90703
+081 mauritz lindenweg,81
+082 mindener strae,82
+083 lambertistrae,83
+084 hansaplatz,84
+085 sophienstrae,85
+b90801 brief herz jesu 1,b90801
+b90802 brief herz jesu 2,b90802
+b90803 brief herz jesu 3,b90803
+091 bahnhofstrae,91
+092 bremer platz,92
+093 bremer strae,93
+094 josef,94
+095 antoniuskirche,95
+b90901 brief pluggendorf bahnhof 1,b90901
+b90902 brief pluggendorf bahnhof 2,b90902
+b90903 brief pluggendorf bahnhof 3,b90903
+b90904 brief pluggendorf bahnhof 4,b90904
+101 zumbroockstrae,101
+102 hafen,102
+103 alfred krupp weg,103
+104 herdingstrae,104
+105 dahlweg,105
+106 scheibenstrae,106
+107 kronprinzenstrae,107
+b91001 brief schtzenhof hafen 1,b91001
+b91002 brief schtzenhof hafen 2,b91002
+b91003 brief schtzenhof hafen 3,b91003
+111 goebenstrae,111
+112 weienburgstrae,112
+113 oberschlesier strae,113
+114 grner grund,114
+115 turmstrae,115
+b91101 brief geist pluggendorf 1,b91101
+b91102 brief geist pluggendorf 2,b91102
+b91103 brief geist pluggendorf 3,b91103
+121 scharnhorststrae,121
+122 pluggendorf,122
+123 goerdelerstrae,123
+124 bonhoefferstrae,124
+125 lange ossenbeck,125
+b91201 brief aaseestadt 1,b91201
+b91202 brief aaseestadt 2,b91202
+b91203 brief aaseestadt 3,b91203
+b91204 brief aaseestadt 4,b91204
+131 elssser strae,131
+132 spichernstrae,132
+133 sternbusch,133
+134 kriegerweg,134
+135 clemenshospital,135
+b91301 brief desberg 1,b91301
+b91302 brief desberg 2,b91302
+b91303 brief desberg 3,b91303
+141 kinderhaus zentrum,141
+142 neuer heidkamp,142
+143 helmholtzweg,143
+144 fernholzstrae,144
+145 brningheide,145
+146 killingstrae,146
+b91401 brief kinderhaus west 1,b91401
+b91402 brief kinderhaus west 2,b91402
+151 sprakeler strae,151
+152 sandruper strae,152
+153 brderichweg,153
+154 rektoratsweg,154
+155 heidkttersweg,155
+156 kristiansandstrae,156
+b91501 brief kinderhaus ost sprakel 1,b91501
+b91502 brief kinderhaus ost sprakel 2,b91502
+161 dachsleite,161
+162 knigsberger strae,162
+163 der meerwiese,163
+164 grlitzer strae,164
+165 breslauer strae,165
+166 marderweg,166
+b91601 brief coerde 1,b91601
+b91602 brief coerde 2,b91602
+171 gelmer,171
+172 dyckburgstrae,172
+173 maikottenweg,173
+174 der konradkirche,174
+b91701 brief gelmer dyckburg 1,b91701
+b91702 brief gelmer dyckburg 2,b91702
+181 hornheide,181
+182 handorfer strae,182
+183 heriburgstrae,183
+184 dorbaum,184
+b91801 brief handorf 1,b91801
+b91802 brief handorf 2,b91802
+191 haus kleve weg,191
+192 hegerskamp,192
+193 damaschkeweg,193
+194 franz grillparzer weg,194
+b91901 brief mauritz ost 1,b91901
+b91902 brief mauritz ost 2,b91902
+201 anton knubel weg,201
+202 delstrup,202
+203 kranichweg,203
+204 angelsachsenweg,204
+205 heeremansweg,205
+206 lindberghweg,206
+b92001 brief gremmendorf 1,b92001
+b92002 brief gremmendorf 2,b92002
+b92003 brief gremmendorf 3,b92003
+211 kreuzbach,211
+212 wolbeck zentrum,212
+213 zumbuschstrae,213
+214 am berler kamp,214
+215 hofkamp,215
+b92101 brief wolbeck 1,b92101
+b92102 brief wolbeck 2,b92102
+b92103 brief wolbeck 3,b92103
+221 angelstrae,221
+222 theodor heuss strae,222
+223 bachstrae,223
+224 albersloher weg,224
+225 heidestrae,225
+b92201 brief angelmodde 1,b92201
+b92202 brief angelmodde 2,b92202
+231 siemensstrae,231
+232 vennheideweg,232
+233 hnenburg,233
+234 wielandstrae,234
+235 albertsheide,235
+236 hogenbergstrae,236
+237 am berg fidel,237
+b92301 brief berg fidel 1,b92301
+b92302 brief berg fidel 2,b92302
+241 ringstrae,241
+242 rubensstrae,242
+243 hlsheide,243
+244 am roggenkamp,244
+b92401 brief hiltrup ost 1,b92401
+b92402 brief hiltrup ost 2,b92402
+251 geistkamp,251
+252 hlsebrockstrae,252
+253 marktallee,253
+254 am klosterwald,254
+255 friedhofstrae,255
+b92501 brief hiltrup mitte 1,b92501
+b92502 brief hiltrup mitte 2,b92502
+b92503 brief hiltrup mitte 3,b92503
+261 loevelingloh,261
+262 theodor storm strae,262
+263 langestrae,263
+264 hansestrae,264
+265 auf der woort,265
+266 pater kolbe strae,266
+b92601 brief amelsbren 1,b92601
+b92602 brief amelsbren 2,b92602
+271 oberort,271
+272 heroldstrae,272
+273 albachtener str steinkuhle,273
+274 der weede,274
+b92701 brief albachten 1,b92701
+b92702 brief albachten 2,b92702
+281 dingbngerweg,281
+282 ossenkampstiege,282
+283 am dill,283
+284 rote erde,284
+285 hesselmann,285
+b92801 brief mecklenbeck 1,b92801
+b92802 brief mecklenbeck 2,b92802
+291 havixbecker strae,291
+292 altenroxeler strae,292
+293 stellmacherweg,293
+294 paul gerhardt strae,294
+295 schelmenstiege,295
+b92901 brief roxel 1,b92901
+b92902 brief roxel 2,b92902
+301 bentelerstrae,301
+302 philippistrae,302
+303 sentruper hhe,303
+304 redigerstrae,304
+b93001 brief sentrup 1,b93001
+b93002 brief sentrup 2,b93002
+b93003 brief sentrup 3,b93003
+311 heekweg,311
+312 nnningweg,312
+313 ramertsweg,313
+314 dieckmannstrae,314
+315 doornbeckeweg,315
+b93101 brief gievenbeck sd 1,b93101
+b93102 brief gievenbeck sd 2,b93102
+321 legdenweg,321
+322 gievenbecker weg,322
+323 potstiege,323
+324 twenteweg,324
+325 gescherweg,325
+b93201 brief gievenbeck nord 1,b93201
+b93202 brief gievenbeck nord 2,b93202
+331 hger,331
+332 sebastianstrae,332
+333 stefan zweig strae,333
+334 von schonebeck ring,334
+b93301 brief nienberge 1,b93301
+b93302 brief nienberge 2,b93302
+011 jdefelderstrae,11
+012 spiekerhof,12
+013 sonnenstrae,13
+014 prinzipalmarkt,14
+015 aegidii,15
+016 berwasser,16
+021 kapuzinerstrae,21
+022 marientalstrae,22
+023 schulstrae,23
+024 schloss,24
+025 wilhelmstrae,25
+031 finkenstrae,31
+032 tannenbergstrae,32
+033 siverdesstrae,33
+034 coerdestrae,34
+035 hoyastrae,35
+036 gertrudenstrae,36
+041 holsteiner strae,41
+042 mecklenburger strae,42
+043 staufenstrae,43
+044 overbergstrae,44
+045 landeshaus,45
+046 zeppelinstrae,46
+047 gartenstrae,47
+051 salzmannstrae,51
+052 nevinghoff flandernstrae,52
+053 rumphorstweg,53
+054 uppenkampstiege,54
+055 kinderhauser strae,55
+056 dreizehnerstrae,56
+061 hoppengarten,61
+062 saarstrae,62
+063 ostmarkstrae,63
+064 ptterhoek,64
+065 ksliner strae,65
+071 kirchstrae,71
+072 dechaneistrae,72
+073 prozessionsweg,73
+074 oststrae,74
+075 zumsandestrae,75
+081 mauritz lindenweg,81
+082 mindener strae,82
+083 lambertistrae,83
+084 hansaplatz,84
+085 sophienstrae,85
+091 bahnhofstrae,91
+092 bremer platz,92
+093 bremer strae,93
+094 josef,94
+095 antoniuskirche,95
+101 zumbroockstrae,101
+102 hafen,102
+103 alfred krupp weg,103
+104 herdingstrae,104
+105 dahlweg,105
+106 scheibenstrae,106
+107 kronprinzenstrae,107
+111 goebenstrae,111
+112 weienburgstrae,112
+113 oberschlesier strae,113
+114 grner grund,114
+115 turmstrae,115
+121 scharnhorststrae,121
+122 pluggendorf,122
+123 goerdelerstrae,123
+124 bonhoefferstrae,124
+125 lange ossenbeck,125
+131 elssser strae,131
+132 spichernstrae,132
+133 sternbusch,133
+134 kriegerweg,134
+135 clemenshospital,135
+b90101 brief altstadt 1,b90101
+b90102 brief altstadt 2,b90102
+b90103 brief altstadt 3,b90103
+b90104 brief altstadt 4,b90104
+b90201 brief schloss 1,b90201
+b90202 brief schloss 2,b90202
+b90203 brief schloss 3,b90203
+b90204 brief schloss 4,b90204
+b90301 brief kreuz 1,b90301
+b90302 brief kreuz 2,b90302
+b90303 brief kreuz 3,b90303
+b90401 brief piusallee 1,b90401
+b90402 brief piusallee 2,b90402
+b90403 brief piusallee 3,b90403
+b90404 brief piusallee 4,b90404
+b90501 brief uppenberg 1,b90501
+b90502 brief uppenberg 2,b90502
+b90503 brief uppenberg 3,b90503
+b90504 brief uppenberg 4,b90504
+b90601 brief rumphorst 1,b90601
+b90602 brief rumphorst 2,b90602
+b90603 brief rumphorst 3,b90603
+b90701 brief mauritz mitte 1,b90701
+b90702 brief mauritz mitte 2,b90702
+b90703 brief mauritz mitte 3,b90703
+b90801 brief herz jesu 1,b90801
+b90802 brief herz jesu 2,b90802
+b90803 brief herz jesu 3,b90803
+b90901 brief pluggendorf bahnhof 1,b90901
+b90902 brief pluggendorf bahnhof 2,b90902
+b90903 brief pluggendorf bahnhof 3,b90903
+b90904 brief pluggendorf bahnhof 4,b90904
+b91001 brief schtzenhof hafen 1,b91001
+b91002 brief schtzenhof hafen 2,b91002
+b91003 brief schtzenhof hafen 3,b91003
+b91101 brief geist pluggendorf 1,b91101
+b91102 brief geist pluggendorf 2,b91102
+b91103 brief geist pluggendorf 3,b91103
+b91201 brief aaseestadt 1,b91201
+b91202 brief aaseestadt 2,b91202
+b91203 brief aaseestadt 3,b91203
+b91204 brief aaseestadt 4,b91204
+b91301 brief desberg 1,b91301
+b91302 brief desberg 2,b91302
+b91303 brief desberg 3,b91303
+141 kinderhaus zentrum,141
+142 neuer heidkamp,142
+143 helmholtzweg,143
+144 fernholzstrae,144
+145 brningheide,145
+146 killingstrae,146
+151 sprakeler strae,151
+152 sandruper strae,152
+153 brderichweg,153
+154 rektoratsweg,154
+155 heidkttersweg,155
+156 kristiansandstrae,156
+161 dachsleite,161
+162 knigsberger strae,162
+163 der meerwiese,163
+164 grlitzer strae,164
+165 breslauer strae,165
+166 marderweg,166
+b91401 brief kinderhaus west 1,b91401
+b91402 brief kinderhaus west 2,b91402
+b91501 brief kinderhaus ost sprakel 1,b91501
+b91502 brief kinderhaus ost sprakel 2,b91502
+b91601 brief coerde 1,b91601
+b91602 brief coerde 2,b91602
+171 gelmer,171
+172 dyckburgstrae,172
+173 maikottenweg,173
+174 der konradkirche,174
+181 hornheide,181
+182 handorfer strae,182
+183 heriburgstrae,183
+184 dorbaum,184
+191 haus kleve weg,191
+192 hegerskamp,192
+193 damaschkeweg,193
+194 franz grillparzer weg,194
+b91701 brief gelmer dyckburg 1,b91701
+b91702 brief gelmer dyckburg 2,b91702
+b91801 brief handorf 1,b91801
+b91802 brief handorf 2,b91802
+b91901 brief mauritz ost 1,b91901
+b91902 brief mauritz ost 2,b91902
+201 anton knubel weg,201
+202 delstrup,202
+203 kranichweg,203
+204 angelsachsenweg,204
+205 heeremansweg,205
+206 lindberghweg,206
+211 kreuzbach,211
+212 wolbeck zentrum,212
+213 zumbuschstrae,213
+214 am berler kamp,214
+215 hofkamp,215
+221 angelstrae,221
+222 theodor heuss strae,222
+223 bachstrae,223
+224 albersloher weg,224
+225 heidestrae,225
+b92001 brief gremmendorf 1,b92001
+b92002 brief gremmendorf 2,b92002
+b92003 brief gremmendorf 3,b92003
+b92101 brief wolbeck 1,b92101
+b92102 brief wolbeck 2,b92102
+b92103 brief wolbeck 3,b92103
+b92201 brief angelmodde 1,b92201
+b92202 brief angelmodde 2,b92202
+231 siemensstrae,231
+232 vennheideweg,232
+233 hnenburg,233
+234 wielandstrae,234
+235 albertsheide,235
+236 hogenbergstrae,236
+237 am berg fidel,237
+241 ringstrae,241
+242 rubensstrae,242
+243 hlsheide,243
+244 am roggenkamp,244
+251 geistkamp,251
+252 hlsebrockstrae,252
+253 marktallee,253
+254 am klosterwald,254
+255 friedhofstrae,255
+261 loevelingloh,261
+262 theodor storm strae,262
+263 langestrae,263
+264 hansestrae,264
+265 auf der woort,265
+266 pater kolbe strae,266
+b92301 brief berg fidel 1,b92301
+b92302 brief berg fidel 2,b92302
+b92401 brief hiltrup ost 1,b92401
+b92402 brief hiltrup ost 2,b92402
+b92501 brief hiltrup mitte 1,b92501
+b92502 brief hiltrup mitte 2,b92502
+b92503 brief hiltrup mitte 3,b92503
+b92601 brief amelsbren 1,b92601
+b92602 brief amelsbren 2,b92602
+271 oberort,271
+272 heroldstrae,272
+273 albachtener str steinkuhle,273
+274 der weede,274
+281 dingbngerweg,281
+282 ossenkampstiege,282
+283 am dill,283
+284 rote erde,284
+285 hesselmann,285
+291 havixbecker strae,291
+292 altenroxeler strae,292
+293 stellmacherweg,293
+294 paul gerhardt strae,294
+295 schelmenstiege,295
+301 bentelerstrae,301
+302 philippistrae,302
+303 sentruper hhe,303
+304 redigerstrae,304
+311 heekweg,311
+312 nnningweg,312
+313 ramertsweg,313
+314 dieckmannstrae,314
+315 doornbeckeweg,315
+321 legdenweg,321
+322 gievenbecker weg,322
+323 potstiege,323
+324 twenteweg,324
+325 gescherweg,325
+331 hger,331
+332 sebastianstrae,332
+333 stefan zweig strae,333
+334 von schonebeck ring,334
+b92701 brief albachten 1,b92701
+b92702 brief albachten 2,b92702
+b92801 brief mecklenbeck 1,b92801
+b92802 brief mecklenbeck 2,b92802
+b92901 brief roxel 1,b92901
+b92902 brief roxel 2,b92902
+b93001 brief sentrup 1,b93001
+b93002 brief sentrup 2,b93002
+b93003 brief sentrup 3,b93003
+b93101 brief gievenbeck sd 1,b93101
+b93102 brief gievenbeck sd 2,b93102
+b93201 brief gievenbeck nord 1,b93201
+b93202 brief gievenbeck nord 2,b93202
+b93301 brief nienberge 1,b93301
+b93302 brief nienberge 2,b93302
+011 jdefelderstrae,11
+012 spiekerhof,12
+013 sonnenstrae,13
+014 prinzipalmarkt,14
+015 aegidii,15
+016 berwasser,16
+021 kapuzinerstrae,21
+022 marientalstrae,22
+023 schulstrae,23
+024 schloss,24
+025 wilhelmstrae,25
+031 finkenstrae,31
+032 tannenbergstrae,32
+033 siverdesstrae,33
+034 coerdestrae,34
+035 hoyastrae,35
+036 gertrudenstrae,36
+041 holsteiner strae,41
+042 mecklenburger strae,42
+043 staufenstrae,43
+044 overbergstrae,44
+045 landeshaus,45
+046 zeppelinstrae,46
+047 gartenstrae,47
+051 salzmannstrae,51
+052 nevinghoff flandernstrae,52
+053 rumphorstweg,53
+054 uppenkampstiege,54
+055 kinderhauser strae,55
+056 dreizehnerstrae,56
+061 hoppengarten,61
+062 saarstrae,62
+063 ostmarkstrae,63
+064 ptterhoek,64
+065 ksliner strae,65
+071 kirchstrae,71
+072 dechaneistrae,72
+073 prozessionsweg,73
+074 oststrae,74
+075 zumsandestrae,75
+081 mauritz lindenweg,81
+082 mindener strae,82
+083 lambertistrae,83
+084 hansaplatz,84
+085 sophienstrae,85
+091 bahnhofstrae,91
+092 bremer platz,92
+093 bremer strae,93
+094 josef,94
+095 antoniuskirche,95
+101 zumbroockstrae,101
+102 hafen,102
+103 alfred krupp weg,103
+104 herdingstrae,104
+105 dahlweg,105
+106 scheibenstrae,106
+107 kronprinzenstrae,107
+111 goebenstrae,111
+112 weienburgstrae,112
+113 oberschlesier strae,113
+114 grner grund,114
+115 turmstrae,115
+121 scharnhorststrae,121
+122 pluggendorf,122
+123 goerdelerstrae,123
+124 bonhoefferstrae,124
+125 lange ossenbeck,125
+131 elssser strae,131
+132 spichernstrae,132
+133 sternbusch,133
+134 kriegerweg,134
+135 clemenshospital,135
+141 kinderhaus zentrum,141
+142 neuer heidkamp,142
+143 helmholtzweg,143
+144 fernholzstrae,144
+145 brningheide,145
+146 killingstrae,146
+151 sprakeler strae,151
+152 sandruper strae,152
+153 brderichweg,153
+154 rektoratsweg,154
+155 heidkttersweg,155
+156 kristiansandstrae,156
+161 dachsleite,161
+162 knigsberger strae,162
+163 der meerwiese,163
+164 grlitzer strae,164
+165 breslauer strae,165
+166 marderweg,166
+171 gelmer,171
+172 dyckburgstrae,172
+173 maikottenweg,173
+174 der konradkirche,174
+181 hornheide,181
+182 handorfer strae,182
+183 heriburgstrae,183
+184 dorbaum,184
+191 haus kleve weg,191
+192 hegerskamp,192
+193 damaschkeweg,193
+194 franz grillparzer weg,194
+201 anton knubel weg,201
+202 delstrup,202
+203 kranichweg,203
+204 angelsachsenweg,204
+205 heeremansweg,205
+206 lindberghweg,206
+211 kreuzbach,211
+212 wolbeck zentrum,212
+213 zumbuschstrae,213
+214 am berler kamp,214
+215 hofkamp,215
+221 angelstrae,221
+222 theodor heuss strae,222
+223 bachstrae,223
+224 albersloher weg,224
+225 heidestrae,225
+231 siemensstrae,231
+232 vennheideweg,232
+233 hnenburg,233
+234 wielandstrae,234
+235 albertsheide,235
+236 hogenbergstrae,236
+237 am berg fidel,237
+241 ringstrae,241
+242 rubensstrae,242
+243 hlsheide,243
+244 am roggenkamp,244
+251 geistkamp,251
+252 hlsebrockstrae,252
+253 marktallee,253
+254 am klosterwald,254
+255 friedhofstrae,255
+261 loevelingloh,261
+262 theodor storm strae,262
+263 langestrae,263
+264 hansestrae,264
+265 auf der woort,265
+266 pater kolbe strae,266
+271 oberort,271
+272 heroldstrae,272
+273 albachtener str steinkuhle,273
+274 der weede,274
+281 dingbngerweg,281
+282 ossenkampstiege,282
+283 am dill,283
+284 rote erde,284
+285 hesselmann,285
+291 havixbecker strae,291
+292 altenroxeler strae,292
+293 stellmacherweg,293
+294 paul gerhardt strae,294
+295 schelmenstiege,295
+301 bentelerstrae,301
+302 philippistrae,302
+303 sentruper hhe,303
+304 redigerstrae,304
+311 heekweg,311
+312 nnningweg,312
+313 ramertsweg,313
+314 dieckmannstrae,314
+315 doornbeckeweg,315
+321 legdenweg,321
+322 gievenbecker weg,322
+323 potstiege,323
+324 twenteweg,324
+325 gescherweg,325
+331 hger,331
+332 sebastianstrae,332
+333 stefan zweig strae,333
+334 von schonebeck ring,334
+b90101 brief altstadt 1,b90101
+b90102 brief altstadt 2,b90102
+b90103 brief altstadt 3,b90103
+b90104 brief altstadt 4,b90104
+b90201 brief schloss 1,b90201
+b90202 brief schloss 2,b90202
+b90203 brief schloss 3,b90203
+b90204 brief schloss 4,b90204
+b90301 brief kreuz 1,b90301
+b90302 brief kreuz 2,b90302
+b90303 brief kreuz 3,b90303
+b90401 brief piusallee 1,b90401
+b90402 brief piusallee 2,b90402
+b90403 brief piusallee 3,b90403
+b90404 brief piusallee 4,b90404
+b90501 brief uppenberg 1,b90501
+b90502 brief uppenberg 2,b90502
+b90503 brief uppenberg 3,b90503
+b90504 brief uppenberg 4,b90504
+b90601 brief rumphorst 1,b90601
+b90602 brief rumphorst 2,b90602
+b90603 brief rumphorst 3,b90603
+b90701 brief mauritz mitte 1,b90701
+b90702 brief mauritz mitte 2,b90702
+b90703 brief mauritz mitte 3,b90703
+b90801 brief herz jesu 1,b90801
+b90802 brief herz jesu 2,b90802
+b90803 brief herz jesu 3,b90803
+b90901 brief pluggendorf bahnhof 1,b90901
+b90902 brief pluggendorf bahnhof 2,b90902
+b90903 brief pluggendorf bahnhof 3,b90903
+b90904 brief pluggendorf bahnhof 4,b90904
+b91001 brief schtzenhof hafen 1,b91001
+b91002 brief schtzenhof hafen 2,b91002
+b91003 brief schtzenhof hafen 3,b91003
+b91101 brief geist pluggendorf 1,b91101
+b91102 brief geist pluggendorf 2,b91102
+b91103 brief geist pluggendorf 3,b91103
+b91201 brief aaseestadt 1,b91201
+b91202 brief aaseestadt 2,b91202
+b91203 brief aaseestadt 3,b91203
+b91204 brief aaseestadt 4,b91204
+b91301 brief desberg 1,b91301
+b91302 brief desberg 2,b91302
+b91303 brief desberg 3,b91303
+b91401 brief kinderhaus west 1,b91401
+b91402 brief kinderhaus west 2,b91402
+b91501 brief kinderhaus ost sprakel 1,b91501
+b91502 brief kinderhaus ost sprakel 2,b91502
+b91601 brief coerde 1,b91601
+b91602 brief coerde 2,b91602
+b91701 brief gelmer dyckburg 1,b91701
+b91702 brief gelmer dyckburg 2,b91702
+b91801 brief handorf 1,b91801
+b91802 brief handorf 2,b91802
+b91901 brief mauritz ost 1,b91901
+b91902 brief mauritz ost 2,b91902
+b92001 brief gremmendorf 1,b92001
+b92002 brief gremmendorf 2,b92002
+b92003 brief gremmendorf 3,b92003
+b92101 brief wolbeck 1,b92101
+b92102 brief wolbeck 2,b92102
+b92103 brief wolbeck 3,b92103
+b92201 brief angelmodde 1,b92201
+b92202 brief angelmodde 2,b92202
+b92301 brief berg fidel 1,b92301
+b92302 brief berg fidel 2,b92302
+b92401 brief hiltrup ost 1,b92401
+b92402 brief hiltrup ost 2,b92402
+b92501 brief hiltrup mitte 1,b92501
+b92502 brief hiltrup mitte 2,b92502
+b92503 brief hiltrup mitte 3,b92503
+b92601 brief amelsbren 1,b92601
+b92602 brief amelsbren 2,b92602
+b92701 brief albachten 1,b92701
+b92702 brief albachten 2,b92702
+b92801 brief mecklenbeck 1,b92801
+b92802 brief mecklenbeck 2,b92802
+b92901 brief roxel 1,b92901
+b92902 brief roxel 2,b92902
+b93001 brief sentrup 1,b93001
+b93002 brief sentrup 2,b93002
+b93003 brief sentrup 3,b93003
+b93101 brief gievenbeck sd 1,b93101
+b93102 brief gievenbeck sd 2,b93102
+b93201 brief gievenbeck nord 1,b93201
+b93202 brief gievenbeck nord 2,b93202
+b93301 brief nienberge 1,b93301
+b93302 brief nienberge 2,b93302
+011 jdefelderstrae,11
+012 spiekerhof,12
+013 sonnenstrae,13
+014 prinzipalmarkt,14
+015 aegidii,15
+016 berwasser,16
+021 kapuzinerstrae,21
+022 marientalstrae,22
+023 schulstrae,23
+024 schloss,24
+025 wilhelmstrae,25
+031 finkenstrae,31
+032 tannenbergstrae,32
+033 siverdesstrae,33
+034 coerdestrae,34
+035 hoyastrae,35
+036 gertrudenstrae,36
+041 holsteiner strae,41
+042 mecklenburger strae,42
+043 staufenstrae,43
+044 overbergstrae,44
+045 landeshaus,45
+046 zeppelinstrae,46
+047 gartenstrae,47
+051 salzmannstrae,51
+052 nevinghoff flandernstrae,52
+053 rumphorstweg,53
+054 uppenkampstiege,54
+055 kinderhauser strae,55
+056 dreizehnerstrae,56
+061 hoppengarten,61
+062 saarstrae,62
+063 ostmarkstrae,63
+064 ptterhoek,64
+065 ksliner strae,65
+071 kirchstrae,71
+072 dechaneistrae,72
+073 prozessionsweg,73
+074 oststrae,74
+075 zumsandestrae,75
+081 mauritz lindenweg,81
+082 mindener strae,82
+083 lambertistrae,83
+084 hansaplatz,84
+085 sophienstrae,85
+091 bahnhofstrae,91
+092 bremer platz,92
+093 bremer strae,93
+094 josef,94
+095 antoniuskirche,95
+101 zumbroockstrae,101
+102 hafen,102
+103 alfred krupp weg,103
+104 herdingstrae,104
+105 dahlweg,105
+106 scheibenstrae,106
+107 kronprinzenstrae,107
+111 goebenstrae,111
+112 weienburgstrae,112
+113 oberschlesier strae,113
+114 grner grund,114
+115 turmstrae,115
+121 scharnhorststrae,121
+122 pluggendorf,122
+123 goerdelerstrae,123
+124 bonhoefferstrae,124
+125 lange ossenbeck,125
+131 elssser strae,131
+132 spichernstrae,132
+133 sternbusch,133
+134 kriegerweg,134
+135 clemenshospital,135
+141 kinderhaus zentrum,141
+142 neuer heidkamp,142
+143 helmholtzweg,143
+144 fernholzstrae,144
+145 brningheide,145
+146 killingstrae,146
+151 sprakeler strae,151
+152 sandruper strae,152
+153 brderichweg,153
+154 rektoratsweg,154
+155 heidkttersweg,155
+156 kristiansandstrae,156
+161 dachsleite,161
+162 knigsberger strae,162
+163 der meerwiese,163
+164 grlitzer strae,164
+165 breslauer strae,165
+166 marderweg,166
+171 gelmer,171
+172 dyckburgstrae,172
+173 maikottenweg,173
+174 der konradkirche,174
+181 hornheide,181
+182 handorfer strae,182
+183 heriburgstrae,183
+184 dorbaum,184
+191 haus kleve weg,191
+192 hegerskamp,192
+193 damaschkeweg,193
+194 franz grillparzer weg,194
+201 anton knubel weg,201
+202 delstrup,202
+203 kranichweg,203
+204 angelsachsenweg,204
+205 heeremansweg,205
+206 lindberghweg,206
+211 kreuzbach,211
+212 wolbeck zentrum,212
+213 zumbuschstrae,213
+214 am berler kamp,214
+215 hofkamp,215
+221 angelstrae,221
+222 theodor heuss strae,222
+223 bachstrae,223
+224 albersloher weg,224
+225 heidestrae,225
+231 siemensstrae,231
+232 vennheideweg,232
+233 hnenburg,233
+234 wielandstrae,234
+235 albertsheide,235
+236 hogenbergstrae,236
+237 am berg fidel,237
+241 ringstrae,241
+242 rubensstrae,242
+243 hlsheide,243
+244 am roggenkamp,244
+251 geistkamp,251
+252 hlsebrockstrae,252
+253 marktallee,253
+254 am klosterwald,254
+255 friedhofstrae,255
+261 loevelingloh,261
+262 theodor storm strae,262
+263 langestrae,263
+264 hansestrae,264
+265 auf der woort,265
+266 pater kolbe strae,266
+271 oberort,271
+272 heroldstrae,272
+273 albachtener str steinkuhle,273
+274 der weede,274
+281 dingbngerweg,281
+282 ossenkampstiege,282
+283 am dill,283
+284 rote erde,284
+285 hesselmann,285
+291 havixbecker strae,291
+292 altenroxeler strae,292
+293 stellmacherweg,293
+294 paul gerhardt strae,294
+295 schelmenstiege,295
+301 bentelerstrae,301
+302 philippistrae,302
+303 sentruper hhe,303
+304 redigerstrae,304
+311 heekweg,311
+312 nnningweg,312
+313 ramertsweg,313
+314 dieckmannstrae,314
+315 doornbeckeweg,315
+321 legdenweg,321
+322 gievenbecker weg,322
+323 potstiege,323
+324 twenteweg,324
+325 gescherweg,325
+331 hger,331
+332 sebastianstrae,332
+333 stefan zweig strae,333
+334 von schonebeck ring,334
+b90101 brief altstadt 1,b90101
+b90102 brief altstadt 2,b90102
+b90103 brief altstadt 3,b90103
+b90104 brief altstadt 4,b90104
+b90201 brief schloss 1,b90201
+b90202 brief schloss 2,b90202
+b90203 brief schloss 3,b90203
+b90204 brief schloss 4,b90204
+b90301 brief kreuz 1,b90301
+b90302 brief kreuz 2,b90302
+b90303 brief kreuz 3,b90303
+b90401 brief piusallee 1,b90401
+b90402 brief piusallee 2,b90402
+b90403 brief piusallee 3,b90403
+b90404 brief piusallee 4,b90404
+b90501 brief uppenberg 1,b90501
+b90502 brief uppenberg 2,b90502
+b90503 brief uppenberg 3,b90503
+b90504 brief uppenberg 4,b90504
+b90601 brief rumphorst 1,b90601
+b90602 brief rumphorst 2,b90602
+b90603 brief rumphorst 3,b90603
+b90701 brief mauritz mitte 1,b90701
+b90702 brief mauritz mitte 2,b90702
+b90703 brief mauritz mitte 3,b90703
+b90801 brief herz jesu 1,b90801
+b90802 brief herz jesu 2,b90802
+b90803 brief herz jesu 3,b90803
+b90901 brief pluggendorf bahnhof 1,b90901
+b90902 brief pluggendorf bahnhof 2,b90902
+b90903 brief pluggendorf bahnhof 3,b90903
+b90904 brief pluggendorf bahnhof 4,b90904
+b91001 brief schtzenhof hafen 1,b91001
+b91002 brief schtzenhof hafen 2,b91002
+b91003 brief schtzenhof hafen 3,b91003
+b91101 brief geist pluggendorf 1,b91101
+b91102 brief geist pluggendorf 2,b91102
+b91103 brief geist pluggendorf 3,b91103
+b91201 brief aaseestadt 1,b91201
+b91202 brief aaseestadt 2,b91202
+b91203 brief aaseestadt 3,b91203
+b91204 brief aaseestadt 4,b91204
+b91301 brief desberg 1,b91301
+b91302 brief desberg 2,b91302
+b91303 brief desberg 3,b91303
+b91401 brief kinderhaus west 1,b91401
+b91402 brief kinderhaus west 2,b91402
+b91501 brief kinderhaus ost sprakel 1,b91501
+b91502 brief kinderhaus ost sprakel 2,b91502
+b91601 brief coerde 1,b91601
+b91602 brief coerde 2,b91602
+b91701 brief gelmer dyckburg 1,b91701
+b91702 brief gelmer dyckburg 2,b91702
+b91801 brief handorf 1,b91801
+b91802 brief handorf 2,b91802
+b91901 brief mauritz ost 1,b91901
+b91902 brief mauritz ost 2,b91902
+b92001 brief gremmendorf 1,b92001
+b92002 brief gremmendorf 2,b92002
+b92003 brief gremmendorf 3,b92003
+b92101 brief wolbeck 1,b92101
+b92102 brief wolbeck 2,b92102
+b92103 brief wolbeck 3,b92103
+b92201 brief angelmodde 1,b92201
+b92202 brief angelmodde 2,b92202
+b92301 brief berg fidel 1,b92301
+b92302 brief berg fidel 2,b92302
+b92401 brief hiltrup ost 1,b92401
+b92402 brief hiltrup ost 2,b92402
+b92501 brief hiltrup mitte 1,b92501
+b92502 brief hiltrup mitte 2,b92502
+b92503 brief hiltrup mitte 3,b92503
+b92601 brief amelsbren 1,b92601
+b92602 brief amelsbren 2,b92602
+b92701 brief albachten 1,b92701
+b92702 brief albachten 2,b92702
+b92801 brief mecklenbeck 1,b92801
+b92802 brief mecklenbeck 2,b92802
+b92901 brief roxel 1,b92901
+b92902 brief roxel 2,b92902
+b93001 brief sentrup 1,b93001
+b93002 brief sentrup 2,b93002
+b93003 brief sentrup 3,b93003
+b93101 brief gievenbeck sd 1,b93101
+b93102 brief gievenbeck sd 2,b93102
+b93201 brief gievenbeck nord 1,b93201
+b93202 brief gievenbeck nord 2,b93202
+b93301 brief nienberge 1,b93301
+b93302 brief nienberge 2,b93302
