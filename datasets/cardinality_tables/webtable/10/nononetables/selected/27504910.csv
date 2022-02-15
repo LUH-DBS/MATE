@@ -1,0 +1,3 @@
+2,1
+select ratinggive 1 5give 2 5give 3 5give 4 5give 5 5,article rating
+141,reads
