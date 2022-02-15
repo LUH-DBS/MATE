@@ -1,0 +1,67 @@
+12,13
+wasser,9 2
+botanische reinheit,0
+verpackungsreste,0
+tallowamine,0 01
+2 3 7 8 tcdf,0 07
+2 3 7 8 tcdd,0 03
+1 2 3 7 8 pecdf,0 02
+2 3 4 7 8 pecdf,0 08
+1 2 3 7 8 pecdd,0 02
+1 2 3 4 7 8 hxcdf,0 06
+1 2 3 6 7 8 hxcdf,0 07
+2 3 4 6 7 8 hxcdf,0 08
+1 2 3 7 8 9 hxcdf,0 04
+1 2 3 4 7 8 hxcdd,0 10
+1 2 3 6 7 8 hxcdd,0 21
+1 2 3 7 8 9 hxcdd,0 05
+1234678 hpcdf,0 15
+1234789 hpcdf,0 15
+1234678 hpcdd,0 34
+ocdf,0 23
+ocdd,0 81
+pcdd f teq who 2005,0 15
+pcb 81,0 09
+pcb 77,2 81
+pcb 126,0 36
+pcb 169,0 03
+pcb 105,5 32
+pcb 114,0 21
+pcb 118,17 51
+pcb 123,0 19
+pcb 156,2 89
+pcb 157,0 30
+pcb 167,1 72
+pcb 189,0 19
+pcb teq who 2005,0 04
+pcdd f pcb teq who 2005,0 19
+aldrin,0 002
+dieldrin,0 002
+endrin,0 002
+chlordan alpha cis,0 002
+heptachlor,0 002
+lindan hch gamma,0 002
+hexachlorbenzol,0 002
+pcb 28,0 5
+pcb 52,0 5
+pcb 101,0 5
+pcb 138,0 5
+pcb 153,0 5
+pcb 180,0 5
+pcb summe ices 6 aus pcb 28 52 101 138 153 und 180 upper bound,3
+hch alpha,0 002
+hch beta,0 002
+endosulfan summe,0 002
+ddt summe,0 002
+kg 1 aerobe mesophile bakterien produkttypisch,4000000
+kg 2 aerobe mesophile bakterien verderbanzeigend,10000
+kg 3 aerobe mesophile bakterien verderbanzeigend,10000
+kg 4 schimmel und schwrzepilze produkttypisch,5000
+kg 5 schimmel und schwrzepilze verderbanzeigend,35000
+kg 6 schimmel und schwrzepilze verderbanzeigend,100
+kg 7 hefen verderbanzeigend,270000
+mikrobiologie verderb qualittsstufe,2
+csium 137 cs 137,7 17e 00
+kalium 40 k 40,3 17e 02
+beryllium 7 7,1 60e 01
+messzeit,250000

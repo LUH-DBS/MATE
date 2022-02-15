@@ -1,0 +1,147 @@
+0,4
+bg pa,2942
+maske,8191
+rg ssg,38
+insgesamt,11171
+boot sonstiges,36
+boot rtb1,13
+boot rtb2,2
+boot mzb,29
+boot lb lk,8
+insgesamt,88
+elw 1,140
+elw 2 u 3,15
+kdow fhrung,147
+mlw leitung,1
+insgesamt,303
+funk fug ortsfest relais,118
+funk fug fahrzeug 4m 4 meter,1222
+funk fug tragbar 2m 2 meter,3412
+funk fme melder,8652
+insgesamt,13404
+lp gro,1
+rettung satz,63
+ts 8 8,66
+insgesamt,130
+al 16 4 al 18,0
+dl 12 9,0
+dl 18 12,0
+dl 23 12 dl 30,1
+dl 16 4,0
+dlk 12 9,2
+dlk 18 12,7
+dlk 23 12,105
+gm tm gm tm,19
+hab gm tm,2
+sonstiges,1
+insgesamt,137
+hlf ohne nr,40
+hlf 20 16,75
+hlf 10 strasse,2
+hlf 10 allrad,2
+hlf 20 strasse,25
+hlf 20 allrad,16
+lf 8,37
+lf 8 6 strae,57
+lf 8 6 allrad,30
+lf 10 6 strae,43
+lf 10 6 allrad,30
+lf 10 strasse,1
+lf 10 allrad,8
+lf 16,47
+lf 16 ts,101
+lf 16 12,106
+lf 20 16,24
+lf 20 strasse,1
+lf 20 allrad,0
+lf 24,26
+lf kats,11
+sonstiges,21
+tlf 8 18,24
+tlf 16 24 tr,33
+tlf 16 25,97
+tlf 20 40,3
+tlf 20 40 sl,2
+tlf 24 50,20
+tlf 2000,1
+tlf 3000,1
+tlf 4000,4
+ptlf 4000,7
+trolf 750,0
+trolf sonstiges,3
+trotlf 16,7
+tsf u tsf tr ohne wasser,8
+tsf w mit wasser,33
+ktlf ohne nr,2
+klf,0
+gtlf flf slf ulf,16
+mlf auch stlf 10 6,2
+insgesamt,966
+anhseg,0
+atw,0
+btgkw,0
+btzkw,0
+ktw 4,0
+nef,64
+gktw,2
+sanzkw,0
+ktw infektion,2
+rtw intensiv,4
+grtw,0
+ktw normal,153
+naw,3
+rtw,255
+san sonstiges,2
+insgesamt,485
+gw,4
+gw,4
+gw g 1,13
+gw g 2,9
+gw g 3,3
+gw san 25,1
+gw l,15
+gw str,0
+gw hhenrettung,6
+gw licht,2
+gw messtechnik,7
+gw wasserrettung,8
+gw b bt,0
+gw,2
+gw werkstattwagen,9
+gw t,12
+gw n 1,16
+gw sonstiger,66
+gw n 2,5
+rw 1,32
+rw 2 auch rw 3 und rw nach neuer din,42
+rw sonstiger,0
+vrw vgw,1
+insgesamt,257
+fwa ts tsa,11
+fwa sonstiger,168
+fwk kran,7
+kfz sonstiges,76
+mtw mtf,317
+sw 1000,2
+sw 2000,31
+sw kats,2
+wlf,98
+fwa sww monitor,18
+bagger,2
+radlader,7
+fwa tieflader,4
+gabelstapler,6
+dmf alt,1
+dekon lkw g,0
+dekon lkw p,23
+abc erkkw erku,18
+fkh,9
+pkw strae,78
+pkw gelnde allrad,8
+mobtwa twa mob,0
+bus,2
+kran privat,0
+lkw transport,11
+abrollbehlter,300
+insgesamt,1199
+insgesamt,28140
