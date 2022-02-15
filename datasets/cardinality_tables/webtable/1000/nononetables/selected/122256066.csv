@@ -1,0 +1,84 @@
+2,1
+tue 11 sep 08 31,tck2 src java org apache jdo tck mapping relationshipmanytomanynorelationships.java
+tue 11 sep 17 58,re evict question
+sun 16 sep 05 04,re explanation notation spec draft
+tue 18 sep 16 52,re who responsible jdocentral.com
+tue 25 sep 05 56,tck2 jdo_test.java prints out tokenizer
+fri 28 sep 17 55,re enhancer error spaces path names
+sat 29 sep 14 04,apache jdo site
+sat 08 sep 09 32,jira created jdo 527 nullpointerexception jdo_test.istesttobeperformed
+sun 09 sep 07 19,jira resolved jdo 526 implementation fails set other side relationship flush
+sun 09 sep 07 44,jira commented jdo 521 create tests relationship mapping spec section 15.3
+sun 09 sep 15 43,jira commented jdo 521 create tests relationship mapping spec section 15.3
+mon 10 sep 09 31,jira resolved jdo 525 department.getemployees contains returns wrong answer
+sun 16 sep 09 22,jira assigned jdo 517 npe enhancement classes persistent properties
+mon 17 sep 09 28,jira commented jdo 517 npe enhancement classes persistent properties
+tue 18 sep 16 57,jira commented jdo 522 draft proposal copyonattach property
+tue 18 sep 17 17,jira commented jdo 517 npe enhancement classes persistent properties
+thu 20 sep 04 58,jira commented jdo 522 draft proposal copyonattach property
+thu 20 sep 11 29,jira commented jdo 529 changequery distinct expected even though specified
+sat 29 sep 17 44,jira created jdo 537 upgrade apache jdo site encompass user level documentation guides etc
+sun 30 sep 07 54,jira updated jdo 537 upgrade apache jdo site encompass user level documentation guides etc
+sun 30 sep 10 03,jira resolved jdo 517 npe enhancement classes persistent properties
+tue 18 sep 19 19,re who responsible jdocentral.com
+thu 20 sep 13 52,re who responsible jdocentral.com
+fri 14 sep 05 58,jira updated jdo 522 draft proposal copyonattach property
+fri 14 sep 06 00,jira commented jdo 522 draft proposal copyonattach property
+fri 14 sep 18 07,jira commented jdo 522 draft proposal copyonattach property
+fri 14 sep 19 10,jira commented jdo 522 draft proposal copyonattach property
+fri 14 sep 19 24,jira issue comment edited jdo 522 draft proposal copyonattach property
+sat 15 sep 22 07,jira updated jdo 522 draft proposal copyonattach property
+tue 18 sep 17 21,jira commented jdo 522 draft proposal copyonattach property
+tue 18 sep 20 31,jira commented jdo 531 provide page jdocentral redirect apache jdo site
+tue 18 sep 20 47,jira commented jdo 531 provide page jdocentral redirect apache jdo site
+wed 19 sep 21 24,jira commented jdo 522 draft proposal copyonattach property
+thu 20 sep 14 47,jira assigned jdo 522 draft proposal copyonattach property
+fri 21 sep 16 11,jira created jdo 532 create tck test s copyonattach
+sat 01 sep 13 26,re query interface
+fri 07 sep 16 53,fyi jpa 2.0 comments
+fri 07 sep 18 35,minutes jdo tck conference call friday sep 7 9 am pdt
+wed 12 sep 01 10,please review pmf bootstrap process jdo specification
+thu 13 sep 21 34,re please review pmf bootstrap process jdo specification
+fri 14 sep 17 14,minutes jdo tck conference call friday sep 14 9 am pdt
+tue 18 sep 00 11,re please review pmf bootstrap process jdo specification
+tue 18 sep 17 04,re who responsible jdocentral.com
+tue 18 sep 19 46,fwd who responsible jdocentral.com
+tue 18 sep 22 41,re who responsible jdocentral.com
+wed 19 sep 22 32,re jira commented jdo 522 draft proposal copyonattach property
+wed 19 sep 23 57,re configurable persistence reachability jdo 2.1
+fri 21 sep 17 07,minutes jdo tck conference call friday sep 21 9 am pdt
+tue 25 sep 01 11,discuss evicting dirty instances
+tue 25 sep 17 32,re jdo tck 2.0 which set tests use
+tue 25 sep 18 04,re jdo 2.1 spec draft minor language changes 5.5.8 detached clean
+tue 25 sep 19 18,re jdo 2.1 spec draft minor language changes 5.5.8 detached clean
+tue 25 sep 19 49,re jdo 2.1 specification draft can reviewed
+tue 25 sep 20 15,re jdo 2.1 specification draft can reviewed
+wed 26 sep 16 00,re persistence capable interfaces abstract classes
+thu 27 sep 22 15,re persistence capable interfaces abstract classes
+fri 28 sep 17 17,congratulations andy jefferson
+fri 28 sep 17 20,minutes jdo tck conference call friday sep 28 9 am pdt
+sat 29 sep 15 54,re apache jdo site
+sat 29 sep 17 37,re minutes jdo tck conference call friday sep 28 9 am pdt
+sun 02 sep 17 19,jira commented jdo 521 create tests relationship mapping spec section 15.3
+sun 02 sep 19 01,jira commented jdo 521 create tests relationship mapping spec section 15.3
+fri 07 sep 16 22,jira assigned jdo 524 select lastname java.lang.long negative test
+fri 07 sep 19 18,jira resolved jdo 515 allow custom settings some annotation enum values
+fri 07 sep 21 18,jira updated jdo 452 provide interfaces extend both jdo jpa
+sat 08 sep 17 33,jira updated jdo 452 provide interfaces extend both jdo jpa
+sat 08 sep 22 35,jira commented jdo 452 provide interfaces extend both jdo jpa
+sun 09 sep 00 43,jira commented jdo 452 provide interfaces extend both jdo jpa
+sun 09 sep 16 52,jira commented jdo 521 create tests relationship mapping spec section 15.3
+sun 09 sep 16 54,jira commented jdo 521 create tests relationship mapping spec section 15.3
+sun 09 sep 16 54,jira commented jdo 521 create tests relationship mapping spec section 15.3
+sun 09 sep 22 41,jira commented jdo 521 create tests relationship mapping spec section 15.3
+wed 12 sep 22 09,jira commented jdo 524 select lastname java.lang.long negative test
+sun 16 sep 20 03,jira commented jdo 529 changequery distinct expected even though specified
+mon 17 sep 19 03,jira commented jdo 517 npe enhancement classes persistent properties
+tue 18 sep 17 23,jira updated jdo 529 changequery distinct expected even though specified
+tue 18 sep 17 34,jira commented jdo 517 npe enhancement classes persistent properties
+tue 18 sep 18 17,jira updated jdo 529 changequery distinct expected even though specified
+tue 18 sep 18 17,jira updated jdo 529 changequery distinct expected even though specified
+tue 18 sep 20 21,jira commented jdo 530 implicitparameters.testgrouping uses keyword min parameter name
+wed 19 sep 17 52,jira resolved jdo 529 changequery distinct expected even though specified
+thread author date,1 2 3 next
+thread author date,1 2 3 next

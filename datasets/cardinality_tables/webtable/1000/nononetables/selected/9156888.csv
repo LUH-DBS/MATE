@@ -1,0 +1,101 @@
+2,1
+wed 02 dec 23 31,re jee right
+thu 03 dec 07 20,jira created geronimo 4969 remove maven repository entries from project config pom
+thu 03 dec 15 56,re remove those specs impl which shipped jre 1.6
+tue 01 dec 03 01,re cannot build geronimo from 2.2 branch
+tue 01 dec 03 00,re vote geronimo 2.2 release first try
+tue 01 dec 03 37,re vote geronimo 2.2 release first try
+tue 01 dec 07 27,re vote geronimo 2.2 release first try
+mon 07 dec 20 43,cancelled re vote geronimo 2.2 release first try
+tue 01 dec 02 58,re vote geronimo 2.2 release first try
+wed 02 dec 04 25,use tomcat trunk some way
+wed 02 dec 08 40,re use tomcat trunk some way
+wed 02 dec 16 51,re use tomcat trunk some way
+sat 12 dec 08 44,re use tomcat trunk some way
+sun 13 dec 09 58,re use tomcat trunk some way
+mon 14 dec 23 06,re use tomcat trunk some way
+wed 02 dec 09 01,re how define those bundlized dependencies which would published geronimo
+wed 02 dec 09 40,re how define those bundlized dependencies which would published geronimo
+wed 02 dec 16 46,re how define those bundlized dependencies which would published geronimo
+wed 02 dec 09 32,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 07 59,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 08 49,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 07 56,re keep same convention import export packages
+tue 01 dec 00 10,jira created geronimo 4964 base jetty servletcontext getresource bundle getentry
+tue 01 dec 00 12,jira closed geronimo 4964 base jetty servletcontext getresource bundle getentry
+tue 01 dec 05 26,jira created geronimo 4965 bundleize pluto support base console
+tue 01 dec 01 57,re cannot build geronimo from 2.2 branch
+tue 01 dec 02 03,re cannot build geronimo from 2.2 branch
+tue 01 dec 03 19,re cannot build geronimo from 2.2 branch
+tue 01 dec 05 43,jira created geronimo 4966 osgi bundles versions need consolidation
+tue 01 dec 05 47,jira updated geronimo 4966 osgi bundles versions need consolidation
+tue 01 dec 14 11,build our own org.apache.woden.woden impl dom bundle
+wed 02 dec 05 07,re use tomcat trunk some way
+wed 02 dec 09 57,re use tomcat trunk some way
+thu 03 dec 06 57,re use tomcat trunk some way
+mon 07 dec 14 59,re use tomcat trunk some way
+tue 08 dec 09 35,re use tomcat trunk some way
+sat 12 dec 09 06,re use tomcat trunk some way
+wed 02 dec 04 53,how define those bundlized dependencies which would published geronimo
+wed 02 dec 09 25,re how define those bundlized dependencies which would published geronimo
+wed 02 dec 09 49,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 05 22,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 08 24,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 09 19,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 03 29,keep same convention import export packages
+thu 03 dec 09 24,re keep same convention import export packages
+thu 03 dec 06 25,remove those specs impl which shipped jre 1.6
+fri 04 dec 01 13,re remove those specs impl which shipped jre 1.6
+wed 02 dec 02 40,jira created geronimo 4967 enable axis2 plugin geronimo 3.0
+tue 01 dec 10 01,re vote geronimo 2.2 release first try
+thu 03 dec 03 21,re vote geronimo 2.2 release first try
+tue 01 dec 08 43,re running g2.2 windows service
+thu 03 dec 02 25,jira created geronimo 4968 problemastic os check windows startup command
+thu 03 dec 15 17,re how define those bundlized dependencies which would published geronimo
+thu 03 dec 15 51,re remove those specs impl which shipped jre 1.6
+tue 01 dec 15 17,dojo unresponsive
+tue 01 dec 03 16,re cannot build geronimo from 2.2 branch
+tue 01 dec 02 23,re vote geronimo 2.2 release first try
+tue 01 dec 03 11,re vote geronimo 2.2 release first try
+tue 01 dec 05 32,re vote geronimo 2.2 release first try
+wed 02 dec 14 22,re vote geronimo 2.2 release first try
+tue 01 dec 22 03,re vote geronimo 2.2 release first try
+wed 02 dec 17 56,re use tomcat trunk some way
+wed 02 dec 13 37,re apache web profile edition java ee 6 standard
+wed 02 dec 14 39,re apache web profile edition java ee 6 standard
+wed 02 dec 22 24,re problem axis axiom dependencies building 2.2
+thu 03 dec 15 38,re problem axis axiom dependencies building 2.2
+wed 02 dec 22 32,re jee right
+tue 01 dec 21 45,jira commented geronimo 4753 upgrade dwr 3.0 m1 figure out why won't work
+wed 02 dec 11 14,apache web profile edition java ee 6 standard
+thread author date,1 2 3 4 5 6 7 8 9 10 next
+thread author date,1 2 3 4 5 6 7 8 9 10 next
+wed 02 dec 05 35,re dojo unresponsive
+thu 03 dec 08 03,re dojo unresponsive
+thu 03 dec 05 48,re dojo unresponsive
+thu 03 dec 06 47,re problem axis axiom dependencies building 2.2
+fri 04 dec 09 27,re problem axis axiom dependencies building 2.2
+wed 02 dec 14 19,re apache web profile edition java ee 6 standard
+wed 02 dec 14 25,re apache web profile edition java ee 6 standard
+thu 03 dec 07 33,re jee right
+tue 01 dec 02 25,build branches 2.2 failed revision 885635
+tue 01 dec 07 10,build branches 2.1 failed revision 885679
+tue 01 dec 08 13,build trunk failed revision 885685
+tue 01 dec 12 57,build branches 2.2 failed revision 885755
+tue 01 dec 14 10,build trunk failed revision 885762
+tue 01 dec 18 57,build branches 2.2 failed revision 885862
+tue 01 dec 20 13,build trunk failed revision 885900
+wed 02 dec 00 56,build branches 2.2 failed revision 886025
+wed 02 dec 02 20,build trunk failed revision 886032
+wed 02 dec 07 22,build branches 2.1 failed revision 886061
+wed 02 dec 08 25,build trunk failed revision 886069
+wed 02 dec 13 27,build branches 2.2 failed revision 886133
+wed 02 dec 14 17,build trunk failed revision 886147
+wed 02 dec 19 39,build branches 2.2 failed revision 886252
+wed 02 dec 20 07,build trunk failed revision 886293
+thu 03 dec 00 57,build branches 2.2 failed revision 886349
+thu 03 dec 03 34,build trunk failed revision 886652
+thu 03 dec 07 54,build branches 2.1 failed revision 886686
+wed 02 dec 15 54,problem axis axiom dependencies building 2.2
+wed 02 dec 19 33,re problem axis axiom dependencies building 2.2
+wed 02 dec 21 18,re problem axis axiom dependencies building 2.2

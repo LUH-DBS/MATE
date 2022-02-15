@@ -1,0 +1,110 @@
+2,0
+30 12 2009 21 16,holiday message from stevie wonder un messenger peace
+12 12 2009 13 07,btx halted x86_64 master
+12 12 2009 18 52,re btx halted x86_64 master
+12 12 2009 20 39,re btx halted x86_64 master
+12 12 2009 20 50,re btx halted x86_64 master
+13 12 2009 15 07,re btx halted x86_64 master
+13 12 2009 18 01,re btx halted x86_64 master
+13 12 2009 23 36,re btx halted x86_64 master
+14 12 2009 08 58,re btx halted x86_64 master
+20 12 2009 22 40,re btx halted x86_64 master
+14 12 2009 01 22,re btx halted x86_64 master
+18 12 2009 14 52,re issue1313 signal code kernel needs major overhaul signal queues si_code si_addr
+08 12 2009 11 39,re issue1621 livecd boot v mountroot fails
+08 12 2009 20 24,re issue1622 devfs doesn't create my ad4s3 macbook
+08 12 2009 20 28,re issue1622 devfs doesn't create my ad4s3 macbook
+08 12 2009 21 22,re issue1622 devfs doesn't create my ad4s3 macbook
+09 12 2009 00 16,re issue1622 devfs doesn't create my ad4s3 macbook
+09 12 2009 21 52,re issue1622 devfs doesn't create my ad4s3 macbook
+14 12 2009 09 38,re issue1625 coer dump from hammer info
+14 12 2009 14 17,re issue1625 coer dump from hammer info
+14 12 2009 16 09,re issue1625 coer dump from hammer info
+14 12 2009 16 15,re issue1625 coer dump from hammer info
+14 12 2009 16 27,re issue1625 coer dump from hammer info
+14 12 2009 16 34,re issue1625 coer dump from hammer info
+17 12 2009 14 15,re issue1632 seek end file returns 136 cd dvd drives
+17 12 2009 18 21,re issue1632 seek end file returns 136 cd dvd drives
+19 12 2009 18 43,re issue1632 seek end file returns 136 cd dvd drives
+17 12 2009 14 57,re issue1632 seek end file returns 136 cd dvd drives
+17 12 2009 16 36,re issue1632 seek end file returns 136 cd dvd drives
+19 12 2009 18 44,re issue1632 seek end file returns 136 cd dvd drives
+19 12 2009 19 27,re issue1632 seek end file returns 136 cd dvd drives
+22 12 2009 21 23,re issue1634 panic spin_lock 0xe4ad1320 indefinitive wait
+23 12 2009 11 39,re issue1634 panic spin_lock 0xe4ad1320 indefinitive wait
+06 12 2009 05 44,re issue953 dma.c some errors
+14 12 2009 01 06,re coer dump from hammer info
+14 12 2009 07 05,re coer dump from hammer info
+14 12 2009 13 41,re hammer cleanup coredumps
+14 12 2009 16 00,re hammer cleanup coredumps
+07 12 2009 06 46,re hammer expand root fs
+24 12 2009 03 18,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+24 12 2009 03 38,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+24 12 2009 04 44,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+24 12 2009 10 35,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+24 12 2009 18 16,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+25 12 2009 00 48,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+25 12 2009 02 45,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+29 12 2009 03 07,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+29 12 2009 05 22,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+29 12 2009 14 49,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+29 12 2009 18 38,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+30 12 2009 02 07,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+30 12 2009 03 58,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+30 12 2009 05 03,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+30 12 2009 05 09,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+30 12 2009 06 37,re panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+22 12 2009 01 30,re panic spin_lock 0xe4ad1320 indefinitive wait
+22 12 2009 10 47,re panic spin_lock 0xe4ad1320 indefinitive wait
+22 12 2009 11 32,re panic spin_lock 0xe4ad1320 indefinitive wait
+22 12 2009 11 58,re panic spin_lock 0xe4ad1320 indefinitive wait
+22 12 2009 17 47,re panic spin_lock 0xe4ad1320 indefinitive wait
+03 12 2009 18 15,re weird problem statvfs hammer filesystems
+03 12 2009 22 36,re weird problem statvfs hammer filesystems
+14 12 2009 08 49,re xpt ciss initialization problem both master 2.4.1 fbsd 8 works
+17 12 2009 10 05,seek end file returns 136 cd dvd drives
+date,subject
+13 12 2009 09 53,issue1042 gnome session fails build intltool updated
+13 12 2009 09 34,issue1062 sbin vinum doesn't compile when dvinumdebug
+31 12 2009 00 57,issue1062 sbin vinum doesn't compile when dvinumdebug
+13 12 2009 09 51,issue1094 kgdb crashes when remote debugging requested
+03 12 2009 17 22,issue1099 frequent x11 fatal server errors caught signal 11
+03 12 2009 12 47,issue1101 ohci related panic
+18 12 2009 14 19,issue1313 signal code kernel needs major overhaul signal queues si_code si_addr
+20 12 2009 23 01,issue1313 signal code kernel needs major overhaul signal queues si_code si_addr
+13 12 2009 09 49,issue1391 aac 4 can't produce save crashdumps
+01 12 2009 13 05,issue1571 amd64 lacks working ptrace support
+25 12 2009 19 42,issue1619 weird problem statvfs hammer filesystems
+08 12 2009 10 13,issue1621 livecd boot v mountroot fails
+08 12 2009 07 33,issue1622 devfs doesn't create my ad4s3 macbook
+08 12 2009 07 51,issue1622 devfs doesn't create my ad4s3 macbook
+14 12 2009 07 21,issue1624 btx halted x86_64 master
+14 12 2009 09 06,issue1625 coer dump from hammer info
+15 12 2009 00 50,issue1626 free error ifree junk pointer too high make sense
+20 12 2009 23 00,issue1627 xpt ciss initialization problem both master 2.4.1 fbsd 8 works
+20 12 2009 22 59,issue1630 ps s working because kinfo_proc.kp_cru filled
+17 12 2009 14 10,issue1632 seek end file returns 136 cd dvd drives
+17 12 2009 14 11,issue1632 seek end file returns 136 cd dvd drives
+17 12 2009 14 16,issue1632 seek end file returns 136 cd dvd drives
+17 12 2009 15 39,issue1632 seek end file returns 136 cd dvd drives
+22 12 2009 23 31,issue1633 union sigval incorrectly defined sys sys signal.h
+31 12 2009 09 27,issue1636 holiday message from stevie wonder un messenger peace
+23 12 2009 12 38,issue174 unloading md module causes panic
+29 12 2009 17 58,issue174 unloading md module causes panic
+21 12 2009 22 58,issue743 problems nata ehci usb harddisk
+28 12 2009 14 14,issue743 problems nata ehci usb harddisk
+31 12 2009 17 49,issue743 problems nata ehci usb harddisk
+05 12 2009 10 51,issue953 dma.c some errors
+13 12 2009 09 52,subject
+13 12 2009 08 49,coer dump from hammer info
+07 12 2009 22 38,devfs doesn't create my ad4s3 macbook
+14 12 2009 04 06,free error ifree junk pointer too high make sense
+14 12 2009 11 34,hammer cleanup coredumps
+06 12 2009 19 48,hammer expand root fs
+07 12 2009 18 48,livecd boot v mountroot fails
+22 12 2009 16 39,panic assertion pmap pm_stats.resident_count 0 pmap_release_free_page
+22 12 2009 01 19,panic spin_lock 0xe4ad1320 indefinitive wait
+16 12 2009 09 53,ps s working because kinfo_proc.kp_cru filled
+17 12 2009 13 27,union sigval incorrectly defined sys sys signal.h
+03 12 2009 18 03,weird problem statvfs hammer filesystems
+14 12 2009 04 43,xpt ciss initialization problem both master 2.4.1 fbsd 8 works

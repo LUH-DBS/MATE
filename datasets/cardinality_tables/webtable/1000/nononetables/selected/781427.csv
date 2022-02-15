@@ -1,0 +1,101 @@
+2,0
+fix doc errors,2009 08 04
+doc hide structs typedefs,2009 08 04
+fix driver conf parsing snd_config_hook_load_for_all,2009 08 10
+control.c snd_ctl_wait fix revents handling,2009 08 10
+timer_query make ops structure constant,2009 08 10
+snd_pcm_scope_set_ops make ops parameter const,2009 08 10
+fix zero division pcm_rate.c,2009 08 10
+pcm ioplug fix error code start callback,2009 08 20
+pcm workaround avoiding automatic start mmap,2009 08 20
+mixer add speaker beep names weight list,2009 08 31
+release v1.0.21 v1.0.21,2009 08 31
+release v1.0.21a v1.0.21a,2009 09 09
+pcm change hw_params determination order,2009 09 09
+change dmix.conf accept user configuration from,2009 09 09
+revert fix driver conf parsing snd_config_hook_load,2009 09 09
+pcm_hw always use delay ioctl snd_pcm_delay,2009 09 11
+dmix fix snd_pcm_info,2009 09 28
+alisp comment out unused function avoid compiler,2009 09 30
+pcm_rate_linear annotate unused function parameter,2009 09 30
+control remove unused variable,2009 09 30
+configure.in add m4 check new am_silent_rules,2009 09 30
+cvscompile remove favour gitcompile,2009 09 30
+hcontrol fix compare_default function handle also,2009 10 06
+namehint list card independent devices only once,2009 11 03
+namehint allow snd_device_name_hint search,2009 11 03
+namehint add missing list card initialization,2009 11 03
+cache libasound.so access snd_dlopen,2009 11 03
+fix corruption after snd_device_name_hint,2009 11 03
+remove redefinition _gnu_source __use_gnu,2009 11 08
+fix check_enum simple.c,2009 11 08
+define _gnu_source so gives o_cloexec,2009 11 08
+remove old commented out fd_cloexec code,2009 11 08
+open device nodes close exec flag,2009 11 08
+defined symbols exposing hrtimer applications,2009 11 08
+update pcm doc strings,2009 11 14
+simple_none.c uses have_soft_float has include,2009 11 16
+configure.in fix without softfloat,2009 11 16
+mixer fix enum check,2009 11 23
+release v1.0.22 v1.0.22,2009 12 16
+pcm fix sound distortions s24_3le stream,2009 12 21
+pcm close event timer pcm_hw plugin,2009 12 21
+add atomic operations blackfin parts,2010 01 18
+modem.conf off hook improve behavior,2010 01 22
+pcm fix read_areas write_areas,2010 01 31
+fix snd_pcm_sw_params_set_period_event implementation,2010 02 23
+pcm_dmix add support s24_le format,2010 03 02
+pcm direct plugins drain call might blocked when,2010 03 03
+pcm_hw show errno codes,2010 03 10
+pcm_share plugin fix pcm monotonic setup open,2010 04 13
+release v1.0.23 v1.0.23,2010 04 16
+use thread safe locale functions available,2010 04 21
+check thread specific locale support,2010 04 21
+seq fix snd_seq_parse_address,2010 04 22
+control tlv check db range only within control,2010 05 19
+alisp fix string format ambiguity,2010 05 27
+tlv remove tailing tab after snd_ctl_get_db_range,2010 07 20
+tlv handle holes snd_ctl_tlvt_db_range array,2010 07 20
+tlv check out range db snd_ctl_tlvt_db_range,2010 07 20
+memory leak namehint.c,2010 07 21
+pcm ladspa fix small memory leak snd_pcm_ladspa_f,2010 07 22
+pcm_plug fix comparison always true,2010 08 02
+test latency fix timediff calculation,2010 08 04
+hda intel present all 4 hdmi outputs instead just,2010 08 09
+pcm introduce defaults.pcm.compat change params,2010 08 11
+pcm add defaults.pcm.minperiodtime parsing,2010 08 11
+pcm fixed typo wrong deleted line instroduced,2010 08 12
+add missing support 3 byte formats 16bit put,2010 08 13
+namehint evaluate more possibilities hw devices,2010 08 20
+ucm build add build support use case manager,2010 08 23
+ucm core add initial use case manager support,2010 08 23
+ucm header alsa use case manager,2010 08 23
+general recoded snd_dlobj_ functions,2010 08 23
+hda intel do lock iec958 playback switch,2010 08 23
+ucm recode header more universal,2010 08 25
+ucm moved ucm src ucm subdirectory,2010 09 15
+ucm added implementation other ucm parts only,2010 09 22
+ucm introduce value section more implementation,2010 09 22
+ucm cosmetic fix,2010 10 01
+ucm unify snd_use_case_geti add snd_use_case_card_l,2010 10 12
+ucm implemented card list feature,2010 10 13
+ucm debug parser,2010 10 26
+control add ascii parsers from amixer,2010 11 04
+ucm fix parser sequences fix wrong strcmp,2010 11 10
+ucm add cdev,2010 11 23
+ucm initial implementation cdev cset,2010 11 29
+ucm ctl devices only one per card remove dev,2010 11 29
+ucm add valuedefaults section master file,2010 11 29
+ucm ctlparse always terminate cset buffer,2010 12 22
+ucm fix handling cset spaces control,2010 12 22
+ucm only select modifier when supported device,2010 12 22
+ucm implement basic script exec functionality,2010 12 22
+ucm check correct return value modifier,2010 12 22
+ucm check valid value list before dereference,2010 12 22
+ucm remove unused code,2010 12 22
+ucm make sure active modifier device lists,2010 12 22
+ucm remove parse_device call parse_compound,2010 12 22
+ucm modifiers names must compound parse,2010 12 22
+ucm removed unused active member struct use_case_,2010 12 22
+ucm fix switch device modifier when transition ucm,2011 01 11
+ucm add snd_use_case_verb_list inline function,2011 01 11

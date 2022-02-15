@@ -1,0 +1,101 @@
+2,1
+mon 20 may 11 21,debian apache package segfaults 1.3.24 3 php ssl
+fri 03 may 23 08,re patch concept have mpm identify itself server header
+wed 08 may 03 46,re mod_deflate
+mon 20 may 15 40,re cvs commit httpd 2.0 modules filters mod_deflate.c
+fri 24 may 15 12,re tagging 2.0.37
+sun 26 may 03 03,re tagging 2.0.37
+sun 26 may 04 22,re content codings re cvs commit httpd 2.0 modules filters mod_deflate.c
+sun 26 may 21 15,re cvs commit httpd 2.0 status
+wed 29 may 17 56,cache removal policy mod_mem_cache
+thu 23 may 22 36,re qnx 6.1a mod peer review
+mon 27 may 13 16,mod_ext_filter
+tue 28 may 15 09,mod_ext_filter windows binaries info needed please again
+wed 08 may 15 15,re mod_deflate
+wed 22 may 16 08,re apache proxy half duplex
+thu 23 may 16 08,patch allow mod_rewrite talk external rewrite engine over tcp ip
+thu 23 may 16 33,patch prg type rewritemap can now take arguments again
+mon 27 may 17 02,patch updated prg type rewritemap can now take arguments again
+wed 01 may 12 53,re cvs commit httpd 2.0 server mpm worker worker.c
+wed 01 may 13 17,re roll 2.0.36 re cvs commit httpd 2.0 server mpm worker worker.c
+wed 01 may 13 36,patch get worker wait workers exit even graceless
+wed 01 may 14 03,re patch get worker wait workers exit even graceless
+wed 01 may 14 11,re accept lock details
+wed 01 may 14 32,re patch get worker wait workers exit even graceless
+wed 01 may 14 33,re patch get worker wait workers exit even graceless
+wed 01 may 16 03,re patch get worker wait workers exit even graceless
+wed 01 may 19 00,re patch get worker wait workers exit even graceless
+mon 06 may 11 00,re 2.0.36 release
+mon 06 may 12 57,re cvs commit httpd 2.0 modules mappers mod_rewrite.c
+tue 07 may 21 31,re cvs commit httpd 2.0 os unix unixd.c unixd.h
+wed 08 may 13 09,has anybody tried proxypassreverse 2.0.36
+wed 08 may 13 16,re has anybody tried proxypassreverse 2.0.36
+fri 10 may 13 52,re cvs commit httpd 2.0 server core.c protocol.c
+fri 10 may 14 08,re cvs commit httpd 2.0 modules metadata mod_setenvif.c
+fri 10 may 16 03,re changing files segfault
+fri 10 may 20 41,beware intermittent mod_auth failures
+mon 13 may 10 47,re beware intermittent mod_auth failures
+mon 13 may 16 45,pr 8482 server push cgis broken
+tue 14 may 14 45,how log apr_status_t diagnostics mod_ssl
+wed 15 may 12 11,re how log apr_status_t diagnostics mod_ssl
+wed 15 may 18 17,httpd valid way start apache
+wed 15 may 18 30,re httpd valid way start apache
+wed 15 may 18 44,re httpd valid way start apache
+wed 15 may 19 00,re httpd valid way start apache
+wed 15 may 19 36,re httpd valid way start apache
+wed 15 may 20 34,re how log apr_status_t diagnostics mod_ssl
+wed 15 may 20 37,re patch tpf specific changes syslog flags
+thu 16 may 10 38,aplog_noerrno useless
+thu 16 may 14 34,re httpd valid way start apache
+thu 16 may 15 08,re aplog_noerrno useless
+thu 16 may 15 14,re httpd valid way start apache
+thu 16 may 15 25,re httpd valid way start apache
+thu 16 may 15 37,re aplog_noerrno useless
+thu 16 may 15 56,re aplog_noerrno useless
+thu 16 may 19 39,re httpd valid way start apache
+fri 17 may 17 06,re patch implement k option httpd
+fri 17 may 19 56,re patch implement k option httpd
+wed 22 may 13 03,re patch 2 worker mpm deadlock
+wed 22 may 17 47,re patch implement k option httpd
+wed 22 may 17 55,re patch 2 worker mpm deadlock
+thu 23 may 11 11,re win32 changes from 1.3
+thu 23 may 12 03,re httpd 2.0.36 mod_cache problems
+thu 23 may 14 57,re httpd 2.0.36 mod_cache problems
+thu 23 may 18 36,re cvs commit httpd 2.0 server mpm worker mpm.h worker.c
+thu 23 may 19 29,patch simplified apachectl passes through options httpd
+fri 24 may 11 20,re patch simplified apachectl passes through options httpd
+fri 24 may 15 52,re patch simplified apachectl passes through options httpd
+fri 24 may 16 01,re tagging 2.0.37
+fri 24 may 16 04,re tagging 2.0.37
+fri 24 may 16 30,re patch simplified apachectl passes through options httpd
+fri 24 may 17 30,re patch simplified apachectl passes through options httpd
+fri 24 may 18 36,re apache proxy half duplex
+mon 27 may 14 35,re starting httpd darwin
+mon 27 may 14 37,re cvs commit httpd 2.0 support apachectl.in
+tue 28 may 11 48,re win32 apache k start broken
+tue 28 may 14 18,don't try home
+tue 28 may 17 14,re don't try home
+tue 28 may 17 41,re cvs commit httpd 2.0 support apachectl.in
+wed 29 may 10 48,re client socket
+wed 29 may 10 50,re setsockopt bug
+wed 29 may 13 44,patch fix mod_deflate uninitialized var
+thu 30 may 11 50,re don't try home
+thu 30 may 15 02,re don't try home
+fri 31 may 10 38,re don't try home
+fri 31 may 11 42,re cvs commit httpd 2.0 status
+fri 31 may 13 36,patch re don't try home
+fri 31 may 16 40,re segv head re links http xml.apache.org axis incorrect
+fri 31 may 17 05,re segv head re links http xml.apache.org axis incorrect
+thu 16 may 15 00,re httpd valid way start apache
+wed 01 may 14 31,installbin error
+wed 01 may 23 15,re final bump roll 2.0.36
+wed 01 may 23 22,re final bump roll 2.0.36
+thu 02 may 04 22,re final bump roll 2.0.36
+mon 06 may 20 54,win32 build failure mod_rewrite.c
+tue 07 may 07 19,apache.dsw lost mod_deflate
+tue 07 may 07 47,patch re apache.dsw lost mod_deflate makefile.win
+fri 10 may 15 50,re 2.0.36
+fri 10 may 16 00,re 2.0.36
+fri 10 may 21 09,re fw suggestion
+thread author date,previous 1 2 3 4 5 6 7 8 9 10 11 next
+thread author date,previous 1 2 3 4 5 6 7 8 9 10 11 next
