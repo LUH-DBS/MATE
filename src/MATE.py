@@ -1,26 +1,64 @@
-import pandas as pd
-from database_handler import *
-import operator as op
-from functools import reduce
-import itertools
-import time
-# from log_writer import *
+from base import *
+from dbhandler import *
 import pyhash
 from tqdm import tqdm
-import random
-import heapq
-import sys
 import re
 from simhash import Simhash
 from bloom_filter import BloomFilter
 from heapq import heapify, heappush, heappop
-from io import StringIO
 import hashlib
+from collections import Counter
+import math
+import numpy as np
+from typing import List, Dict, Any, Tuple
 
 
-class mate_table_extraction:
-    def __init__(self, dataset_name, dataset_path, query_column_list, t_k, inverted_index_table, ones=5, log_file_name='', min_join_ratio=0,
-                 is_min_join_ratio_absolute=True):
+class MATETableExtraction:
+    """MATE:
+
+    Parameters
+    ----------
+    dataset_name : str
+        Name of the main inverted index table in the database.
+
+    dataset_name : str
+        Name of the query dataset.
+
+    dataset_path : str
+        Path of the query dataset csv file.
+
+    query_column_list : List[str]
+        List of query columns.
+
+    t_k : int
+        Top-k tables to return.
+
+    inverted_index_table : str
+        Name of the inverted index table.
+
+    ones : int
+        Number of ones to use for the XASH.
+
+    log_file_name : str
+        Name of the logfile.
+
+    min_join_ratio : int
+        Minimum join ratio.
+
+    is_min_join_ratio_absolute : bool
+        True, if minimum join ratio is absolute.
+    """
+    def __init__(self,
+                 dataset_name: str,
+                 dataset_path: str,
+                 query_column_list: List[str],
+                 t_k: int,
+                 inverted_index_table: str,
+                 ones: int = 5,
+                 log_file_name: str = '',
+                 min_join_ratio: int = 0,
+                 is_min_join_ratio_absolute: bool = True
+                 ):
         self.input_data = pd.read_csv(dataset_path)
         self.main_inverted_index_table_name = inverted_index_table
         self.input_data = self.input_data.drop_duplicates(subset=query_column_list)
@@ -32,7 +70,7 @@ class mate_table_extraction:
         self.query_columns = query_column_list
         self.top_k = t_k
         self.dataset_name = dataset_name
-        self.dbh = db_handler(self.main_inverted_index_table_name)
+        self.dbh = DBHandler(self.main_inverted_index_table_name)
         self.number_of_ones = ones
         self.log_file_name = log_file_name
         self.input_size = len(self.input_data)
@@ -41,22 +79,53 @@ class mate_table_extraction:
         self.original_data = self.input_data.copy()
         self.input_data = self.input_data[self.query_columns]
 
-    def evaluate_rows(self, input_row, col_dict):
-        vals = list(col_dict.values())
+    def evaluate_rows(self, input_row: Any, col_dict: Dict) -> Tuple[bool, str]:
+        """Evaluates a row.
+
+        Parameters
+        ----------
+        input_row : Any
+            Row to evaluate.
+
+        col_dict : Dict
+            Column dictionary.
+
+        Returns
+        -------
+        Tuple[bool, str]
+            bool: True, if matching columns were found.
+            str: Matching column order, if matching columns were found.
+        """
+        values = list(col_dict.values())
         query_cols_arr = np.array(self.query_columns)
         query_degree = len(query_cols_arr)
         matching_column_order = ''
         for q in query_cols_arr[-(query_degree - 1):]:
             q_index = list(self.input_data.columns.values).index(q)
-            if input_row[q_index] not in vals:
+            if input_row[q_index] not in values:
                 return False, ''
             else:
-                for colid, val in col_dict.items():
+                for col_id, val in col_dict.items():
                     if val == input_row[q_index]:
-                        matching_column_order += '_{}'.format(str(colid))
+                        matching_column_order += '_{}'.format(str(col_id))
         return True, matching_column_order
 
-    def XHash(self, token, hash_size=128):
+    def XASH(self, token: str, hash_size: int = 128) -> int:
+        """Computes XASH for given token.
+
+        Parameters
+        ----------
+        token : str
+            Token.
+
+        hash_size : int
+            Number of bits.
+
+        Returns
+        -------
+        int
+            XASH value.
+        """
         char = [' ', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i',
                 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
         segment_size_dict = {64: 1, 128: 3, 256: 6, 512: 13}
@@ -86,61 +155,177 @@ class mate_table_extraction:
         r = int(math.pow(2, INT_BITS))
         result = int((x | y) % r)
 
-        result = int(result) | int(math.pow(2, len(token)%(hash_size-length_bit_start)) * math.pow(2, length_bit_start))
+        return int(result) | int(math.pow(2, len(token)%(hash_size-length_bit_start)) * math.pow(2, length_bit_start))
 
-        return result
 
-    def get_simhash_features(self, s):
+    @staticmethod
+    def get_simhash_features(s: str) -> List[str]:
+        """Returns SIM Hash features.
+
+        Parameters
+        ----------
+        s : str
+            Input value.
+
+        Returns
+        -------
+        List[str]
+            Features.
+        """
         width = 3
         s = s.lower()
         s = re.sub(r'[^\w]+', '', s)
         return [s[i:i + width] for i in range(max(len(s) - width + 1, 1))]
 
-    def generate_SIM_hash(self, dict, token, hashsize):
-        if token in dict:
-            return dict, dict[token]
-        simh = Simhash(self.get_simhash_features(token), f=hashsize).value
-        dict[token] = simh
-        return dict, simh
+    def generate_SIM_hash(self, hash_dict: Dict, token: str, hash_size: int) -> Tuple[Dict, int]:
+        """Calculates SIM Hash for token.
 
-    def generate_CITY_hash(self, dict, token, hashsize):
-        if token in dict:
-            return dict, dict[token]
-        if hashsize == 128:
+        Parameters
+        ----------
+        hash_dict : Dict
+            Dictionary of already computed hash values.
+
+        token : str
+            Input token.
+
+        hash_size : int
+            Number of bits.
+
+        Returns
+        -------
+        Tuple[Dict, int]
+            Dict: Updated hash_dict.
+            int: Hash for given token.
+        """
+        if token in hash_dict:
+            return hash_dict, hash_dict[token]
+        simh = Simhash(self.get_simhash_features(token), f=hash_size).value
+        hash_dict[token] = simh
+        return hash_dict, simh
+
+    @staticmethod
+    def generate_CITY_hash(hash_dict: Dict, token: str, hash_size: int) -> Tuple[Dict, int]:
+        """Calculates CITY Hash for token.
+
+        Parameters
+        ----------
+        hash_dict : Dict
+            Dictionary of already computed hash values.
+
+        token : str
+            Input token.
+
+        hash_size : int
+            Number of bits.
+
+        Returns
+        -------
+        Tuple[Dict, int]
+            Dict: Updated hash_dict.
+            int: Hash for given token.
+        """
+        if token in hash_dict:
+            return hash_dict, hash_dict[token]
+        if hash_size == 128:
             hasher = pyhash.city_128()
-        elif hashsize == 256:
+        elif hash_size == 256:
             hasher = pyhash.city_fingerprint_256()
         cityh = hasher(token)
-        dict[token] = cityh
-        return dict, cityh
+        hash_dict[token] = cityh
+        return hash_dict, cityh
 
-    def generate_MURMUR_hash(self, dict, token, hashsize):
-        if token in dict:
-            return dict, dict[token]
-        if hashsize == 128:
+    @staticmethod
+    def generate_MURMUR_hash(hash_dict: Dict, token: str, hash_size: int) -> Tuple[Dict, int]:
+        """Calculates MURMUR Hash for token.
+
+        Parameters
+        ----------
+        hash_dict : Dict
+            Dictionary of already computed hash values.
+
+        token : str
+            Input token.
+
+        hash_size : int
+            Number of bits.
+
+        Returns
+        -------
+        Tuple[Dict, int]
+            Dict: Updated hash_dict.
+            int: Hash for given token.
+        """
+        if token in hash_dict:
+            return hash_dict, hash_dict[token]
+        if hash_size == 128:
             hasher = pyhash.murmur3_x64_128()
         murmurh = hasher(token)
-        dict[token] = murmurh
-        return dict, murmurh
+        hash_dict[token] = murmurh
+        return hash_dict, murmurh
 
-    def generate_MD5_hash(self, dict, token, hashsize):
-        if token in dict:
-            return dict, dict[token]
-        if hashsize == 128:
+    @staticmethod
+    def generate_MD5_hash(hash_dict: Dict, token: str, hash_size: int) -> Tuple[Dict, int]:
+        """Calculates MD5 Hash for token.
+
+        Parameters
+        ----------
+        hash_dict : Dict
+            Dictionary of already computed hash values.
+
+        token : str
+            Input token.
+
+        hash_size : int
+            Number of bits.
+
+        Returns
+        -------
+        Tuple[Dict, int]
+            Dict: Updated hash_dict.
+            int: Hash for given token.
+        """
+        if token in hash_dict:
+            return hash_dict, hash_dict[token]
+        if hash_size == 128:
             hasher = hashlib.md5()
         hasher.update(token.encode('UTF-8'))
         md5h = int(hasher.hexdigest(), 16)
-        dict[token] = md5h
-        return dict, md5h
+        hash_dict[token] = md5h
+        return hash_dict, md5h
 
-    def hash_row_vals(self, hashfunction, row, hash_size):
+    def hash_row_vals(self, hash_function: Any, row: Any, hash_size: int) -> None:
+        """Calculates Hash value for row.
+
+        Parameters
+        ----------
+        hash_function : Any
+            Hash function to use for hash calculation.
+
+        row : Any
+            Input row.
+
+        hash_size : int
+            Number of bits.
+
+        Returns
+        -------
+        int
+            Hash value for row.
+        """
         hresult = 0
         for q in self.query_columns:
-            d, hvalue = hashfunction(row[q], hash_size)
+            d, hvalue = hash_function(row[q], hash_size)
             hresult = hresult | hvalue
         return hresult
 
-    def ICS(self):
+    def ICS(self) -> int:
+        """Runs ICS.
+
+        Returns
+        -------
+        int
+            Minimum number of unique values for query.
+        """
         min_unique_value_number = 9999999999999
         best_query = ''
         for q in self.query_columns:
@@ -150,42 +335,96 @@ class mate_table_extraction:
         self.query_columns.insert(0, self.query_columns.pop(self.query_columns.index(best_query)))
         return min_unique_value_number
 
-    def MATE(self, hash_size=128):
-        print('MATE')
-        self.run_system(self.XHash,
-                        'superkey_{}'.format(hash_size), hash_size, False, True)
+    def MATE(self, hash_size: int = 128) -> None:
+        """Runs MATE using XASH.
 
-    def SIMHASH(self, hash_size=128):
+        Parameters
+        ----------
+        hash_size : int
+            Number of bits.
+        """
+        print('MATE')
+        self.run_system(self.XASH)
+
+    def SIMHASH(self, hash_size: int = 128) -> None:
+        """Runs MATE using SIM Hash.
+
+        Parameters
+        ----------
+        hash_size : int
+            Number of bits.
+        """
         print('Sim Hash')
         self.run_system(self.generate_SIM_hash, hash_size, False, True)
 
-    def CITYHASH(self, hash_size=128):
+    def CITYHASH(self, hash_size: int = 128) -> None:
+        """Runs MATE using CITY Hash.
+
+        Parameters
+        ----------
+        hash_size : int
+            Number of bits.
+        """
         print('City Hash')
         self.run_system(self.generate_CITY_hash, hash_size, False, True)
 
-    def MURMURHASH(self, hash_size=128):
+    def MURMURHASH(self, hash_size: int = 128) -> None:
+        """Runs MATE using MURMUR Hash.
+
+        Parameters
+        ----------
+        hash_size : int
+            Number of bits.
+        """
         print('Murmur Hash')
         self.run_system(self.generate_MURMUR_hash, hash_size, False, True)
 
-    def MD5(self, hash_size=128):
+    def MD5(self, hash_size: int = 128) -> None:
+        """Runs MATE using MD5 Hash.
+
+        Parameters
+        ----------
+        hash_size : int
+            Number of bits.
+        """
         print('MD5 Hash')
         self.run_system(self.generate_MD5_hash, hash_size, False, True)
 
-    def BF(self, hash_size=128):
-        print('BF Hash')
-        self.run_system_BF(hash_size, False, True)
+    def BF(self, hash_size: int = 128) -> None:
+        """Runs MATE using BF Hash.
 
-    def SCI(self):
+        Parameters
+        ----------
+        hash_size : int
+            Number of bits.
+        """
+        print('BF Hash')
+        self.run_system_bf(hash_size, False, True)
+
+    def SCI(self) -> None:
+        """Runs SCI.
+
+        """
         print('Linear')
         self.run_system(False, True)
 
-    def run_SCI_system(self, run_ICS=False, active_pruning=True):
+    def run_SCI_system(self, run_ics: bool = False, active_pruning: bool = True):
+        """Runs SCI.
+
+        Parameters
+        ----------
+        run_ics : bool
+            True to run ICS.
+
+        active_pruning : bool
+            True to enable activate pruning.
+        """
         print('{} DATASET'.format(self.dataset_name))
         row_block_size = 100
         total_match = 0
         total_approved = 0
 
-        if run_ICS:
+        if run_ics:
             self.ICS()
 
         g = self.input_data.groupby([self.query_columns[0]])
@@ -302,14 +541,34 @@ class mate_table_extraction:
         print(len(top_joinable_tables))
         print('FP = {}'.format(total_approved - total_match))
 
-    def run_system(self, hash_function, hash_size=128, run_ICS=False,
-                   active_pruning=True):
+    def run_system(self,
+                   hash_function: Any,
+                   hash_size: int = 128,
+                   run_ics: bool = False,
+                   active_pruning: bool = True
+                   ):
+        """Runs table extraction.
+
+        Parameters
+        ----------
+        hash_function : Any
+            Hash function to use.
+
+        hash_size : int
+            Number of bits.
+
+        run_ics : bool
+            True to run ICS.
+
+        active_pruning : bool
+            True to enable activate pruning.
+        """
         print('{} DATASET'.format(self.dataset_name))
         row_block_size = 100
         total_match = 0
         total_approved = 0
 
-        if run_ICS:
+        if run_ics:
             self.ICS()
 
         self.input_data['SuperKey'] = self.input_data.apply(
@@ -431,7 +690,22 @@ class mate_table_extraction:
         print(len(top_joinable_tables))
         print('FP = {}'.format(total_approved - total_match))
 
-    def hash_row_vals_bf(self, row, hash_size):
+    def hash_row_vals_bf(self, row: Any, hash_size: int) -> str:
+        """Calculates Hash value for row using Bloom Filter.
+
+        Parameters
+        ----------
+        row : Any
+            Input row.
+
+        hash_size : int
+            Number of bits.
+
+        Returns
+        -------
+        int
+            Hash value for row.
+        """
         bf = BloomFilter(6, hash_size, self.number_of_ones)
         for q in self.query_columns:
             bf.add(row[q])
@@ -444,8 +718,20 @@ class mate_table_extraction:
                 string_output += '0'
         return string_output
 
-    def run_system_BF(self, hash_size=128, run_ICS=False,
-                      active_pruning=True):
+    def run_system_bf(self, hash_size: int = 128, run_ics: bool = False, active_pruning: bool = True) -> int:
+        """Runs table extraction using Bloom Filter.
+
+       Parameters
+       ----------
+       hash_size : int
+           Number of bits.
+
+       run_ics : bool
+           True to run ICS.
+
+       active_pruning : bool
+           True to enable activate pruning.
+       """
 
         if len(self.input_data) == 0:
             return 0
@@ -455,7 +741,7 @@ class mate_table_extraction:
         total_match = 0
         total_approved = 0
 
-        if run_ICS:
+        if run_ics:
             self.ICS()
 
         self.input_data['SuperKey'] = self.input_data.apply(
@@ -579,7 +865,9 @@ class mate_table_extraction:
         print('FP = {}'.format(total_approved - total_match))
 
 
-top_k = 10
-one_bits = 5
-bits = 128
-mate_table_extraction('movie', '../datasets/movie.csv', ['director_name', 'movie_title'], top_k, 'main_tokenized', one_bits, 'MATE_datasets_k_bits_ones_{}_{}_{}'.format(top_k, bits, one_bits)).MATE(bits, True)
+if __name__ == '__main__':
+    top_k = 10
+    one_bits = 5
+    bits = 128
+    MATETableExtraction('movie', '../datasets/movie.csv', ['director_name', 'movie_title'], top_k, 'main_tokenized',
+                        one_bits, f'MATE_datasets_k_bits_ones_{top_k}_{bits}_{one_bits}').MATE(bits)
