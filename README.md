@@ -1,7 +1,7 @@
 # MATE: Multi-Attribute Table Extraction
 
-Here you can find the code and datasets for the [*MATE: Multi-Attribute Table Extraction*](https://arxiv.org/abs/2110.00318) paper,
-which was published at VLDB 2022.
+Here you can find the code and datasets for the [*MATE: Multi-Attribute Table Extraction*](https://arxiv.org/pdf/2110.00318.pdf) paper,
+which is published at VLDB 2022.
 
 ## Abstract
 A core operation in data discovery is to find joinable tables for a given table. Real-world tables include both unary
