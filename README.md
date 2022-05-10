@@ -22,7 +22,7 @@ highest joinablility score *J* from *T1*. To do so, we have to find the mapping 
 many joins as possible. In this case, we map *F.Name* to *Vorname*, *L.Name* to *Nachname*, and *Country* to *Land* and 
 obtain *J = 5*.
 
-<img src="./img/MATE_1.png" alt="MATE running example" width="200" title="MATE: Running example">
+<img src="./img/MATE_1.png" alt="MATE running example" width="600" title="MATE: Running example">
 
 ## Setup
 
