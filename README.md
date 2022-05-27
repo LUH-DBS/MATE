@@ -33,6 +33,11 @@ For webtables, we used [*Dresden WebTable Corpus*](https://wwwdb.inf.tu-dresden.
  ```shell
  for i in $(seq -w 0 500); do wget http://wwwdb.inf.tu-dresden.de/misc/dwtc/data_feb15/dwtc-$i.json.gz; done
  ```
+ After downloading all the tables, we store them in a Vertica database as an inverted index.
+
+[*German opendata*](https://www.govdata.de/) is also used in the experiment in the paper. We extracted all the CSV data from the website and store them in a Vertica database as an inverted index.
+
+We used [*Kaggle datasets*](https://www.kaggle.com/datasets) only as input queries. These datasets can be access [*Kaggle datasets*](https://github.com/LUH-DBS/MATE/tree/main/datasets) along with other input datasets used in the paper.
 
 ## Setup
 
