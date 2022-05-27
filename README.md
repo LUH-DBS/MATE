@@ -39,6 +39,8 @@ For webtables, we used [*Dresden WebTable Corpus*](https://wwwdb.inf.tu-dresden.
 
 We used [*Kaggle datasets*](https://www.kaggle.com/datasets) only as input queries. These datasets can be access [*Kaggle datasets*](https://github.com/LUH-DBS/MATE/tree/main/datasets) along with other input datasets used in the paper.
 
+School corpus is used both as data lake and input query.
+
 ## XASH Index Generation
 
 Having the traditional inverted index defined in the [*DataXFormer paper*](https://cs.uwaterloo.ca/~ilyas/papers/AbedjanICDE16.pdf),
