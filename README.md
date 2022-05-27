@@ -26,7 +26,7 @@ obtain *J = 5*.
 
 ## Datasets
 
-Three categories of datasets are used in our paper either as query dataset or corpus of tables from which we extract the candidate joinable tables. These categories are: 1- Webtables, 2- German Open data, and 3- Kaggle datasets.
+Three categories of datasets are used in our paper either as query dataset or corpus of tables from which we extract the candidate joinable tables. These categories are: 1- Webtables, 2- German Open data, 3- Kaggle datasets, and [*School datasets*](https://arxiv.org/pdf/2003.09758.pdf).
 
 For webtables, we used [*Dresden WebTable Corpus*](https://wwwdb.inf.tu-dresden.de/misc/dwtc/). To download the whole corpus, one could use the following command:
 
