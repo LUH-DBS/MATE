@@ -99,11 +99,11 @@ for file_path in glob.glob('../datasets/{}/{}/sampled_file/*.csv'.format(corpus,
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE').MATE(bits, True)
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 18, 'BF').BF(bits, True)
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 1, 'HT').BF(bits, True)
-    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'SCR').Linear()
-    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Simhash').SIMHASH(bits, True)
-    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Cityhash').CITYHASH(bits, True)
-    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Murmurhash').MURMURHASH(bits, True)
-    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Md5').MD5(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 0, 'SCR').Linear()
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 0, 'Simhash').SIMHASH(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 0, 'Cityhash').CITYHASH(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 0, 'Murmurhash').MURMURHASH(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 0, 'Md5').MD5(bits, True)
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 2, 'LHBF').BF_Less_Hash(bits, True)
 ```
 
@@ -123,6 +123,7 @@ mate_table_extraction('vgsales_two_queries1', '../datasets/vgsales.csv', ['Name'
 mate_table_extraction('pollution1', '../datasets/pollution_us_2000_2016.csv', ['State', 'City'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
 mate_table_extraction('park', '../datasets/datasets_15295_20358_SF_Park_Scores.csv', ['Park', 'State'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
 ```
+For the Kaggle experiments, replace the function ```MATE``` with any of the other hash functions.
 
 Figure 5: The influence of Xash components on Precision. To run this experiment, one should tun the following python code:
 
@@ -144,7 +145,25 @@ for file_path in glob.glob('../datasets/webtable/100/sampled_file/*.csv'):
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_512').MATE(512, True)
 ```
 
+Figure 6: Key size experiment.
 
+```python
+for k in ['1290']:
+    for i in np.arange(2, 11, 1):
+        tbl = pd.read_csv("../datasets/benchmark/{}.csv".format(k))
+        mate_table_extraction(k, "../datasets/benchmark/{}.csv".format(k),
+                              list(tbl.columns.values)[:i], top_k, 'open_data_main_tokenized', 6,
+                              'key_size_exp_MATE_{}'.format(k)).MATE(128, True)
+        mate_table_extraction(k, "../datasets/benchmark/{}.csv".format(k),
+                              list(tbl.columns.values)[:i], top_k, 'open_data_main_tokenized', 3,
+                              'key_size_exp_BF_{}'.format(k)).BF(128, True)
+        mate_table_extraction(k, "../datasets/benchmark/{}.csv".format(k),
+                              list(tbl.columns.values)[:i], top_k, 'open_data_main_tokenized', 1,
+                              'key_size_exp_HT_{}'.format(k)).BF(128, True)
+        mate_table_extraction(k, "../datasets/benchmark/{}.csv".format(k),
+                              list(tbl.columns.values)[:i], top_k, 'open_data_main_tokenized', 0,
+                              'key_size_exp_SCR_{}'.format(k)).Linear()
+```
 
 
 
