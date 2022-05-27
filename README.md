@@ -39,10 +39,10 @@ For webtables, we used [*Dresden WebTable Corpus*](https://wwwdb.inf.tu-dresden.
 
 We used [*Kaggle datasets*](https://www.kaggle.com/datasets) only as input queries. These datasets can be access [*Kaggle datasets*](https://github.com/LUH-DBS/MATE/tree/main/datasets) along with other input datasets used in the paper.
 
-## Setup
+## XASH Index Generation
 
 Having the traditional inverted index defined in the [*DataXFormer paper*](https://cs.uwaterloo.ca/~ilyas/papers/AbedjanICDE16.pdf),
-in a Vertica database, the user should generate our novel index using the following function:
+in a Vertica database, the user should generate our novel index (XASH) using the following function:
 
 ```python
 def generate_index(main_table: str = 'main_tokenized',
@@ -78,3 +78,78 @@ Then we can run ```MATE``` on our dataset, which will give us the top-10 joinabl
 ```python
 mate.MATE(bits)
 ```
+
+## Experiments
+
+Figure 4: Runtime comparison between Mate and SCI.
+
+Table 2: Runtime experiment (seconds) and Table 3: Precision experiment.
+To obtain the results of these tables, one should run the following python codes:
+
+```python
+top_k = 10
+one_bits = 6
+bits = 128
+
+corpus = 'webtable' # or opendata
+corpus_query_size = '100' # [10, 100, 1000, 10000]
+for file_path in glob.glob('../datasets/{}/{}/sampled_file/*.csv'.format(corpus, corpus_query_size)):
+    file_name = file_path.split('/')[-1].split('.')[0]
+    tbl = df.read_csv(file_path, index_col=False)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE').MATE(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 18, 'BF').BF(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 1, 'HT').BF(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'SCR').Linear()
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Simhash').SIMHASH(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Cityhash').CITYHASH(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Murmurhash').MURMURHASH(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'Md5').MD5(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', 2, 'LHBF').BF_Less_Hash(bits, True)
+```
+
+```python
+mate_table_extraction('movie', '../datasets/movie.csv', ['director_name', 'movie_title'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('city', '../datasets/worldcitiespop_country_city_pop_non_zero.csv', ['Country', 'City'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('universities', '../datasets/national_universities_rankings.csv', ['Name', 'Location'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('pageview', '../datasets/pageviews_final_11000_multi_attr.csv', ['name', 'country'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('presidential', '../datasets/presidential_final_multi_attr_all.csv', ['State', 'County'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('airbnb', '../datasets/AB_NYC_2019.csv', ['neighbourhood_group', 'neighbourhood'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('beer', '../datasets/datasets_673_1282_beers.csv', ['name', 'style'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('airline', '../datasets/datasets_2253_3806_airlines.csv', ['Name', 'Country'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('food', '../datasets/kaggle_food.csv', ['product_name', 'brands'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('hfi_two_queries', '../datasets/kaggle_hfi.csv', ['countries', 'region'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('wine', '../datasets/kaggle_wine.csv', ['country', 'province'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('vgsales_two_queries1', '../datasets/vgsales.csv', ['Name', 'Platform'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('pollution1', '../datasets/pollution_us_2000_2016.csv', ['State', 'City'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+mate_table_extraction('park', '../datasets/datasets_15295_20358_SF_Park_Scores.csv', ['Park', 'State'], top_k, 'main_tokenized', one_bits, 'Joinability_kaggle'.format(bits)).MATE(bits, True)
+```
+
+Figure 5: The influence of Xash components on Precision. To run this experiment, one should tun the following python code:
+
+```python
+top_k = 10
+bits = 128
+one_bits = 6
+for file_path in glob.glob('../datasets/webtable/100/sampled_file/*.csv'):
+    file_name = file_path.split('/')[-1].split('.')[0]
+    if file_name not in valid_files:
+        continue
+    tbl = pd.read_csv(file_path, index_col=False)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'SCR').Linear()
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_only_length').MATE_only_length(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_only_chars').MATE_only_chars(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_only_chars_and_loc').MATE_only_chars_and_loc(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_only_chars_and_loc_and_length').MATE_only_chars_and_loc_and_length(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_128').MATE(bits, True)
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_512').MATE(512, True)
+```
+
+
+
+
+
+
+
+
+
+
