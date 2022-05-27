@@ -193,7 +193,7 @@ for file_path in glob.glob('../datasets/webtable/100/sampled_file/*.csv'):
     if file_name not in valid_files:
         continue
     tbl = pd.read_csv(file_path, index_col=False)
-    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'SCR').Linear()
+    mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'SCR').SCR()
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_only_length').MATE_only_length(bits, True)
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_only_chars').MATE_only_chars(bits, True)
     mate_table_extraction(file_name, file_path, tbl.columns.values, top_k, 'main_tokenized', one_bits, 'MATE_only_chars_and_loc').MATE_only_chars_and_loc(bits, True)
