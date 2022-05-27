@@ -37,7 +37,7 @@ For webtables, we used [*Dresden WebTable Corpus*](https://wwwdb.inf.tu-dresden.
 
 [*German opendata*](https://www.govdata.de/) is also used in the experiment in the paper. We extracted all the CSV data from the website and store them in a Vertica database as an inverted index.
 
-We used [*Kaggle datasets*](https://www.kaggle.com/datasets) only as input queries. These datasets can be access [*Kaggle datasets*](https://github.com/LUH-DBS/MATE/tree/main/datasets) along with other input datasets used in the paper.
+We used [*Kaggle datasets*](https://www.kaggle.com/datasets) only as input queries. These datasets can be access [*HERE*](https://github.com/LUH-DBS/MATE/tree/main/datasets) along with other input datasets used in the paper.
 
 School corpus is used both as data lake and input query.
 
