@@ -401,12 +401,19 @@ class MATETableExtraction:
         print('BF Hash')
         self.run_system_bf(hash_size, False, True)
 
-    def SCI(self) -> None:
+    def SCR(self) -> None:
         """Runs SCI.
 
         """
         print('Linear')
         self.run_system(False, True)
+
+    def MCR(self, hash_size=128):
+    """Runs SCI.
+
+    """
+    print('Multi SCI')
+    self.run_system_multi_sci(False, True)
 
     def run_SCI_system(self, run_ics: bool = False, active_pruning: bool = True):
         """Runs SCI.
@@ -540,6 +547,100 @@ class MATETableExtraction:
         print(top_joinable_tables)
         print(len(top_joinable_tables))
         print('FP = {}'.format(total_approved - total_match))
+
+    def run_system_multi_sci(self, run_ics: bool = False, active_pruning: bool = True):
+        """Runs MCI.
+
+        Parameters
+        ----------
+        run_ics : bool
+            True to run ICS.
+
+        active_pruning : bool
+            True to enable activate pruning.
+        """
+        max_table_check = 500
+        g = self.input_data.groupby([self.query_columns[0]])
+        gd = {}
+        for key, item in g:
+            gd[key] = np.array(g.get_group(key))
+
+        fetching_start_1 = time.time()
+        table_row_1 = self.dbh.get_concatinated_posting_list(self.dataset_name, self.query_columns[0], self.input_data[self.query_columns[0]])
+        fetching_time_1 = time.time() - fetching_start_1
+
+        fetching_start_2 = time.time()
+        table_row_2 = self.dbh.get_concatinated_posting_list(self.dataset_name, self.query_columns[1], self.input_data[self.query_columns[1]])
+        fetching_time_2 = time.time() - fetching_start_2
+
+        evaluation_time_start = time.time()
+        joinability_dictionary = {}
+        table_dictionary_1 = {}
+        for i in table_row_1:
+            if str(i) == 'None':
+                continue
+            tableid = int(i.split(';')[0].split('_')[0])
+            if tableid in table_dictionary_1:
+                table_dictionary_1[tableid] += [i]
+            else:
+                table_dictionary_1[tableid] = [i]
+
+        table_dictionary_2 = {}
+        for i in table_row_2:
+            if str(i) == 'None':
+                continue
+            tableid = int(i.split(';')[0].split('_')[0])
+            if tableid in table_dictionary_2:
+                tablerowid_i = i.split(';')[0]
+                colid_i = i.split(';')[1].split('$')[0].split('_')[0]
+                token_i = i.split(';')[1].split('$')[0].split('_')[1]
+                if tablerowid_i in table_dictionary_2[tableid]:
+                    table_dictionary_2[tableid][tablerowid_i] += [[colid_i, token_i]]
+                else:
+                    table_dictionary_2[tableid][tablerowid_i] = [[colid_i, token_i]]
+            else:
+                tablerowid_i = i.split(';')[0]
+                colid_i = i.split(';')[1].split('$')[0].split('_')[0]
+                token_i = i.split(';')[1].split('$')[0].split('_')[1]
+                table_dictionary_2[tableid] = {}
+                table_dictionary_2[tableid][tablerowid_i] = [[colid_i, token_i]]
+
+        for tableid in sorted(table_dictionary_1, key=lambda k: len(table_dictionary_1[k]), reverse=True)[:max_table_check]:
+            for i in table_dictionary_1[tableid]:
+                tablerowid_1 = i.split(';')[0]
+                # rowid_1 = tablerowid_1.split('_')[1]
+                colid_1 = i.split(';')[1].split('$')[0].split('_')[0]
+                token_1 = i.split(';')[1].split('$')[0].split('_')[1]
+
+                if tableid in table_dictionary_2 and tablerowid_1 in table_dictionary_2[tableid]:
+                    row_occurrences = table_dictionary_2[tableid][tablerowid_1] #list of [[colid, token]]
+                    for row_occurrence in row_occurrences:
+                        colid_2 = row_occurrence[0]
+                        token_2 = row_occurrence[1]
+                        relevant_rows = gd[token_1]
+                        for relevant_row in relevant_rows:
+                            if token_2 == relevant_row[1]:
+                                if '{}_{}_{}'.format(tableid, colid_1, colid_2) in joinability_dictionary:
+                                    joinability_dictionary['{}_{}_{}'.format(tableid, colid_1, colid_2)] += 1
+                                else:
+                                    joinability_dictionary['{}_{}_{}'.format(tableid, colid_1, colid_2)] = 1
+
+        top_joinables = sorted(joinability_dictionary, key=lambda k: joinability_dictionary[k], reverse=True)[:self.top_k]
+        ll = []
+        for x in top_joinables:
+            ll += [joinability_dictionary[x]]
+        if len(ll)>0:
+            joinability_average = np.average(ll)
+        else:
+            joinability_average = 0
+
+        evaluation_time = time.time() - evaluation_time_start
+
+        print(top_joinables)
+        
+        info_to_store = 'fetching_time_1 = {}, fetching_time_2 = {}, evaluation_time = {}, joinability_average = {} , '.format(fetching_time_1, fetching_time_2, evaluation_time, joinability_average)
+        lg = logger(self.dataset_name)
+        lg.log(self.log_file_name, info_to_store, 'Dataset: {}'.format(self.dataset_name), self.log_file_name)
 
     def run_system(self,
                    hash_function: Any,
