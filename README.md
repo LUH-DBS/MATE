@@ -24,6 +24,16 @@ obtain *J = 5*.
 
 <img src="./img/MATE_1.png" alt="MATE running example" width="80%" title="MATE: Running example">
 
+## Datasets
+
+Three categories of datasets are used in our paper either as query dataset or corpus of tables from which we extract the candidate joinable tables. These categories are: 1- Webtables, 2- German Open data, and 3- Kaggle datasets.
+
+For webtables, we used [*Dresden WebTable Corpus*](https://wwwdb.inf.tu-dresden.de/misc/dwtc/). To download the whole corpus, one could use the following command:
+
+ ```shell
+ for i in $(seq -w 0 500); do wget http://wwwdb.inf.tu-dresden.de/misc/dwtc/data_feb15/dwtc-$i.json.gz; done
+ ```
+
 ## Setup
 
 Having the traditional inverted index defined in the [*DataXFormer paper*](https://cs.uwaterloo.ca/~ilyas/papers/AbedjanICDE16.pdf),
