@@ -409,11 +409,11 @@ class MATETableExtraction:
         self.run_system(False, True)
 
     def MCR(self, hash_size=128):
-    """Runs SCI.
+        """Runs SCI.
 
-    """
-    print('Multi SCI')
-    self.run_system_multi_sci(False, True)
+        """
+        print('Multi SCI')
+        self.run_system_multi_sci(False, True)
 
     def run_SCI_system(self, run_ics: bool = False, active_pruning: bool = True):
         """Runs SCI.
